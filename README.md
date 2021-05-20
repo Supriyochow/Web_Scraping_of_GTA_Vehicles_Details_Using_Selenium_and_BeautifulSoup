@@ -5,3 +5,6 @@ This is a project which webscrapes data from https://www.gtabase.com/grand-theft
 ## Modules Used  
 1. Selenium  
 2. BeautiFulSoup
+   
+  
+### The output file is [Car_Data_Filtered.csv](https://github.com/Supriyochow/Web_Scraping_of_GTA_Vehicles_Details_Using_Selenium_and_BeautifulSoup/blob/main/Car_Data_Filtered.csv), have a look into it. 
