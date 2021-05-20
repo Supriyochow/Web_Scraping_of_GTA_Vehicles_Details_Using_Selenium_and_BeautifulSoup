@@ -1,0 +1,8409 @@
+,Car Name,Vehicle Class Name,Manufacturer,Vehicle Features,Price,Top Speed,Number of Seats,Mass,Drive Train,Number of Gears,Release Date,Speed,Acceleration,Brakes,Handling,Overall
+1,Weaponized Dinghy,"
+Boats ","
+Nagasaki ","
+Armed Vehicle ","
+$1,850,000
+","
+77.67 mph (125.00 km/h)","
+		5	","
+2,100	KG
+",N/A,N/A,"
+		February 25, 2021	",N/A,N/A,N/A,N/A,N/A
+2,Verus,"
+Off-Road ","
+Dinka ","
+Armed Vehicle ","
+$192,000
+","
+71.46 mph (115.00 km/h)","
+		2	","
+750	KG
+",AWD,"
+		5	","
+		February 18, 2021	",N/A,N/A,N/A,N/A,N/A
+3,Squaddie,"
+SUVs ","
+Mammoth ","
+Armed Vehicle ","
+$1,130,000
+","
+83.89 mph (135.00 km/h)","
+		4	","
+2,750	KG
+",AWD,"
+		5	","
+		February 4, 2021	",69.75,42.5,10,60.61,"45.71
+"
+4,Vetir,"
+Military ","
+Mammoth ","
+Armed Vehicle ","
+$1,630,000
+","
+62.14 mph (100.00 km/h)","
+		10	","
+5,680	KG
+",RWD,"
+		5	","
+		January 28, 2021	",53.66,27.5,10,46.06,"34.3
+"
+5,Slamtruck,"
+Utility ","
+Vapid ","
+Armed Vehicle ","
+$1,310,000
+","
+77.67 mph (125.00 km/h)","
+		2	","
+6,000	KG
+",RWD,"
+		4	","
+		January 21, 2021	",75.12,50,26.67,71.21,"55.75
+"
+6,Manchez Scout,"
+Motorcycles ","
+Maibatsu ","
+Armed Vehicle ","
+$225,000
+","
+80.78 mph (130.00 km/h)","
+		1	","
+160	KG
+",RWD,"
+		5	","
+		January 14, 2021	",69.75,66.25,26.67,65,"56.92
+"
+7,Brioso 300,"
+Compacts ","
+Grotti ","
+Armed Vehicle ","
+$610,000
+","
+71.46 mph (115.00 km/h)","
+		2	","
+650	KG
+",RWD,"
+		4	","
+		December 22, 2020	",62,45,8.67,56,"42.92
+"
+8,Weevil,"
+Compacts ","
+BF ","
+Armed Vehicle ","
+$870,000
+","
+83.89 mph (135.00 km/h)","
+		2	","
+820	KG
+",RWD,"
+		4	","
+		December 22, 2020	",72.43,47,8.67,53.94,"45.51
+"
+9,Itali RSX,"
+Sports ","
+Grotti ","
+Armed Vehicle ","
+$3,465,000
+","
+101.38 mph (163.15 km/h)","
+		2	","
+1,600	KG
+",AWD,"
+		8	","
+		December 22, 2020	",87.54,100,45,100,"83.13
+"
+10,Veto Modern (Go-Kart),"
+Sports ","
+Dinka ","
+Armed Vehicle ","
+$995,000
+","
+49.71 mph (80.00 km/h)","
+		1	","
+600	KG
+",RWD,"
+		1	","
+		December 22, 2020	",42.92,100,13.33,88.64,"61.22
+"
+11,Veto Classic (Go-Kart),"
+Sports ","
+Dinka ","
+Armed Vehicle ","
+$895,000
+","
+46.60 mph (75.00 km/h)","
+		1	","
+450	KG
+",RWD,"
+		1	","
+		December 18, 2020	",40.24,100,11.67,86.36,"59.57
+"
+12,Kosatka (Submarine HQ),"
+BoatsMilitary ","
+RUNE ","
+Armed VehicleCommand CenterSubmersible ","
+$2,200,000
+","
+46.60 mph (75.00 km/h)","
+		1	","
+20,000	KG
+",RWD,"
+		1	","
+		December 15, 2020	",46.3,30.88,11.67,0,"25.73
+"
+13,Toreador,"
+Sports Classics ","
+Pegassi ","
+SubmersibleRocket Boost ","
+$3,660,000
+","
+93.21 mph (150.00 km/h)","
+		4	","
+1,600	KG
+",RWD,"
+		5	","
+		December 15, 2020	",80.48,75,33.33,74.24,"65.76
+"
+14,Sparrow,"
+Helicopters ","
+Pegassi ","
+Armed Vehicle ","
+$1,815,000
+","
+99.42 mph (160.00 km/h)","
+		2	","
+800	KG
+",RWD,"
+		5	","
+		December 15, 2020	",100,100,33.33,100,"100
+"
+15,Avisa,"
+Boats ","
+Kraken Submersibles ","
+Submersible ","
+$1,545,000
+","
+46.60 mph (75.00 km/h)","
+		4	","
+2,000	KG
+",RWD,"
+		5	","
+		December 15, 2020	",46.3,61.76,33.33,0,"36.02
+"
+16,Kurtz 31 Patrol Boat,"
+Boats ","
+Kraken Submersibles ","
+Armed Vehicle ","
+$2,955,000
+","
+74.56 mph (120.00 km/h)","
+		4	","
+2,500	KG
+",RWD,"
+		5	","
+		December 15, 2020	",74.07,76.47,33.33,80,"57.64
+"
+17,Longfin,"
+Boats ","
+Shitzu ","
+Armed Vehicle ","
+$2,125,000
+","
+86.99 mph (140.00 km/h)","
+		4	","
+7,000	KG
+",RWD,"
+		5	","
+		December 15, 2020	",86.42,100,33.33,60,"82.14
+"
+18,Annihilator Stealth,"
+Helicopters ","
+Western Company ","
+Armed VehicleStealth Mode ","
+$3,870,000
+","
+99.42 mph (160.00 km/h)","
+		6	","
+13,000	KG
+",RWD,"
+		5	","
+		December 15, 2020	",91.02,96.43,33.33,76.15,"87.87
+"
+19,RO-86 Alkonost,"
+Planes ","
+Western Company ","
+Armed Vehicle ","
+$4,350,000
+","
+174.92 mph (281.50 km/h)","
+		10	","
+55,500	KG
+",RWD,"
+		5	","
+		December 15, 2020	",90.5,69,62.45,0.59,"55.64
+"
+20,Winky,"
+Off-Road ","
+Vapid ","
+Armed Vehicle ","
+$1,100,000
+","
+55.92 mph (90.00 km/h)","
+		3	","
+1,113	KG
+",AWD,"
+		5	","
+		December 15, 2020	",48.29,37.5,8.67,56,"37.61
+"
+21,Gauntlet Classic Custom,"
+Muscle ","
+Bravado ","
+Custom Vehicle ","
+$815,000
+","
+98.18 mph (158.00 km/h)","
+		2	","
+1,700	KG
+",RWD,"
+		4	","
+		August 11, 2020	",84.78,72.5,30,68.18,"63.86
+"
+22,Yosemite Rancher,"
+Off-Road ","
+Declasse ","
+Custom Vehicle ","
+$700,000
+","
+86.37 mph (139.00 km/h)","
+		2	","
+1,400	KG
+",AWD,"
+		4	","
+		August 11, 2020	",74.58,68.75,16,63.64,"55.74
+"
+23,Youga Classic 4x4,"
+Vans ","
+Bravado ","
+Custom Vehicle ","
+$1,288,000
+","
+74.56 mph (120.00 km/h)","
+		4	","
+2,700	KG
+",RWD,"
+		5	","
+		August 11, 2020	",64.39,42.5,10,59.09,"43.99
+"
+24,Glendale Custom,"
+Sedans ","
+Benefactor ","
+Custom Vehicle ","
+$520,000
+","
+91.96 mph (148.00 km/h)","
+		4	","
+1,550	KG
+",RWD,"
+		5	","
+		August 11, 2020	",79.41,58.25,20.83,62.12,"55.15
+"
+25,Peyote Custom,"
+Sports Classics ","
+Vapid ","
+Custom Vehicle ","
+$620,000
+","
+86.99 mph (140.00 km/h)","
+		2	","
+2,250	KG
+",RWD,"
+		4	","
+		August 11, 2020	",75.12,51.25,9.33,60,"48.93
+"
+26,Manana Custom,"
+Muscle ","
+Albany ","
+Custom Vehicle ","
+$925,000
+","
+87.92 mph (141.50 km/h)","
+		2	","
+2,000	KG
+",RWD,"
+		4	","
+		August 11, 2020	",75.92,60,9.17,60,"51.27
+"
+27,Beater Dukes,"
+Muscle ","
+Imponte ","
+Custom Vehicle ","
+$378,000
+","
+89.48 mph (144.00 km/h)","
+		2	","
+1,550	KG
+",RWD,"
+		5	","
+		August 11, 2020	",77.26,78.75,25,66.67,"61.92
+"
+28,Seminole Frontier,"
+SUVs ","
+Canis ","
+Custom Vehicle ","
+$678,000
+","
+80.78 mph (130.00 km/h)","
+		4	","
+2,200	KG
+",AWD,"
+		4	","
+		August 11, 2020	",69.75,50,26.67,60.61,"51.76
+"
+29,Landstalker XL,"
+SUVs ","
+Dundreary ","
+Custom Vehicle ","
+$1,220,000
+","
+83.89 mph (135.00 km/h)","
+		4	","
+2,500	KG
+",AWD,"
+		5	","
+		August 11, 2020	",72.43,47.5,26.67,65.15,"52.94
+"
+30,Penumbra FF,"
+Sports ","
+Maibatsu ","
+Custom Vehicle ","
+$1,380,000
+","
+88.23 mph (142.00 km/h)","
+		2	","
+1,300	KG
+",AWD,"
+		5	","
+		August 11, 2020	",76.19,75,26.67,71.21,"62.27
+"
+31,Club,"
+Compacts ","
+BF ","
+Custom Vehicle ","
+$1,280,000
+","
+86.99 mph (140.00 km/h)","
+		2	","
+950	KG
+",FWD,"
+		4	","
+		August 11, 2020	",75.12,59.38,24,62.12,"55.15
+"
+32,Coquette D10,"
+Sports ","
+Invetero ","
+Custom Vehicle ","
+$1,510,000
+","
+99.42 mph (160.00 km/h)","
+		2	","
+1,600	KG
+",RWD,"
+		8	","
+		August 11, 2020	",85.85,80,20,100,"71.46
+"
+33,Tigon,"
+Super ","
+Lampadati ","
+Custom Vehicle ","
+$2,310,000
+","
+100.10 mph (161.10 km/h)","
+		2	","
+1,250	KG
+",RWD,"
+		7	","
+		August 11, 2020	",86.44,94.88,37.33,100,"79.66
+"
+34,DR1 (IndyCar),"
+Open Wheel ","
+Declasse ","
+KERS Boost ","
+$2,997,000
+","
+101.13 mph (162.75 km/h)","
+		1	","
+750	KG
+",RWD,"
+		6	","
+		August 11, 2020	",87.32,100,38.33,96.73,"80.6
+"
+35,BR8 (Formula 1 Car),"
+Open Wheel ","
+Benefactor ","
+KERS Boost ","
+$3,400,000
+","
+100.97 mph (162.50 km/h)","
+		1	","
+550	KG
+",RWD,"
+		6	","
+		August 11, 2020	",87.19,100,43.33,100,"82.63
+"
+36,Stryder,"
+Motorcycles ","
+Nagasaki ","
+KERS Boost ","
+$670,000
+","
+80.78 mph (130.00 km/h)","
+		2	","
+401	KG
+",RWD,"
+		6	","
+		March 5, 2020	",69.75,90,40,74.24,"68.5
+"
+37,PR4 (Formula 1 Car),"
+Open Wheel ","
+Progen ","
+KERS Boost ","
+$3,515,000
+","
+100.97 mph (162.50 km/h)","
+		1	","
+505	KG
+",RWD,"
+		6	","
+		February 27, 2020	",87.19,100,41.67,100,"82.21
+"
+38,R88 (Formula 1 Car),"
+Open Wheel ","
+Ocelot ","
+KERS Boost ","
+$3,115,000
+","
+100.97 mph (162.50 km/h)","
+		1	","
+585	KG
+",RWD,"
+		6	","
+		February 27, 2020	",87.19,100,41.67,98.95,"81.95
+"
+39,Blista Kanjo,"
+Compacts ","
+Dinka ","
+KERS Boost ","
+$580,000
+","
+86.99 mph (140.00 km/h)","
+		2	","
+1,150	KG
+",FWD,"
+		5	","
+		February 20, 2020	",75.12,80,16.67,59.7,"57.87
+"
+40,Sugoi,"
+Sports ","
+Dinka ","
+KERS Boost ","
+$1,224,000
+","
+96.93 mph (156.00 km/h)","
+		4	","
+1,380	KG
+",FWD,"
+		6	","
+		February 13, 2020	",83.7,77.5,28.33,100,"72.38
+"
+41,Drift Yosemite,"
+Muscle ","
+Declasse ","
+KERS Boost ","
+$1,308,000
+","
+86.99 mph (140.00 km/h)","
+		2	","
+1,200	KG
+",RWD,"
+		6	","
+		February 6, 2020	",75.12,98.75,28.33,79.55,"70.44
+"
+42,V-STR,"
+Sports ","
+Albany ","
+KERS Boost ","
+$1,285,000
+","
+98.95 mph (159.25 km/h)","
+		4	","
+1,878	KG
+",RWD,"
+		8	","
+		January 30, 2020	",85.45,94.75,20.83,78.18,"69.8
+"
+43,Outlaw,"
+Off-Road ","
+Nagasaki ","
+KERS Boost ","
+$1,268,000
+","
+72.70 mph (117.00 km/h)","
+		2	","
+850	KG
+",AWD,"
+		3	","
+		January 23, 2020	",62.78,100,20,61.36,"61.04
+"
+44,Sultan Classic,"
+Sports ","
+Karin ","
+KERS Boost ","
+$1,718,000
+","
+90.10 mph (145.00 km/h)","
+		4	","
+1,100	KG
+",AWD,"
+		5	","
+		January 16, 2020	",77.8,82.5,16.67,75.61,"63.14
+"
+45,Imorgon,"
+Sports ","
+Overflod ","
+Electric Vehicle ","
+$2,165,000
+","
+92.27 mph (148.50 km/h)","
+		2	","
+1,600	KG
+",AWD,"
+		2	","
+		January 9, 2020	",79.68,100,27.83,100,"76.88
+"
+46,Zhaba,"
+Off-Road ","
+RUNE ","
+Float on Water ","
+$2,400,000
+","
+57.48 mph (92.50 km/h)","
+		4	","
+1,600	KG
+",AWD,"
+		5	","
+		January 2, 2020	",49.63,45,26.67,57.58,"44.72
+"
+47,JB 700W,"
+Sports Classics ","
+Dewbauchee ","
+Weaponized VehicleArmed Vehicle ","
+$1,470,000
+","
+93.21 mph (150.00 km/h)","
+		2	","
+1,600	KG
+",RWD,"
+		5	","
+		December 26, 2019	",80.48,65,20,65.15,"57.66
+"
+48,Invade and Persuade RC Tank,"
+Military ","
+Dewbauchee ","
+Armed VehicleRemote Controlled Vehicle ","
+$2,275,000
+","
+22.99 mph (37.00 km/h)","
+		2	","
+500	KG
+",AWD,"
+		1	","
+		December 25, 2019	",20,15,5,61,"25.25
+"
+49,Furia,"
+Super ","
+Grotti ","
+Armed VehicleRemote Controlled Vehicle ","
+$2,740,000
+","
+100.17 mph (161.20 km/h)","
+		2	","
+1,898	KG
+",AWD,"
+		6	","
+		December 19, 2019	",86.49,91.25,33.33,81.82,"73.22
+"
+50,Rebla GTS,"
+SUVs ","
+Übermacht ","
+Armed VehicleRemote Controlled Vehicle ","
+$1,175,000
+","
+97.87 mph (157.50 km/h)","
+		4	","
+2,185	KG
+",AWD,"
+		8	","
+		December 12, 2019	",84.51,83.75,28.33,66.52,"65.78
+"
+51,Komoda,"
+Sports ","
+Lampadati ","
+Armed VehicleRemote Controlled Vehicle ","
+$1,700,000
+","
+96.93 mph (156.00 km/h)","
+		4	","
+1,575	KG
+",RWD,"
+		6	","
+		December 12, 2019	",83.7,91.75,31.67,81.52,"72.16
+"
+52,Asbo,"
+Compacts ","
+Maxwell ","
+Armed VehicleRemote Controlled Vehicle ","
+$408,000
+","
+78.29 mph (126.00 km/h)","
+		2	","
+1,030	KG
+",FWD,"
+		5	","
+		December 12, 2019	",67.61,58.5,15.67,58.18,"49.99
+"
+53,Retinue Mk II,"
+Sports Classics ","
+Vapid ","
+Armed VehicleRemote Controlled Vehicle ","
+$1,620,000
+","
+90.10 mph (145.00 km/h)","
+		2	","
+950	KG
+",RWD,"
+		4	","
+		December 12, 2019	",77.8,69.38,24,62.12,"58.32
+"
+54,Everon,"
+Off-Road ","
+Karin ","
+Armed VehicleRemote Controlled Vehicle ","
+$1,475,000
+","
+84.51 mph (136.00 km/h)","
+		4	","
+3,250	KG
+",AWD,"
+		6	","
+		December 12, 2019	",72.97,73.75,10,62.12,"54.71
+"
+55,Vagrant,"
+Off-Road ","
+Maxwell ","
+Armed VehicleRemote Controlled Vehicle ","
+$2,214,000
+","
+92.99 mph (149.65 km/h)","
+		2	","
+670	KG
+",RWD,"
+		6	","
+		December 12, 2019	",80.29,83.13,20.83,71.21,"63.87
+"
+56,Peyote Gasser,"
+Muscle ","
+Vapid ","
+Armed VehicleRemote Controlled Vehicle ","
+$805,000
+","
+92.27 mph (148.50 km/h)","
+		2	","
+2,100	KG
+",RWD,"
+		5	","
+		November 28, 2019	",79.68,86.13,30,68.48,"66.07
+"
+57,Novak,"
+SUVs ","
+Lampadati ","
+Armed VehicleRemote Controlled Vehicle ","
+$608,000
+","
+95.07 mph (153.00 km/h)","
+		4	","
+2,100	KG
+",AWD,"
+		8	","
+		November 7, 2019	",82.09,75,26.67,69.7,"63.36
+"
+58,Rampant Rocket Tricycle,"
+Motorcycles ","
+Western ","
+Armed VehicleRemote Controlled Vehicle ","
+$925,000
+","
+88.23 mph (142.00 km/h)","
+		1	","
+1,140	KG
+",RWD,"
+		3	","
+		October 31, 2019	",76.19,95.5,33.33,63.64,"67.16
+"
+59,Zorrusso,"
+Super ","
+Pegassi ","
+Armed VehicleRemote Controlled Vehicle ","
+$1,925,000
+","
+100.04 mph (161.00 km/h)","
+		2	","
+1,300	KG
+",RWD,"
+		6	","
+		October 24, 2019	",86.38,93.63,40,100,"80
+"
+60,Dynasty,"
+Sports Classics ","
+Weeny ","
+Armed VehicleRemote Controlled Vehicle ","
+$450,000
+","
+73.32 mph (118.00 km/h)","
+		4	","
+1,100	KG
+",RWD,"
+		5	","
+		October 17, 2019	",63.31,45,13.33,51.52,"43.29
+"
+61,Jugular,"
+Sports ","
+Ocelot ","
+Armed VehicleRemote Controlled Vehicle ","
+$1,225,000
+","
+97.87 mph (157.50 km/h)","
+		4	","
+1,745	KG
+",AWD,"
+		8	","
+		October 10, 2019	",84.51,94.5,36.67,100,"78.92
+"
+62,Hellion,"
+Off-Road ","
+Annis ","
+Armed VehicleRemote Controlled Vehicle ","
+$835,000
+","
+82.95 mph (133.50 km/h)","
+		2	","
+1,900	KG
+",AWD,"
+		5	","
+		October 3, 2019	",71.63,62.5,10,60.61,"51.18
+"
+63,Zion Classic,"
+Sports Classics ","
+Übermacht ","
+Armed VehicleRemote Controlled Vehicle ","
+$812,000
+","
+92.58 mph (149.00 km/h)","
+		2	","
+1,450	KG
+",RWD,"
+		4	","
+		September 19, 2019	",79.95,76.25,28.33,71.21,"63.94
+"
+64,Krieger,"
+Super ","
+Benefactor ","
+Armed VehicleRemote Controlled Vehicle ","
+$2,875,000
+","
+100.54 mph (161.80 km/h)","
+		2	","
+1,250	KG
+",AWD,"
+		7	","
+		September 12, 2019	",86.81,93.5,37.33,100,"79.41
+"
+65,Gauntlet Hellfire,"
+Muscle ","
+Bravado ","
+Armed VehicleRemote Controlled Vehicle ","
+$745,000
+","
+96.31 mph (155.00 km/h)","
+		2	","
+1,940	KG
+",RWD,"
+		5	","
+		September 5, 2019	",83.17,90,30,71.21,"68.59
+"
+66,Locust,"
+Sports ","
+Ocelot ","
+Armed VehicleRemote Controlled Vehicle ","
+$1,625,000
+","
+96.13 mph (154.70 km/h)","
+		2	","
+920	KG
+",RWD,"
+		6	","
+		August 29, 2019	",83,83.5,33.33,100,"74.96
+"
+67,Nebula Turbo,"
+Sports Classics ","
+Vulcar ","
+Armed VehicleRemote Controlled Vehicle ","
+$797,000
+","
+85.75 mph (138.00 km/h)","
+		2	","
+1,320	KG
+",RWD,"
+		4	","
+		August 22, 2019	",74.04,60,16.67,59.09,"52.45
+"
+68,Emerus,"
+Super ","
+Progen ","
+Armed VehicleRemote Controlled Vehicle ","
+$2,750,000
+","
+100.23 mph (161.30 km/h)","
+		2	","
+1,198	KG
+",RWD,"
+		7	","
+		August 15, 2019	",86.55,94.5,40,100,"80.26
+"
+69,Gauntlet Classic,"
+Muscle ","
+Bravado ","
+Armed VehicleRemote Controlled Vehicle ","
+$615,000
+","
+88.23 mph (142.00 km/h)","
+		2	","
+1,350	KG
+",RWD,"
+		5	","
+		August 8, 2019	",76.19,70,30,75.76,"62.99
+"
+70,Neo,"
+Sports ","
+Vysser ","
+Armed VehicleRemote Controlled Vehicle ","
+$1,875,000
+","
+99.95 mph (160.85 km/h)","
+		2	","
+1,390	KG
+",AWD,"
+		6	","
+		August 1, 2019	",86.3,96.75,40,79.39,"75.61
+"
+71,Caracara 4x4,"
+Off-Road ","
+Vapid ","
+Armed VehicleRemote Controlled Vehicle ","
+$875,000
+","
+85.75 mph (138.00 km/h)","
+		4	","
+2,480	KG
+",AWD,"
+		6	","
+		July 23, 2019	",74.04,67.5,10,62.12,"53.42
+"
+72,Issi Sport,"
+Sports ","
+Weeny ","
+Armed VehicleRemote Controlled Vehicle ","
+$897,000
+","
+91.96 mph (148.00 km/h)","
+		2	","
+1,000	KG
+",AWD,"
+		6	","
+		July 23, 2019	",79.41,76.25,33.33,100,"72.25
+"
+73,8F Drafter,"
+Sports ","
+Obey ","
+Armed VehicleRemote Controlled Vehicle ","
+$718,000
+","
+93.21 mph (150.00 km/h)","
+		2	","
+1,650	KG
+",AWD,"
+		6	","
+		July 23, 2019	",80.48,85.5,33.33,81.67,"70.25
+"
+74,Paragon R (Armored),"
+Sports ","
+Enus ","
+Armed VehicleArmored Vehicle ","
+$718,000
+","
+99.42 mph (160.00 km/h)","
+		2	","
+2,555	KG
+",AWD,"
+		8	","
+		July 23, 2019	",85.85,81.88,31.67,81.06,"70.11
+"
+75,Paragon R,"
+Sports ","
+Enus ","
+Armed VehicleArmored Vehicle ","
+$905,000
+","
+99.36 mph (159.90 km/h)","
+		2	","
+2,415	KG
+",AWD,"
+		8	","
+		July 23, 2019	",85.79,82.25,33.33,81.06,"70.61
+"
+76,S80RR,"
+Super ","
+Annis ","
+Armed VehicleArmored Vehicle ","
+$2,575,000
+","
+100.82 mph (162.25 km/h)","
+		1	","
+900	KG
+",RWD,"
+		6	","
+		July 23, 2019	",87.06,93.13,41.67,100,"80.46
+"
+77,Thrax,"
+Super ","
+Truffade ","
+Armed VehicleArmored Vehicle ","
+$2,325,000
+","
+98.49 mph (158.50 km/h)","
+		2	","
+1,960	KG
+",AWD,"
+		7	","
+		July 23, 2019	",85.04,85.04,40,100,"77.52
+"
+78,Deveste Eight,"
+Super ","
+Principe ","
+Armed VehicleArmored Vehicle ","
+$1,795,000
+","
+105.63 mph (170.00 km/h)","
+		2	","
+2,300	KG
+",RWD,"
+		6	","
+		February 21, 2019	",91.21,100,33.33,82.58,"76.78
+"
+79,Vamos,"
+Muscle ","
+Declasse ","
+Armed VehicleArmored Vehicle ","
+$596,000
+","
+90.10 mph (145.00 km/h)","
+		2	","
+1,380	KG
+",RWD,"
+		4	","
+		February 14, 2019	",77.8,82.5,16.67,68.18,"61.29
+"
+80,Deviant,"
+Muscle ","
+Schyster ","
+Armed VehicleArmored Vehicle ","
+$512,000
+","
+90.10 mph (145.00 km/h)","
+		2	","
+1,500	KG
+",RWD,"
+		4	","
+		February 7, 2019	",77.8,72.5,16.67,68.18,"58.79
+"
+81,RC Bandito,"
+Off-Road ","
+Schyster ","
+Remote Controlled Vehicle ","
+$1,590,000
+","
+49.71 mph (80.00 km/h)","
+		2	","
+85	KG
+",AWD,"
+		1	","
+		January 29, 2019	",42,35,25,90,"48
+"
+82,Schlagen GT,"
+Sports ","
+Benefactor ","
+Remote Controlled Vehicle ","
+$1,300,000
+","
+98.92 mph (159.20 km/h)","
+		2	","
+1,550	KG
+",RWD,"
+		7	","
+		January 22, 2019	",85.42,92.5,26.67,100,"76.15
+"
+83,Tulip,"
+Muscle ","
+Declasse ","
+Remote Controlled Vehicle ","
+$718,000
+","
+91.65 mph (147.50 km/h)","
+		4	","
+1,545	KG
+",RWD,"
+		4	","
+		January 15, 2019	",79.14,80,16.67,68.18,"61
+"
+84,Itali GTO,"
+Sports ","
+Grotti ","
+Remote Controlled Vehicle ","
+$1,965,000
+","
+100.17 mph (161.20 km/h)","
+		2	","
+1,520	KG
+",AWD,"
+		6	","
+		December 26, 2018	",86.49,100,36.67,79.39,"75.64
+"
+85,Clique,"
+Muscle ","
+Vapid ","
+Remote Controlled Vehicle ","
+$909,000
+","
+93.21 mph (150.00 km/h)","
+		2	","
+1,250	KG
+",RWD,"
+		4	","
+		December 25, 2018	",80.48,75,28.33,71.21,"63.76
+"
+86,Toros,"
+SUVs ","
+Pegassi ","
+Remote Controlled Vehicle ","
+$498,000
+","
+96.31 mph (155.00 km/h)","
+		4	","
+2,200	KG
+",AWD,"
+		8	","
+		December 18, 2018	",83.17,80,26.67,69.7,"64.88
+"
+87,ZR380 (Arena),"
+Sports ","
+Annis ","
+Armed VehicleRocket BoostArena Contender ","
+$2,138,640
+","
+98.18 mph (158.00 km/h)","
+		2	","
+1,600	KG
+",RWD,"
+		6	","
+		December 11, 2018	",84.78,87.5,26.67,75.76,"68.67
+"
+88,Imperator (Arena),"
+Muscle ","
+Vapid ","
+Armed VehicleRocket BoostArena Contender ","
+$2,284,940
+","
+93.21 mph (150.00 km/h)","
+		2	","
+2,000	KG
+",RWD,"
+		4	","
+		December 11, 2018	",80.48,91.25,16.67,68.18,"64.15
+"
+89,Scarab (Arena),"
+Military ","
+HVY ","
+Armed VehicleRocket BoostArena Contender ","
+$3,076,290
+","
+62.14 mph (100.00 km/h)","
+		2	","
+5,000	KG
+",AWD,"
+		1	","
+		December 11, 2018	",53.66,25,23.33,68.18,"42.54
+"
+90,Brutus (Arena),"
+Off-Road ","
+Declasse ","
+Armed VehicleRocket BoostArena Contender ","
+$2,666,650
+","
+86.99 mph (140.00 km/h)","
+		2	","
+3,500	KG
+",AWD,"
+		8	","
+		December 11, 2018	",75.12,67.5,20,60.61,"55.81
+"
+91,Cerberus (Arena),"
+Commercial ","
+MTL ","
+Armed VehicleRocket BoostArena Contender ","
+$3,870,300
+","
+75.81 mph (122.00 km/h)","
+		2	","
+6,500	KG
+",RWD,"
+		3	","
+		December 11, 2018	",65.46,47.5,8.33,48.48,"42.44
+"
+92,Issi (Arena),"
+Compacts ","
+Weeny ","
+Custom VehicleArmed VehicleRocket BoostArena Contender ","
+$1,089,000
+","
+86.99 mph (140.00 km/h)","
+		2	","
+1,200	KG
+",RWD,"
+		4	","
+		December 11, 2018	",75.12,85,13.33,60.61,"58.51
+"
+93,Deathbike (Arena),"
+Motorcycles ","
+Western ","
+Custom VehicleArmed VehicleRocket BoostArena Contender ","
+$1,269,000
+","
+91.34 mph (147.00 km/h)","
+		1	","
+135	KG
+",RWD,"
+		4	","
+		December 11, 2018	",78.87,78.13,36.67,62.12,"63.95
+"
+94,Slamvan (Arena),"
+Muscle ","
+Vapid ","
+Custom VehicleArmed VehicleRocket BoostArena Contender ","
+$1,321,875
+","
+84.20 mph (135.50 km/h)","
+		2	","
+1,245	KG
+",RWD,"
+		4	","
+		December 11, 2018	",72.7,67.5,13.33,56.06,"52.4
+"
+95,Sasquatch (Arena),"
+Off-Road ","
+Bravado ","
+Custom VehicleArmed VehicleRocket BoostArena Contender ","
+$1,530,875
+","
+80.78 mph (130.00 km/h)","
+		2	","
+4,400	KG
+",AWD,"
+		3	","
+		December 11, 2018	",69.75,100,21.67,68.94,"65.09
+"
+96,Bruiser (Arena),"
+Off-Road ","
+Benefactor ","
+Custom VehicleArmed VehicleRocket BoostArena Contender ","
+$1,609,000
+","
+80.78 mph (130.00 km/h)","
+		4	","
+6,000	KG
+",RWD,"
+		5	","
+		December 11, 2018	",69.75,65,16.67,53.03,"51.11
+"
+97,Dominator (Arena),"
+Muscle ","
+Vapid ","
+Custom VehicleArmed VehicleRocket BoostArena Contender ","
+$1,132,000
+","
+93.21 mph (150.00 km/h)","
+		2	","
+1,550	KG
+",RWD,"
+		5	","
+		December 11, 2018	",80.48,93.75,26.67,71.21,"68.03
+"
+98,Impaler (Arena),"
+Muscle ","
+Declasse ","
+Custom VehicleArmed VehicleRocket BoostArena Contender ","
+$1,209,500
+","
+96.31 mph (155.00 km/h)","
+		2	","
+1,400	KG
+",RWD,"
+		5	","
+		December 11, 2018	",83.17,95,23.33,72.73,"68.56
+"
+99,Impaler,"
+Muscle ","
+Declasse ","
+Custom VehicleArmed VehicleRocket BoostArena Contender ","
+$331,835
+","
+93.83 mph (151.00 km/h)","
+		2	","
+1,550	KG
+",RWD,"
+		4	","
+		December 11, 2018	",81.02,77.5,20,71.21,"62.43
+"
+100,Freecrawler,"
+Off-Road ","
+Canis ","
+Custom VehicleArmed VehicleRocket BoostArena Contender ","
+$597,000
+","
+83.89 mph (135.00 km/h)","
+		4	","
+2,000	KG
+",AWD,"
+		4	","
+		September 4, 2018	",72.43,60,10,62.12,"51.14
+"
+101,Menacer,"
+Off-Road ","
+HVY ","
+Weaponized VehicleArmed Vehicle ","
+$1,775,000
+","
+80.78 mph (130.00 km/h)","
+		5	","
+5,600	KG
+",AWD,"
+		6	","
+		August 28, 2018	",69.75,50,20,60.61,"50.09
+"
+102,Scramjet,"
+Super ","
+Declasse ","
+Weaponized VehicleArmed VehicleRocket Boost ","
+$4,628,400
+","
+99.42 mph (160.00 km/h)","
+		2	","
+1,600	KG
+",RWD,"
+		6	","
+		August 21, 2018	",85.85,100,31.67,81.82,"74.83
+"
+103,Oppressor Mk II,"
+Motorcycles ","
+Pegassi ","
+Weaponized VehicleSpecial VehicleArmed VehicleFlying AbilityHover AbilityRocket Boost ","
+$3,890,250
+","
+91.96 mph (148.00 km/h)","
+		1	","
+220	KG
+",RWD,"
+		1	","
+		August 14, 2018	",79.41,95,40,63.64,"69.51
+"
+104,Terrorbyte,"
+CommercialMilitary ","
+Benefactor ","
+Armed VehicleCommand Center ","
+$1,375,000
+","
+74.56 mph (120.00 km/h)","
+		4	","
+10,000	KG
+",RWD,"
+		6	","
+		August 14, 2018	",64.39,40,8.33,59.09,"42.95
+"
+105,B-11 Strikeforce,"
+Planes ","
+Benefactor ","
+Armed Vehicle ","
+$3,800,000
+","
+158.20 mph (254.60 km/h)","
+		1	","
+14,000	KG
+",RWD,"
+		6	","
+		August 7, 2018	",77.46,80,61.97,2.08,"55.38
+"
+106,Stafford,"
+Sedans ","
+Enus ","
+Armed Vehicle ","
+$1,272,000
+","
+74.56 mph (120.00 km/h)","
+		4	","
+2,110	KG
+",RWD,"
+		4	","
+		July 31, 2018	",64.39,50,15,60.61,"47.5
+"
+107,Blimp,"
+Planes ","
+Enus ","
+Armed Vehicle ","
+$1,190,350
+","
+99.42 mph (160.00 km/h)","
+		4	","
+2,110	KG
+",RWD,"
+		4	","
+		July 31, 2018	",48.69,31,1.82,7.45,"22.24
+"
+108,Speedo Custom,"
+Vans ","
+Vapid ","
+Special Vehicle ","
+$1,190,350
+","
+80.78 mph (130.00 km/h)","
+		4	","
+2,500	KG
+",RWD,"
+		5	","
+		July 24, 2018	",69.75,50,21.67,57.58,"49.75
+"
+109,Festival Bus,"
+Service ","
+Vapid ","
+Special Vehicle ","
+$1,842,050
+","
+55.92 mph (90.00 km/h)","
+		4	","
+2,500	KG
+",RWD,"
+		5	","
+		July 24, 2018	",48.29,27.5,8.33,34.85,"29.74
+"
+110,Patriot Stretch,"
+SUVs ","
+Mammoth ","
+Special Vehicle ","
+$611,800
+","
+80.78 mph (130.00 km/h)","
+		6	","
+5,500	KG
+",RWD,"
+		5	","
+		July 24, 2018	",69.75,45,10.67,48.48,"43.48
+"
+111,Pounder Custom,"
+Commercial ","
+MTL ","
+Special Vehicle ","
+$320,530
+","
+74.56 mph (120.00 km/h)","
+		8	","
+5,500	KG
+",RWD,"
+		4	","
+		July 24, 2018	",64.39,40,8.33,51.52,"41.06
+"
+112,Mule Custom,"
+Commercial ","
+Maibatsu ","
+Special Vehicle ","
+$95,760
+","
+62.14 mph (100.00 km/h)","
+		4	","
+6,000	KG
+",RWD,"
+		5	","
+		July 24, 2018	",53.66,27.5,8.33,45.45,"33.74
+"
+113,Swinger,"
+Sports Classics ","
+Ocelot ","
+Special Vehicle ","
+$909,000
+","
+99.42 mph (160.00 km/h)","
+		2	","
+900	KG
+",RWD,"
+		5	","
+		July 24, 2018	",83.17,97.5,31.67,72.73,"71.26
+"
+114,Jester Classic,"
+Sports ","
+Dinka ","
+Special Vehicle ","
+$790,000
+","
+96.93 mph (156.00 km/h)","
+		2	","
+1,600	KG
+",RWD,"
+		5	","
+		July 24, 2018	",83.7,80,31.67,78.03,"68.35
+"
+115,Michelli GT,"
+Sports Classics ","
+Lampadati ","
+Special Vehicle ","
+$1,225,000
+","
+86.99 mph (140.00 km/h)","
+		2	","
+840	KG
+",RWD,"
+		5	","
+		June 5, 2018	",75.12,70.63,25,69.7,"60.11
+"
+116,Cheburek,"
+Sports Classics ","
+RUNE ","
+Special Vehicle ","
+$145,000
+","
+86.99 mph (140.00 km/h)","
+		4	","
+1,100	KG
+",RWD,"
+		5	","
+		June 5, 2018	",75.12,66.25,26.67,68.18,"59.05
+"
+117,Tyrant,"
+Super ","
+Overflod ","
+Special Vehicle ","
+$2,515,000
+","
+102.53 mph (165.00 km/h)","
+		2	","
+1,175	KG
+",RWD,"
+		6	","
+		May 8, 2018	",88.53,85,33.33,100,"76.72
+"
+118,Dominator GTX,"
+Muscle ","
+Vapid ","
+Special Vehicle ","
+$725,000
+","
+90.41 mph (145.50 km/h)","
+		2	","
+1,670	KG
+",RWD,"
+		5	","
+		May 8, 2018	",78.07,83.75,16.67,77.88,"64.09
+"
+119,Sea Sparrow,"
+Helicopters ","
+Vapid ","
+Armed VehicleFloat on Water ","
+$1,815,000
+","
+99.42 mph (160.00 km/h)","
+		2	","
+3,500	KG
+",RWD,"
+		5	","
+		April 17, 2018	",76.75,94.64,16.67,94.18,"88.53
+"
+120,Issi Classic,"
+Compacts ","
+Weeny ","
+Armed VehicleFloat on Water ","
+$360,000
+","
+77.67 mph (125.00 km/h)","
+		2	","
+650	KG
+",FWD,"
+		4	","
+		April 17, 2018	",67.07,65,10,60.61,"50.67
+"
+121,Flash GT,"
+Sports ","
+Vapid ","
+Armed VehicleFloat on Water ","
+$1,675,000
+","
+94.45 mph (152.00 km/h)","
+		2	","
+1,200	KG
+",AWD,"
+		6	","
+		April 17, 2018	",81.56,80,33.33,100,"73.72
+"
+122,Caracara,"
+Off-Road ","
+Vapid ","
+Weaponized VehicleArmed Vehicle ","
+$1,775,000
+","
+83.89 mph (135.00 km/h)","
+		5	","
+3,500	KG
+",AWD,"
+		5	","
+		April 3, 2018	",72.43,75,9,68.18,"56.15
+"
+123,Tezeract,"
+Super ","
+Pegassi ","
+Electric Vehicle ","
+$2,825,000
+","
+105.01 mph (169.00 km/h)","
+		2	","
+1,800	KG
+",AWD,"
+		1	","
+		March 27, 2018	",90.68,91.5,40,100,"80.55
+"
+124,Ellie,"
+Muscle ","
+Vapid ","
+Electric Vehicle ","
+$565,000
+","
+87.30 mph (140.50 km/h)","
+		2	","
+1,370	KG
+",RWD,"
+		5	","
+		March 27, 2018	",75.39,81.25,16.67,77.27,"62.64
+"
+125,GB200,"
+Sports ","
+Vapid ","
+Electric Vehicle ","
+$940,000
+","
+94.45 mph (152.00 km/h)","
+		2	","
+1,180	KG
+",AWD,"
+		6	","
+		March 20, 2018	",81.56,78.75,33.33,100,"73.41
+"
+126,Taipan,"
+Super ","
+Cheval ","
+Electric Vehicle ","
+$1,980,000
+","
+105.79 mph (170.25 km/h)","
+		2	","
+1,400	KG
+",RWD,"
+		6	","
+		March 20, 2018	",91.35,89.25,33.33,100,"78.48
+"
+127,Entity XXR,"
+Super ","
+Overflod ","
+Electric Vehicle ","
+$2,305,000
+","
+105.63 mph (170.00 km/h)","
+		2	","
+1,400	KG
+",RWD,"
+		6	","
+		March 20, 2018	",91.21,88.75,33.33,100,"78.32
+"
+128,Fagaloa,"
+Sports Classics ","
+Vulcar ","
+Electric Vehicle ","
+$335,000
+","
+74.56 mph (120.00 km/h)","
+		4	","
+1,100	KG
+",RWD,"
+		3	","
+		March 20, 2018	",64.39,52.5,25.83,71.97,"53.67
+"
+129,Hotring Sabre,"
+Sports ","
+Declasse ","
+Electric Vehicle ","
+$830,000
+","
+98.80 mph (159.00 km/h)","
+		2	","
+1,508	KG
+",RWD,"
+		4	","
+		March 20, 2018	",85.31,83.75,23.33,77.27,"67.42
+"
+130,Comet SR,"
+Sports ","
+Pfister ","
+Electric Vehicle ","
+$1,145,000
+","
+97.87 mph (157.50 km/h)","
+		2	","
+1,550	KG
+",RWD,"
+		6	","
+		February 27, 2018	",86.12,90,40,100,"79.03
+"
+131,190z,"
+Sports Classics ","
+Karin ","
+Electric Vehicle ","
+$900,000
+","
+86.99 mph (140.00 km/h)","
+		2	","
+1,100	KG
+",RWD,"
+		5	","
+		February 20, 2018	",75.12,67.5,31.67,69.7,"61
+"
+132,Hustler,"
+Muscle ","
+Vapid ","
+Electric Vehicle ","
+$625,000
+","
+86.99 mph (140.00 km/h)","
+		2	","
+1,000	KG
+",RWD,"
+		5	","
+		February 13, 2018	",75.12,75,14.33,59.09,"55.89
+"
+133,Kamacho,"
+Off-Road ","
+Canis ","
+Electric Vehicle ","
+$345,000
+","
+83.26 mph (134.00 km/h)","
+		4	","
+2,350	KG
+",AWD,"
+		5	","
+		February 6, 2018	",71.9,63.75,10,60.61,"51.56
+"
+134,Neon,"
+Sports ","
+Pfister ","
+Electric Vehicle ","
+$1,500,000
+","
+97.24 mph (156.50 km/h)","
+		4	","
+2,000	KG
+",AWD,"
+		1	","
+		January 30, 2018	",83.97,62.62,43.33,68.94,"64.72
+"
+135,Revolter,"
+Sports ","
+Übermacht ","
+Weaponized VehicleArmed Vehicle ","
+$1,610,000
+","
+86.99 mph (140.00 km/h)","
+		4	","
+2,600	KG
+",AWD,"
+		6	","
+		January 23, 2018	",75.12,87.5,26.67,68.18,"64.37
+"
+136,GT500,"
+Sports Classics ","
+Grotti ","
+Weaponized VehicleArmed Vehicle ","
+$785,000
+","
+87.12 mph (140.20 km/h)","
+		2	","
+800	KG
+",RWD,"
+		5	","
+		January 16, 2018	",75.22,72.5,25.67,66.67,"60.01
+"
+137,Viseris,"
+Sports Classics ","
+Lampadati ","
+Weaponized VehicleArmed Vehicle ","
+$875,000
+","
+96.62 mph (155.50 km/h)","
+		2	","
+1,400	KG
+",RWD,"
+		5	","
+		January 9, 2018	",83.43,75,26.67,69.7,"63.7
+"
+138,Savestra,"
+Sports Classics ","
+Annis ","
+Weaponized VehicleArmed Vehicle ","
+$990,000
+","
+86.99 mph (140.00 km/h)","
+		2	","
+880	KG
+",RWD,"
+		4	","
+		January 2, 2018	",75.12,59.38,23.33,62.12,"54.99
+"
+139,Autarch,"
+Super ","
+Overflod ","
+Weaponized VehicleArmed Vehicle ","
+$1,955,000
+","
+100.04 mph (161.00 km/h)","
+		2	","
+1,300	KG
+",RWD,"
+		6	","
+		December 26, 2017	",86.38,94.25,40,100,"80.16
+"
+140,Hermes,"
+Muscle ","
+Albany ","
+Weaponized VehicleArmed Vehicle ","
+$535,000
+","
+85.13 mph (137.00 km/h)","
+		2	","
+1,300	KG
+",RWD,"
+		4	","
+		December 25, 2017	",73.51,71.25,25.83,71.97,"60.64
+"
+141,Streiter,"
+Sports ","
+Benefactor ","
+Weaponized VehicleArmed Vehicle ","
+$500,000
+","
+86.99 mph (140.00 km/h)","
+		4	","
+2,010	KG
+",AWD,"
+		6	","
+		December 22, 2017	",75.12,53.13,26.67,63.03,"54.48
+"
+142,Sentinel Classic,"
+Sports ","
+Übermacht ","
+Weaponized VehicleArmed Vehicle ","
+$650,000
+","
+86.99 mph (140.00 km/h)","
+		2	","
+1,100	KG
+",RWD,"
+		5	","
+		December 19, 2017	",75.12,66.25,26.67,68.18,"59.05
+"
+143,Avenger,"
+PlanesMilitary ","
+Mammoth ","
+Weaponized VehicleArmed VehicleCommand CenterHover Ability ","
+$3,450,000
+","
+155.34 mph (250.00 km/h)","
+		5	","
+18,000	KG
+",RWD,"
+		5	","
+		December 12, 2017	",76.07,47.32,45,1.65,"42.51
+"
+144,Thruster Jetpack,"
+Military ","
+Mammoth ","
+Weaponized VehicleSpecial VehicleArmed VehicleHover Ability ","
+$3,657,500
+","
+99.42 mph (160.00 km/h)","
+		1	","
+301	KG
+",RWD,"
+		5	","
+		December 12, 2017	",99.37,100,45,100,"99.79
+"
+145,Deluxo,"
+Sports Classics ","
+Imponte ","
+Weaponized VehicleSpecial VehicleArmed VehicleFlying AbilityFloat on WaterHover Ability ","
+$4,721,500
+","
+86.99 mph (140.00 km/h)","
+		2	","
+1,600	KG
+",RWD,"
+		4	","
+		December 12, 2017	",75.12,56.88,23.33,62.12,"54.36
+"
+146,Stromberg,"
+Sports Classics ","
+Ocelot ","
+Weaponized VehicleSpecial VehicleArmed VehicleSubmersible ","
+$3,185,350
+","
+93.21 mph (150.00 km/h)","
+		2	","
+1,300	KG
+",RWD,"
+		6	","
+		December 12, 2017	",80.48,72.5,33.33,75.76,"65.52
+"
+147,TM-02 Khanjali Tank,"
+Military ","
+Ocelot ","
+Weaponized VehicleArmed VehicleArmored Vehicle ","
+$3,850,350
+","
+35.42 mph (57.00 km/h)","
+		4	","
+30,000	KG
+",AWD,"
+		1	","
+		December 12, 2017	",30.58,25,6.67,77.27,"34.88
+"
+148,RCV,"
+EmergencyVans ","
+Ocelot ","
+Weaponized VehicleArmed VehicleArmored Vehicle ","
+$3,125,500
+","
+77.67 mph (125.00 km/h)","
+		6	","
+12,500	KG
+",RWD,"
+		5	","
+		December 12, 2017	",67.07,40,10,53.03,"42.52
+"
+149,Chernobog,"
+Military ","
+HVY ","
+Weaponized VehicleArmed VehicleTowing Hitch ","
+$3,311,700
+","
+59.03 mph (95.00 km/h)","
+		2	","
+40,000	KG
+",AWD,"
+		5	","
+		December 12, 2017	",50.97,30,3.33,60.61,"36.23
+"
+150,Barrage,"
+Military ","
+HVY ","
+Weaponized VehicleArmed Vehicle ","
+$2,121,350
+","
+83.89 mph (135.00 km/h)","
+		4	","
+2,500	KG
+",AWD,"
+		5	","
+		December 12, 2017	",72.43,55.62,28.33,53.03,"52.36
+"
+151,Volatol,"
+Planes ","
+HVY ","
+Armed Vehicle ","
+$3,724,000
+","
+155.34 mph (250.00 km/h)","
+		4	","
+40,000	KG
+",AWD,"
+		5	","
+		December 12, 2017	",76.07,28.58,32.5,1.01,"34.54
+"
+152,Akula,"
+Helicopters ","
+HVY ","
+Armed VehicleStealth Mode ","
+$3,704,050
+","
+99.42 mph (160.00 km/h)","
+		4	","
+8,000	KG
+",AWD,"
+		5	","
+		December 12, 2017	",76.75,100,32.5,100,"92.25
+"
+153,SC1,"
+Super ","
+Übermacht ","
+Armed VehicleStealth Mode ","
+$1,603,000
+","
+98.80 mph (159.00 km/h)","
+		2	","
+1,400	KG
+",RWD,"
+		6	","
+		December 12, 2017	",85.31,77.5,37.33,80.3,"70.11
+"
+154,Raiden,"
+Sports ","
+Coil ","
+Electric Vehicle ","
+$1,375,000
+","
+97.09 mph (156.25 km/h)","
+		4	","
+2,100	KG
+",AWD,"
+		1	","
+		December 12, 2017	",83.84,61.25,43.33,65.15,"63.39
+"
+155,Pariah,"
+Sports ","
+Ocelot ","
+Electric Vehicle ","
+$1,420,000
+","
+96.37 mph (155.10 km/h)","
+		2	","
+1,500	KG
+",RWD,"
+		6	","
+		December 12, 2017	",83.22,80.25,33.33,79.55,"69.09
+"
+156,Comet Safari,"
+Sports ","
+Pfister ","
+Weaponized VehicleArmed Vehicle ","
+$710,000
+","
+94.45 mph (152.00 km/h)","
+		2	","
+1,150	KG
+",AWD,"
+		5	","
+		December 12, 2017	",81.56,73.13,26.67,63.64,"61.25
+"
+157,Yosemite,"
+Muscle ","
+Declasse ","
+Weaponized VehicleArmed Vehicle ","
+$485,000
+","
+85.13 mph (137.00 km/h)","
+		2	","
+1,300	KG
+",RWD,"
+		4	","
+		December 12, 2017	",73.51,71.25,25,71.97,"60.43
+"
+158,Riata,"
+Off-Road ","
+Vapid ","
+Weaponized VehicleArmed Vehicle ","
+$380,000
+","
+83.89 mph (135.00 km/h)","
+		2	","
+2,300	KG
+",AWD,"
+		4	","
+		December 12, 2017	",72.43,62.5,10,62.12,"51.76
+"
+159,FH-1 Hunter,"
+Helicopters ","
+Vapid ","
+Armed Vehicle ","
+$4,123,000
+","
+99.42 mph (160.00 km/h)","
+		2	","
+6,000	KG
+",AWD,"
+		4	","
+		November 21, 2017	",76.75,100,10,97.23,"91.33
+"
+160,Cyclone,"
+Super ","
+Coil ","
+Electric Vehicle ","
+$1,890,000
+","
+98.18 mph (158.00 km/h)","
+		2	","
+1,800	KG
+",AWD,"
+		1	","
+		November 14, 2017	",83.17,100,40,70,"73.29
+"
+161,P-45 Nokota,"
+Planes ","
+Coil ","
+Armed Vehicle ","
+$2,653,350
+","
+204.18 mph (328.60 km/h)","
+		1	","
+3,200	KG
+",FWD,"
+		1	","
+		November 7, 2017	",99.99,43.3,50,2.48,"48.94
+"
+162,Seabreeze,"
+Planes ","
+Western Company ","
+Armed VehicleFloat on WaterSubmersible ","
+$1,130,500
+","
+204.18 mph (328.60 km/h)","
+		2	","
+3,000	KG
+",FWD,"
+		1	","
+		October 31, 2017	",99.99,100,100,2.99,"75.75
+"
+163,Vigilante,"
+Super ","
+Grotti ","
+Weaponized VehicleSpecial VehicleArmed VehicleRocket Boost ","
+$3,750,000
+","
+99.43 mph (160.02 km/h)","
+		2	","
+7,500	KG
+",RWD,"
+		6	","
+		October 27, 2017	",72.43,65,20,63.64,"55.27
+"
+164,Pyro,"
+Planes ","
+Buckingham ","
+Armed Vehicle ","
+$4,455,500
+","
+204.18 mph (328.60 km/h)","
+		2	","
+4,000	KG
+",FWD,"
+		6	","
+		October 10, 2017	",99.99,62.99,57.5,5.56,"56.51
+"
+165,Mogul,"
+Planes ","
+Mammoth ","
+Armed Vehicle ","
+$3,125,500
+","
+171.81 mph (276.50 km/h)","
+		3	","
+5,000	KG
+",RWD,"
+		6	","
+		October 3, 2017	",84.14,25.24,30,1.51,"35.22
+"
+166,Howard NX-25,"
+Planes ","
+Buckingham ","
+Armed Vehicle ","
+$1,296,750
+","
+114.58 mph (184.40 km/h)","
+		1	","
+450	KG
+",FWD,"
+		6	","
+		September 26, 2017	",56.11,58.09,75,5.45,"48.67
+"
+167,RM-10 Bombushka,"
+Planes ","
+Buckingham ","
+Armed Vehicle ","
+$5,918,500
+","
+174.92 mph (281.50 km/h)","
+		6	","
+30,100	KG
+",RWD,"
+		6	","
+		September 19, 2017	",85.66,11,27.5,0,"31.04
+"
+168,Rapid GT Classic,"
+Sports Classics ","
+Dewbauchee ","
+Armed Vehicle ","
+$885,000
+","
+92.89 mph (149.50 km/h)","
+		2	","
+1,570	KG
+",RWD,"
+		5	","
+		September 12, 2017	",80.21,75,16.67,78.79,"62.67
+"
+169,Visione,"
+Super ","
+Grotti ","
+Armed Vehicle ","
+$2,250,000
+","
+99.42 mph (160.00 km/h)","
+		2	","
+1,400	KG
+",RWD,"
+		6	","
+		August 29, 2017	",86.33,92.5,37.33,91.69,"76.96
+"
+170,Retinue,"
+Sports Classics ","
+Vapid ","
+Armed Vehicle ","
+$615,000
+","
+86.99 mph (140.00 km/h)","
+		2	","
+900	KG
+",RWD,"
+		4	","
+		August 29, 2017	",72.43,72.5,16.67,62.12,"55.93
+"
+171,V-65 Molotok,"
+Planes ","
+Vapid ","
+Armed Vehicle ","
+$4,788,000
+","
+204.18 mph (328.60 km/h)","
+		1	","
+3,200	KG
+",FWD,"
+		4	","
+		August 29, 2017	",99.98,43.3,50,2.48,"48.94
+"
+172,Ultralight,"
+Planes ","
+Nagasaki ","
+Armed Vehicle ","
+$665,000
+","
+48.84 mph (78.60 km/h)","
+		1	","
+250	KG
+",FWD,"
+		4	","
+		August 29, 2017	",23.91,19,55,0.51,"24.61
+"
+173,Tula,"
+Planes ","
+Mammoth ","
+Armed VehicleFloat on Water ","
+$5,173,700
+","
+155.34 mph (250.00 km/h)","
+		5	","
+2,000	KG
+",RWD,"
+		4	","
+		August 29, 2017	",76.07,18.99,25,1.98,"30.51
+"
+174,Rogue,"
+Planes ","
+Western Company ","
+Armed Vehicle ","
+$1,596,000
+","
+204.18 mph (328.60 km/h)","
+		2	","
+4,200	KG
+",FWD,"
+		4	","
+		August 29, 2017	",99.98,54.77,50,5.55,"52.58
+"
+175,LF-22 Starling,"
+Planes ","
+Western Company ","
+Armed VehicleRocket Boost ","
+$3,657,500
+","
+176.72 mph (284.40 km/h)","
+		1	","
+2,000	KG
+",FWD,"
+		4	","
+		August 29, 2017	",86.54,58.19,62.5,2.67,"52.48
+"
+176,Alpha-Z1,"
+Planes ","
+Buckingham ","
+Armed VehicleRocket Boost ","
+$2,121,350
+","
+114.58 mph (184.40 km/h)","
+		1	","
+450	KG
+",FWD,"
+		4	","
+		August 29, 2017	",56.11,58.09,75,5.45,"48.66
+"
+177,Havok,"
+Helicopters ","
+Nagasaki ","
+Armed Vehicle ","
+$2,300,900
+","
+99.42 mph (160.00 km/h)","
+		1	","
+1,000	KG
+",FWD,"
+		4	","
+		August 29, 2017	",76.75,100,75,100,"92.25
+"
+178,Ardent,"
+Sports Classics ","
+Ocelot ","
+Weaponized VehicleArmed Vehicle ","
+$1,150,000
+","
+91.96 mph (148.00 km/h)","
+		2	","
+1,200	KG
+",RWD,"
+		5	","
+		August 22, 2017	",79.41,71.25,30,80.3,"65.24
+"
+179,XA-21,"
+Super ","
+Ocelot ","
+Weaponized VehicleArmed Vehicle ","
+$2,375,000
+","
+98.92 mph (159.20 km/h)","
+		2	","
+1,450	KG
+",AWD,"
+		6	","
+		August 15, 2017	",85.42,91,36.67,81.21,"73.57
+"
+180,Nightshark,"
+Off-Road ","
+HVY ","
+Weaponized VehicleArmed VehicleArmored VehicleTowing Hitch ","
+$1,245,000
+","
+86.99 mph (140.00 km/h)","
+		4	","
+4,400	KG
+",AWD,"
+		6	","
+		August 8, 2017	",75.12,67.5,25,63.64,"57.81
+"
+181,Insurgent Pick-up Custom,"
+Off-Road ","
+HVY ","
+Custom VehicleWeaponized VehicleArmed VehicleArmored VehicleTowing Hitch ","
+$202,500
+","
+80.78 mph (130.00 km/h)","
+		9	","
+8,600	KG
+",AWD,"
+		6	","
+		August 1, 2017	",69.75,60,20,60.61,"52.59
+"
+182,Torero,"
+Sports Classics ","
+Pegassi ","
+Custom VehicleWeaponized VehicleArmed VehicleArmored VehicleTowing Hitch ","
+$998,000
+","
+92.89 mph (149.50 km/h)","
+		2	","
+1,470	KG
+",RWD,"
+		5	","
+		July 25, 2017	",80.21,75,16.67,78.79,"62.67
+"
+183,Technical Custom,"
+Off-Road ","
+Karin ","
+Custom VehicleWeaponized VehicleArmed VehicleTowing Hitch ","
+$142,500
+","
+80.78 mph (130.00 km/h)","
+		3	","
+3,200	KG
+",AWD,"
+		5	","
+		July 18, 2017	",69.75,50,23.33,64.55,"51.91
+"
+184,Cheetah Classic,"
+Sports Classics ","
+Grotti ","
+Custom VehicleWeaponized VehicleArmed VehicleTowing Hitch ","
+$865,000
+","
+94.45 mph (152.00 km/h)","
+		2	","
+1,500	KG
+",RWD,"
+		5	","
+		July 11, 2017	",81.56,75,26.67,80.3,"65.88
+"
+185,Vagner,"
+Super ","
+Dewbauchee ","
+Custom VehicleWeaponized VehicleArmed VehicleTowing Hitch ","
+$1,535,000
+","
+99.98 mph (160.90 km/h)","
+		2	","
+1,000	KG
+",RWD,"
+		6	","
+		June 30, 2017	",86.33,92.5,37.33,91.69,"76.96
+"
+186,Mobile Operations Center (Trailer),"
+MilitaryUtility ","
+Dewbauchee ","
+Weaponized VehicleArmed VehicleCommand Center ","
+$1,535,000
+","
+99.98 mph (160.90 km/h)","
+		3	","
+13,500	KG
+",RWD,"
+		6	","
+		June 13, 2017	",86.33,92.5,37.33,91.69,"76.96
+"
+187,Caddy (Bunker),"
+Utility ","
+Nagasaki ","
+Electric Vehicle ","
+$120,000
+","
+40.39 mph (65.00 km/h)","
+		2	","
+600	KG
+",RWD,"
+		1	","
+		June 13, 2017	",34.88,75,6.67,43.94,"40.12
+"
+188,Dune FAV,"
+Off-Road ","
+BF ","
+Weaponized VehicleArmed Vehicle ","
+$1,130,500
+","
+83.89 mph (135.00 km/h)","
+		2	","
+1,800	KG
+",RWD,"
+		5	","
+		June 13, 2017	",72.43,62.5,21,66.67,"55.65
+"
+189,Weaponized Tampa,"
+Muscle ","
+Declasse ","
+Weaponized VehicleArmed Vehicle ","
+$2,108,050
+","
+90.10 mph (145.00 km/h)","
+		2	","
+1,400	KG
+",AWD,"
+		4	","
+		June 13, 2017	",77.8,82.5,16.67,68.18,"61.29
+"
+190,Oppressor,"
+Motorcycles ","
+Pegassi ","
+Weaponized VehicleSpecial VehicleArmed VehicleFlying AbilityRocket Boost ","
+$3,524,500
+","
+91.96 mph (148.00 km/h)","
+		1	","
+190	KG
+",RWD,"
+		5	","
+		June 13, 2017	",79.41,100,40,64.39,"70.95
+"
+191,Half-track,"
+Military ","
+Bravado ","
+Weaponized VehicleArmed VehicleArmored VehicleTowing Hitch ","
+$2,254,350
+","
+46.60 mph (75.00 km/h)","
+		3	","
+10,000	KG
+",RWD,"
+		4	","
+		June 13, 2017	",40.24,40,6.67,69.7,"39.15
+"
+192,APC Tank,"
+Military ","
+HVY ","
+Weaponized VehicleArmed VehicleArmored VehicleTowing HitchFloat on Water ","
+$3,092,250
+","
+60.27 mph (97.00 km/h)","
+		4	","
+10,600	KG
+",AWD,"
+		4	","
+		June 13, 2017	",52.05,52.5,6.67,72.73,"45.98
+"
+193,Anti-Aircraft Trailer,"
+Military ","
+Vom Feuer ","
+Weaponized VehicleSpecial VehicleArmed Vehicle ","
+$1,862,000
+","
+60.27 mph (97.00 km/h)","
+		1	","
+1,000	KG
+",RWD,"
+		4	","
+		June 13, 2017	",52.05,52.5,6.67,72.73,"45.98
+"
+194,Phantom Custom,"
+Commercial ","
+JoBuilt ","
+Armored VehicleTowing Hitch ","
+$1,225,000
+","
+80.78 mph (130.00 km/h)","
+		2	","
+12,000	KG
+",RWD,"
+		5	","
+		June 13, 2017	",69.75,75,28.33,62.12,"58.8
+"
+195,Hauler Custom,"
+Commercial ","
+JoBuilt ","
+Armored VehicleTowing Hitch ","
+$1,400,000
+","
+80.78 mph (130.00 km/h)","
+		2	","
+11,000	KG
+",RWD,"
+		5	","
+		June 13, 2017	",69.75,80,28.33,59.09,"59.29
+"
+196,Turismo Classic,"
+Sports Classics ","
+Grotti ","
+Armored VehicleTowing Hitch ","
+$705,000
+","
+94.76 mph (152.50 km/h)","
+		2	","
+1,100	KG
+",RWD,"
+		6	","
+		April 4, 2017	",81.82,85,16.67,80.3,"65.95
+"
+197,Infernus Classic,"
+Sports Classics ","
+Pegassi ","
+Armored VehicleTowing Hitch ","
+$915,000
+","
+92.89 mph (149.50 km/h)","
+		2	","
+1,400	KG
+",RWD,"
+		6	","
+		March 28, 2017	",80.21,82.5,16.67,79.85,"64.81
+"
+198,Ruston,"
+Sports ","
+Hijak ","
+Armored VehicleTowing Hitch ","
+$430,000
+","
+91.96 mph (148.00 km/h)","
+		2	","
+800	KG
+",RWD,"
+		5	","
+		March 21, 2017	",79.41,81.25,40,81.96,"70.65
+"
+199,GP1,"
+Super ","
+Progen ","
+Armored VehicleTowing Hitch ","
+$1,260,000
+","
+99.73 mph (160.50 km/h)","
+		2	","
+1,100	KG
+",RWD,"
+		6	","
+		March 14, 2017	",86.12,92.5,40,84.77,"75.85
+"
+200,Specter Custom,"
+Sports ","
+Dewbauchee ","
+Custom Vehicle ","
+$252,000
+","
+96.44 mph (155.20 km/h)","
+		2	","
+1,450	KG
+",RWD,"
+		6	","
+		January 17, 2017	",83.27,82.5,36.67,85.86,"72.08
+"
+201,Specter,"
+Sports ","
+Dewbauchee ","
+Custom Vehicle ","
+$599,000
+","
+96.31 mph (155.00 km/h)","
+		2	","
+1,550	KG
+",RWD,"
+		6	","
+		January 17, 2017	",83.17,80,33.33,79.39,"68.97
+"
+202,Itali GTB Custom,"
+Super ","
+Progen ","
+Custom Vehicle ","
+$495,000
+","
+98.92 mph (159.20 km/h)","
+		2	","
+1,600	KG
+",AWD,"
+		6	","
+		January 10, 2017	",85.42,85,40,81.33,"72.94
+"
+203,Itali GTB,"
+Super ","
+Progen ","
+Custom Vehicle ","
+$1,189,000
+","
+98.80 mph (159.00 km/h)","
+		2	","
+1,800	KG
+",AWD,"
+		6	","
+		January 10, 2017	",85.31,84.12,36.67,75.76,"70.47
+"
+204,FCR 1000 Custom,"
+Motorcycles ","
+Pegassi ","
+Custom Vehicle ","
+$196,000
+","
+87.12 mph (140.20 km/h)","
+		1	","
+200	KG
+",RWD,"
+		6	","
+		January 2, 2017	",75.22,77.5,41.67,65.15,"64.89
+"
+205,FCR 1000,"
+Motorcycles ","
+Pegassi ","
+Custom Vehicle ","
+$135,000
+","
+86.99 mph (140.00 km/h)","
+		1	","
+210	KG
+",RWD,"
+		6	","
+		January 2, 2017	",75.12,76.25,40,63.64,"63.75
+"
+206,Comet Retro Custom,"
+Sports ","
+Pfister ","
+Custom Vehicle ","
+$645,000
+","
+94.45 mph (152.00 km/h)","
+		2	","
+1,200	KG
+",RWD,"
+		5	","
+		December 23, 2016	",81.56,85,26.67,90.05,"70.82
+"
+207,Nero Custom,"
+Super ","
+Truffade ","
+Custom Vehicle ","
+$605,000
+","
+99.54 mph (160.20 km/h)","
+		2	","
+1,800	KG
+",AWD,"
+		6	","
+		December 20, 2016	",85.96,85.01,36.67,81.06,"72.17
+"
+208,Nero,"
+Super ","
+Truffade ","
+Custom Vehicle ","
+$1,440,000
+","
+99.42 mph (160.00 km/h)","
+		2	","
+1,995	KG
+",AWD,"
+		6	","
+		December 20, 2016	",85.85,84.38,33.33,80.3,"70.96
+"
+209,Boxville (Armored),"
+Vans ","
+Brute ","
+Special VehicleArmed VehicleArmored Vehicle ","
+$2,926,000
+","
+74.56 mph (120.00 km/h)","
+		5	","
+7,500	KG
+",RWD,"
+		5	","
+		December 13, 2016	",64.39,80,11.67,65.91,"55.49
+"
+210,Tempesta,"
+Super ","
+Pegassi ","
+Special VehicleArmed VehicleArmored Vehicle ","
+$1,329,000
+","
+97.56 mph (157.00 km/h)","
+		2	","
+1,422	KG
+",AWD,"
+		6	","
+		December 13, 2016	",84.24,90,33.33,80.3,"71.97
+"
+211,Rocket Voltic,"
+Super ","
+Coil ","
+Special VehicleElectric VehicleRocket Boost ","
+$3,830,400
+","
+90.10 mph (145.00 km/h)","
+		2	","
+1,200	KG
+",RWD,"
+		1	","
+		December 13, 2016	",77.8,45,33.33,76.67,"58.2
+"
+212,Penetrator,"
+Super ","
+Ocelot ","
+Special VehicleElectric VehicleRocket Boost ","
+$880,000
+","
+99.11 mph (159.50 km/h)","
+		2	","
+1,470	KG
+",AWD,"
+		5	","
+		December 13, 2016	",85.58,75,26.67,78.18,"66.36
+"
+213,Elegy Retro Custom,"
+Sports ","
+Annis ","
+Custom Vehicle ","
+$904,000
+","
+91.96 mph (148.00 km/h)","
+		2	","
+1,450	KG
+",AWD,"
+		5	","
+		December 13, 2016	",79.41,82.5,33.33,81.82,"69.27
+"
+214,Wastelander,"
+Service ","
+MTL ","
+Special Vehicle ","
+$658,350
+","
+77.67 mph (125.00 km/h)","
+		6	","
+7,000	KG
+",AWD,"
+		5	","
+		December 13, 2016	",67.07,82.5,20,69.7,"59.82
+"
+215,Technical Aqua,"
+Off-Road ","
+Karin ","
+Special VehicleArmed VehicleFloat on Water ","
+$1,489,600
+","
+80.78 mph (130.00 km/h)","
+		3	","
+3,200	KG
+",AWD,"
+		5	","
+		December 13, 2016	",69.75,62.5,23.33,64.55,"55.03
+"
+216,Ramp Buggy,"
+Off-Road ","
+BF ","
+Special Vehicle ","
+$3,192,000
+","
+93.21 mph (150.00 km/h)","
+		2	","
+1,000	KG
+",RWD,"
+		6	","
+		December 13, 2016	",80.48,80,33.33,85.92,"69.94
+"
+217,Blazer Aqua,"
+Off-Road ","
+Nagasaki ","
+Special VehicleArmed VehicleFloat on Water ","
+$1,755,600
+","
+77.67 mph (125.00 km/h)","
+		1	","
+550	KG
+",AWD,"
+		6	","
+		December 13, 2016	",67.07,68,33.33,81.82,"62.56
+"
+218,Ruiner 2000,"
+Muscle ","
+Imponte ","
+Special VehicleArmed Vehicle ","
+$5,745,600
+","
+94.45 mph (152.00 km/h)","
+		2	","
+1,300	KG
+",RWD,"
+		5	","
+		December 13, 2016	",81.56,82.5,33.33,63.64,"65.26
+"
+219,Diabolus Custom,"
+Motorcycles ","
+Principe ","
+Custom Vehicle ","
+$245,000
+","
+88.61 mph (142.60 km/h)","
+		1	","
+210	KG
+",RWD,"
+		6	","
+		December 13, 2016	",76.51,80,41.67,60.61,"64.7
+"
+220,Diabolus,"
+Motorcycles ","
+Principe ","
+Custom Vehicle ","
+$169,000
+","
+88.55 mph (142.50 km/h)","
+		1	","
+220	KG
+",RWD,"
+		6	","
+		December 13, 2016	",76.46,78,40,59.09,"63.39
+"
+221,Phantom Wedge,"
+Commercial ","
+JoBuilt ","
+Special VehicleTowing Hitch ","
+$2,553,600
+","
+80.78 mph (130.00 km/h)","
+		5	","
+14,000	KG
+",RWD,"
+		5	","
+		December 13, 2016	",69.75,75,28.33,59.09,"58.04
+"
+222,Youga Classic,"
+Vans ","
+Bravado ","
+Special VehicleTowing Hitch ","
+$195,000
+","
+74.56 mph (120.00 km/h)","
+		4	","
+2,500	KG
+",RWD,"
+		5	","
+		November 22, 2016	",64.39,35,10,54.55,"40.98
+"
+223,Esskey,"
+Motorcycles ","
+Pegassi ","
+Special VehicleTowing Hitch ","
+$264,000
+","
+90.10 mph (145.00 km/h)","
+		2	","
+190	KG
+",RWD,"
+		5	","
+		November 15, 2016	",77.8,73.75,40,65.15,"64.18
+"
+224,Shotaro,"
+Motorcycles ","
+Nagasaki ","
+Special VehicleTowing Hitch ","
+$2,225,000
+","
+99.11 mph (159.50 km/h)","
+		1	","
+230	KG
+",RWD,"
+		6	","
+		November 8, 2016	",85.58,100,46.67,81.82,"78.52
+"
+225,Tornado Rat Rod,"
+Sports Classics ","
+Declasse ","
+Special VehicleTowing Hitch ","
+$378,000
+","
+80.78 mph (130.00 km/h)","
+		2	","
+2,100	KG
+",RWD,"
+		4	","
+		November 1, 2016	",69.75,70,8.33,60.61,"52.17
+"
+226,Sanctus,"
+Motorcycles ","
+LCC ","
+Special VehicleTowing Hitch ","
+$1,995,000
+","
+89.48 mph (144.00 km/h)","
+		1	","
+250	KG
+",RWD,"
+		5	","
+		October 28, 2016	",77.26,100,33.33,59.09,"67.42
+"
+227,Vortex,"
+Motorcycles ","
+Pegassi ","
+Special VehicleTowing Hitch ","
+$356,000
+","
+91.96 mph (148.00 km/h)","
+		1	","
+190	KG
+",RWD,"
+		5	","
+		October 25, 2016	",79.41,100,40,65.15,"71.14
+"
+228,Raptor,"
+Sports ","
+BF ","
+Special VehicleTowing Hitch ","
+$648,000
+","
+86.99 mph (140.00 km/h)","
+		2	","
+500	KG
+",RWD,"
+		6	","
+		October 11, 2016	",75.12,73.75,40,78.79,"66.91
+"
+229,Daemon Custom,"
+Motorcycles ","
+Western ","
+Special VehicleTowing Hitch ","
+$145,000
+","
+83.89 mph (135.00 km/h)","
+		2	","
+250	KG
+",RWD,"
+		4	","
+		October 11, 2016	",72.43,65.5,20,56.06,"53.5
+"
+230,Street Blazer,"
+Off-Road ","
+Nagasaki ","
+Special VehicleTowing Hitch ","
+$81,000
+","
+77.67 mph (125.00 km/h)","
+		1	","
+550	KG
+",AWD,"
+		6	","
+		October 4, 2016	",67.07,62.5,33.33,81.82,"61.18
+"
+231,Zombie Chopper,"
+Motorcycles ","
+Western ","
+Special VehicleTowing Hitch ","
+$122,000
+","
+85.13 mph (137.00 km/h)","
+		2	","
+225	KG
+",RWD,"
+		5	","
+		October 4, 2016	",73.51,72.5,26.67,56.82,"57.37
+"
+232,Zombie Bobber,"
+Motorcycles ","
+Western ","
+Special VehicleTowing Hitch ","
+$99,000
+","
+85.13 mph (137.00 km/h)","
+		1	","
+225	KG
+",RWD,"
+		5	","
+		October 4, 2016	",73.51,72.5,26.67,56.82,"57.37
+"
+233,Wolfsbane,"
+Motorcycles ","
+Western ","
+Special VehicleTowing Hitch ","
+$95,000
+","
+80.78 mph (130.00 km/h)","
+		2	","
+180	KG
+",RWD,"
+		5	","
+		October 4, 2016	",69.75,53.75,40,50,"53.38
+"
+234,Rat Bike,"
+Motorcycles ","
+Western ","
+Special VehicleTowing Hitch ","
+$48,000
+","
+80.78 mph (130.00 km/h)","
+		2	","
+180	KG
+",RWD,"
+		5	","
+		October 4, 2016	",69.75,53.75,40,50,"53.38
+"
+235,Nightblade,"
+Motorcycles ","
+Western ","
+Special VehicleTowing Hitch ","
+$100,000
+","
+88.23 mph (142.00 km/h)","
+		2	","
+205	KG
+",RWD,"
+		5	","
+		October 4, 2016	",76.19,77.5,40,59.09,"63.2
+"
+236,Manchez,"
+Motorcycles ","
+Maibatsu ","
+Special VehicleTowing Hitch ","
+$67,000
+","
+90.10 mph (145.00 km/h)","
+		2	","
+190	KG
+",RWD,"
+		5	","
+		October 4, 2016	",77.8,73.75,40,65.15,"64.18
+"
+237,Hakuchou Drag Bike,"
+Motorcycles ","
+Shitzu ","
+Special VehicleTowing Hitch ","
+$976,000
+","
+98.80 mph (159.00 km/h)","
+		2	","
+270	KG
+",RWD,"
+		6	","
+		October 4, 2016	",85.31,100,46.67,87.88,"79.96
+"
+238,Faggio Sport,"
+Motorcycles ","
+Pegassi ","
+Special VehicleTowing Hitch ","
+$47,500
+","
+59.03 mph (95.00 km/h)","
+		2	","
+110	KG
+",RWD,"
+		3	","
+		October 4, 2016	",50.97,49.38,13.33,51.52,"41.3
+"
+239,Faggio Mod,"
+Motorcycles ","
+Pegassi ","
+Special VehicleTowing Hitch ","
+$55,000
+","
+55.92 mph (90.00 km/h)","
+		2	","
+100	KG
+",RWD,"
+		3	","
+		October 4, 2016	",48.29,28.75,13.33,51.52,"35.47
+"
+240,Defiler,"
+Motorcycles ","
+Shitzu ","
+Special VehicleTowing Hitch ","
+$412,000
+","
+91.96 mph (148.00 km/h)","
+		1	","
+200	KG
+",RWD,"
+		5	","
+		October 4, 2016	",79.41,100,40,65.15,"71.14
+"
+241,Chimera,"
+Motorcycles ","
+Nagasaki ","
+Special VehicleTowing Hitch ","
+$210,000
+","
+83.89 mph (135.00 km/h)","
+		1	","
+401	KG
+",RWD,"
+		4	","
+		October 4, 2016	",72.43,60,33.33,63.64,"57.35
+"
+242,Avarus,"
+Motorcycles ","
+LCC ","
+Special VehicleTowing Hitch ","
+$116,000
+","
+83.89 mph (135.00 km/h)","
+		1	","
+230	KG
+",RWD,"
+		5	","
+		October 4, 2016	",72.43,67.5,33.33,56.06,"57.33
+"
+243,Contender,"
+SUVs ","
+Vapid ","
+Special VehicleTowing Hitch ","
+$250,000
+","
+83.89 mph (135.00 km/h)","
+		4	","
+2,750	KG
+",AWD,"
+		5	","
+		July 26, 2016	",72.43,65,20,63.64,"55.27
+"
+244,Dune,"
+Off-RoadService ","
+MTL ","
+Special VehicleTowing Hitch ","
+$1,300,000
+","
+77.67 mph (125.00 km/h)","
+		2	","
+7,000	KG
+",AWD,"
+		5	","
+		July 26, 2016	",67.07,82.5,20,69.7,"59.82
+"
+245,Drift Tampa,"
+Sports ","
+Declasse ","
+Special VehicleTowing Hitch ","
+$995,000
+","
+93.21 mph (150.00 km/h)","
+		2	","
+1,100	KG
+",AWD,"
+		4	","
+		July 19, 2016	",80.48,82.5,16.67,68.18,"61.96
+"
+246,Lynx,"
+Sports ","
+Ocelot ","
+Special VehicleTowing Hitch ","
+$1,735,000
+","
+97.56 mph (157.00 km/h)","
+		2	","
+1,725	KG
+",RWD,"
+		6	","
+		July 19, 2016	",84.24,78.75,33.33,77.58,"68.48
+"
+247,Cliffhanger,"
+Motorcycles ","
+Western ","
+Special VehicleTowing Hitch ","
+$225,000
+","
+91.65 mph (147.50 km/h)","
+		2	","
+140	KG
+",RWD,"
+		4	","
+		July 19, 2016	",79.14,79.5,36.67,68.18,"65.87
+"
+248,Tyrus,"
+Super ","
+Progen ","
+Special VehicleTowing Hitch ","
+$2,550,000
+","
+100.04 mph (161.00 km/h)","
+		2	","
+915	KG
+",RWD,"
+		6	","
+		July 12, 2016	",86.38,92.75,40,90.9,"77.51
+"
+249,RE-7B,"
+Super ","
+Annis ","
+Special VehicleTowing Hitch ","
+$2,475,000
+","
+100.04 mph (161.00 km/h)","
+		2	","
+880	KG
+",RWD,"
+		6	","
+		July 12, 2016	",86.38,92.75,36.67,91.16,"76.74
+"
+250,ETR1,"
+Super ","
+Emperor ","
+Special VehicleTowing Hitch ","
+$1,995,000
+","
+98.49 mph (158.50 km/h)","
+		2	","
+1,400	KG
+",RWD,"
+		6	","
+		July 12, 2016	",85.04,82.5,33.33,88.73,"72.4
+"
+251,Tropos Rallye,"
+Sports ","
+Lampadati ","
+Special VehicleTowing Hitch ","
+$816,000
+","
+94.45 mph (152.00 km/h)","
+		2	","
+800	KG
+",RWD,"
+		6	","
+		July 12, 2016	",81.56,56.25,23.33,62.12,"55.82
+"
+252,Omnis,"
+Sports ","
+Obey ","
+Special VehicleTowing Hitch ","
+$701,000
+","
+94.45 mph (152.00 km/h)","
+		2	","
+1,090	KG
+",AWD,"
+		5	","
+		July 12, 2016	",81.56,76.25,33.33,64.85,"64
+"
+253,Trophy Truck,"
+Off-Road ","
+Vapid ","
+Special VehicleTowing Hitch ","
+$550,000
+","
+86.99 mph (140.00 km/h)","
+		2	","
+2,200	KG
+",AWD,"
+		5	","
+		July 12, 2016	",75.12,84.75,10,75.76,"61.41
+"
+254,Desert Raid,"
+Off-Road ","
+Vapid ","
+Special VehicleTowing Hitch ","
+$695,000
+","
+86.99 mph (140.00 km/h)","
+		2	","
+2,200	KG
+",AWD,"
+		5	","
+		July 12, 2016	",75.12,84.75,10,75.76,"61.41
+"
+255,Gargoyle,"
+Motorcycles ","
+Western ","
+Special VehicleTowing Hitch ","
+$120,000
+","
+91.34 mph (147.00 km/h)","
+		2	","
+135	KG
+",RWD,"
+		4	","
+		July 12, 2016	",78.87,78.13,36.67,68.18,"65.46
+"
+256,BF400,"
+MotorcyclesOff-Road ","
+Nagasaki ","
+Special VehicleTowing Hitch ","
+$95,000
+","
+90.10 mph (145.00 km/h)","
+		2	","
+150	KG
+",RWD,"
+		5	","
+		July 12, 2016	",77.8,72.5,36.67,65.15,"63.03
+"
+257,Brioso R/A,"
+Compacts ","
+Grotti ","
+Special VehicleTowing Hitch ","
+$155,000
+","
+83.89 mph (135.00 km/h)","
+		2	","
+850	KG
+",AWD,"
+		6	","
+		July 12, 2016	",72.43,72.5,20,69.7,"58.66
+"
+258,Seven-70,"
+Sports ","
+Dewbauchee ","
+Special VehicleTowing Hitch ","
+$695,000
+","
+98.80 mph (159.00 km/h)","
+		2	","
+1,650	KG
+",RWD,"
+		6	","
+		July 5, 2016	",85.31,83.75,33.33,77.58,"69.99
+"
+259,811,"
+Super ","
+Pfister ","
+Special VehicleTowing Hitch ","
+$1,135,000
+","
+98.98 mph (159.30 km/h)","
+		2	","
+1,600	KG
+",AWD,"
+		6	","
+		June 28, 2016	",85.47,89,37.33,81.45,"73.32
+"
+260,X80 Proto,"
+Super ","
+Grotti ","
+Special VehicleTowing Hitch ","
+$2,700,000
+","
+100.04 mph (161.00 km/h)","
+		2	","
+900	KG
+",AWD,"
+		6	","
+		June 21, 2016	",85.31,93.75,36.67,81.82,"74.39
+"
+261,Rumpo Custom,"
+Vans ","
+Bravado ","
+Special VehicleTowing Hitch ","
+$130,000
+","
+80.78 mph (130.00 km/h)","
+		4	","
+2,250	KG
+",AWD,"
+		5	","
+		June 7, 2016	",69.75,45,10,60.61,"46.34
+"
+262,XLS (Armored),"
+SUVs ","
+Benefactor ","
+Armored Vehicle ","
+$522,000
+","
+82.02 mph (132.00 km/h)","
+		4	","
+3,000	KG
+",AWD,"
+		6	","
+		June 7, 2016	",70.82,66.25,19.67,62.12,"54.72
+"
+263,XLS,"
+SUVs ","
+Benefactor ","
+Armored Vehicle ","
+$253,000
+","
+82.02 mph (132.00 km/h)","
+		4	","
+2,600	KG
+",AWD,"
+		6	","
+		June 7, 2016	",70.82,65,19.33,60.61,"53.94
+"
+264,Reaper,"
+Super ","
+Pegassi ","
+Armored Vehicle ","
+$1,595,000
+","
+98.80 mph (159.00 km/h)","
+		2	","
+1,300	KG
+",RWD,"
+		6	","
+		June 7, 2016	",85.31,91.25,36.67,80.91,"73.53
+"
+265,FMJ,"
+Super ","
+Vapid ","
+Armored Vehicle ","
+$1,750,000
+","
+98.43 mph (158.40 km/h)","
+		2	","
+1,315	KG
+",RWD,"
+		6	","
+		June 7, 2016	",84.99,91.38,36.67,81.82,"73.71
+"
+266,Bestia GTS,"
+Sports ","
+Grotti ","
+Armored Vehicle ","
+$610,000
+","
+96.31 mph (155.00 km/h)","
+		2	","
+1,800	KG
+",AWD,"
+		6	","
+		June 7, 2016	",83.17,80,33.33,73.33,"67.46
+"
+267,Brickade,"
+Service ","
+MTL ","
+Armored Vehicle ","
+$1,100,000
+","
+65.24 mph (105.00 km/h)","
+		6	","
+14,000	KG
+",AWD,"
+		5	","
+		June 7, 2016	",56.34,50,13.33,60.61,"45.07
+"
+268,Nimbus,"
+Planes ","
+Buckingham ","
+Armored Vehicle ","
+$1,900,000
+","
+203.93 mph (328.20 km/h)","
+		8	","
+6,500	KG
+",FWD,"
+		5	","
+		June 7, 2016	",99.86,41.5,42.98,13.4,"49.44
+"
+269,Volatus,"
+Helicopters ","
+Buckingham ","
+Armored Vehicle ","
+$2,295,000
+","
+99.42 mph (160.00 km/h)","
+		4	","
+8,000	KG
+",FWD,"
+		5	","
+		June 7, 2016	",76.75,98.21,42.98,97.97,"90.98
+"
+270,Windsor Drop,"
+Coupes ","
+Enus ","
+Convertible (Soft-top) ","
+$900,000
+","
+93.21 mph (150.00 km/h)","
+		4	","
+3,000	KG
+",RWD,"
+		5	","
+		June 7, 2016	",80.48,69.75,23.33,66.67,"60.06
+"
+271,Tug,"
+Boats ","
+Buckingham ","
+Convertible (Soft-top) ","
+$1,250,000
+","
+11.18 mph (18.00 km/h)","
+		1	","
+12,200	KG
+",RWD,"
+		5	","
+		June 7, 2016	",11.11,12.94,23.33,100,"41.35
+"
+272,Sabre Turbo Custom,"
+Muscle ","
+Declasse ","
+Custom Vehicle ","
+$490,000
+","
+86.99 mph (140.00 km/h)","
+		2	","
+1,300	KG
+",RWD,"
+		5	","
+		April 19, 2016	",75.12,70.5,27.33,68.48,"60.36
+"
+273,Minivan Custom,"
+Vans ","
+Vapid ","
+Custom Vehicle ","
+$330,000
+","
+77.67 mph (125.00 km/h)","
+		4	","
+2,200	KG
+",AWD,"
+		4	","
+		April 12, 2016	",67.07,37.5,15,58.33,"44.48
+"
+274,Tornado Custom,"
+Sports Classics ","
+Declasse ","
+Custom Vehicle ","
+$375,000
+","
+80.78 mph (130.00 km/h)","
+		2	","
+2,200	KG
+",RWD,"
+		4	","
+		April 4, 2016	",69.75,40.25,8.5,56.06,"43.64
+"
+275,Virgo Classic Custom,"
+Muscle ","
+Dundreary ","
+Custom Vehicle ","
+$240,000
+","
+83.26 mph (134.00 km/h)","
+		2	","
+2,300	KG
+",RWD,"
+		5	","
+		March 15, 2016	",71.9,52.5,23.33,62.12,"52.46
+"
+276,Virgo Classic,"
+Muscle ","
+Dundreary ","
+Custom Vehicle ","
+$165,000
+","
+83.26 mph (134.00 km/h)","
+		2	","
+2,200	KG
+",RWD,"
+		5	","
+		March 15, 2016	",71.9,52.75,24,63.64,"53.07
+"
+277,Slamvan Custom,"
+Muscle ","
+Vapid ","
+Custom Vehicle ","
+$415,000
+","
+83.89 mph (135.00 km/h)","
+		2	","
+1,400	KG
+",RWD,"
+		4	","
+		March 15, 2016	",72.43,62.5,20,71.21,"56.54
+"
+278,Faction Custom Donk,"
+Muscle ","
+Willard ","
+Custom Vehicle ","
+$695,000
+","
+86.99 mph (140.00 km/h)","
+		2	","
+1,400	KG
+",RWD,"
+		5	","
+		March 15, 2016	",75.12,50,26.67,71.21,"55.75
+"
+279,Roosevelt Valor,"
+Sports Classics ","
+Albany ","
+Custom Vehicle ","
+$982,000
+","
+77.67 mph (125.00 km/h)","
+		6	","
+2,420	KG
+",RWD,"
+		4	","
+		February 10, 2016	",67.07,67.5,18.33,63.64,"54.13
+"
+280,Sultan RS,"
+Super ","
+Karin ","
+Custom Vehicle ","
+$795,000
+","
+91.96 mph (148.00 km/h)","
+		2	","
+1,250	KG
+",AWD,"
+		5	","
+		January 28, 2016	",79.41,82.5,33.33,75.76,"67.75
+"
+281,Banshee 900R,"
+Super ","
+Bravado ","
+Custom Vehicle ","
+$565,000
+","
+93.21 mph (150.00 km/h)","
+		2	","
+1,150	KG
+",RWD,"
+		5	","
+		January 28, 2016	",80.48,86.88,33.33,75.76,"69.11
+"
+282,Tampa,"
+Muscle ","
+Declasse ","
+Custom Vehicle ","
+$375,000
+","
+86.99 mph (140.00 km/h)","
+		2	","
+1,200	KG
+",RWD,"
+		4	","
+		December 23, 2015	",75.12,67.5,26.67,68.18,"59.37
+"
+283,Baller LE LWB (Armored),"
+SUVs ","
+Gallivanter ","
+Armored Vehicle ","
+$513,000
+","
+83.89 mph (135.00 km/h)","
+		4	","
+2,550	KG
+",AWD,"
+		5	","
+		December 15, 2015	",72.43,66.25,18.33,60.61,"54.41
+"
+284,Baller LE LWB,"
+SUVs ","
+Gallivanter ","
+Armored Vehicle ","
+$247,000
+","
+83.89 mph (135.00 km/h)","
+		4	","
+2,450	KG
+",AWD,"
+		5	","
+		December 15, 2015	",72.43,67.5,19,60.61,"54.89
+"
+285,Baller LE (Armored),"
+SUVs ","
+Gallivanter ","
+Armored Vehicle ","
+$374,000
+","
+83.89 mph (135.00 km/h)","
+		4	","
+2,275	KG
+",AWD,"
+		5	","
+		December 15, 2015	",72.43,67.5,19.33,60.61,"54.97
+"
+286,Baller LE,"
+SUVs ","
+Gallivanter ","
+Armored Vehicle ","
+$149,000
+","
+83.89 mph (135.00 km/h)","
+		4	","
+2,175	KG
+",AWD,"
+		5	","
+		December 15, 2015	",72.43,68.75,20,60.61,"55.45
+"
+287,Mamba,"
+Sports Classics ","
+Declasse ","
+Armored Vehicle ","
+$995,000
+","
+91.96 mph (148.00 km/h)","
+		2	","
+1,160	KG
+",RWD,"
+		4	","
+		December 15, 2015	",79.41,85,16.67,75.76,"64.21
+"
+288,Verlierer,"
+Sports ","
+Bravado ","
+Armored Vehicle ","
+$695,000
+","
+93.21 mph (150.00 km/h)","
+		2	","
+1,100	KG
+",RWD,"
+		5	","
+		December 15, 2015	",80.48,83.75,33.33,73.64,"67.8
+"
+289,Schafter V12,"
+SedansSports ","
+Benefactor ","
+Armored Vehicle ","
+$116,000
+","
+93.21 mph (150.00 km/h)","
+		4	","
+1,500	KG
+",RWD,"
+		6	","
+		December 15, 2015	",80.48,75,31.67,77.27,"66.11
+"
+290,Schafter LWB,"
+SedansSports ","
+Benefactor ","
+Armored Vehicle ","
+$208,000
+","
+88.23 mph (142.00 km/h)","
+		4	","
+1,850	KG
+",RWD,"
+		5	","
+		December 15, 2015	",76.19,50,28.33,77.27,"57.95
+"
+291,Turreted Limo,"
+Sedans ","
+Benefactor ","
+Armed Vehicle ","
+$1,650,000
+","
+77.67 mph (125.00 km/h)","
+		6	","
+3,750	KG
+",RWD,"
+		4	","
+		December 15, 2015	",67.07,67.5,26.67,65.91,"56.79
+"
+292,Schafter V12 (Armored),"
+Sedans ","
+Benefactor ","
+Armored Vehicle ","
+$325,000
+","
+93.21 mph (150.00 km/h)","
+		4	","
+1,650	KG
+",RWD,"
+		6	","
+		December 15, 2015	",80.48,72.5,30.67,77.27,"65.23
+"
+293,Schafter LWB (Armored),"
+Sedans ","
+Benefactor ","
+Armored Vehicle ","
+$438,000
+","
+88.23 mph (142.00 km/h)","
+		4	","
+2,000	KG
+",RWD,"
+		5	","
+		December 15, 2015	",76.19,46.25,27.33,77.27,"56.76
+"
+294,Cognoscenti 55 (Armored),"
+Sedans ","
+Enus ","
+Armored Vehicle ","
+$396,000
+","
+90.10 mph (145.00 km/h)","
+		4	","
+2,600	KG
+",RWD,"
+		5	","
+		December 15, 2015	",77.8,65,18.33,66.67,"56.95
+"
+295,Cognoscenti 55,"
+Sedans ","
+Enus ","
+Armored Vehicle ","
+$154,000
+","
+90.10 mph (145.00 km/h)","
+		4	","
+2,500	KG
+",RWD,"
+		5	","
+		December 15, 2015	",77.8,66.25,19,66.25,"57.32
+"
+296,Cognoscenti (Armored),"
+Sedans ","
+Enus ","
+Armored Vehicle ","
+$558,000
+","
+86.99 mph (140.00 km/h)","
+		4	","
+2,800	KG
+",RWD,"
+		5	","
+		December 15, 2015	",75.12,63.75,17.33,63.64,"54.96
+"
+297,Cognoscenti,"
+Sedans ","
+Enus ","
+Armored Vehicle ","
+$254,000
+","
+86.99 mph (140.00 km/h)","
+		4	","
+2,700	KG
+",RWD,"
+		5	","
+		December 15, 2015	",75.12,65,18.33,63.64,"55.52
+"
+298,Nightshade,"
+Muscle ","
+Imponte ","
+Armored Vehicle ","
+$585,000
+","
+90.10 mph (145.00 km/h)","
+		2	","
+1,400	KG
+",RWD,"
+		5	","
+		December 15, 2015	",77.8,62.5,20,68.18,"57.12
+"
+299,SuperVolito Carbon,"
+Helicopters ","
+Buckingham ","
+Armored Vehicle ","
+$3,330,000
+","
+99.42 mph (160.00 km/h)","
+		4	","
+6,500	KG
+",RWD,"
+		5	","
+		December 15, 2015	",76.75,100,20,100,"92.25
+"
+300,SuperVolito,"
+Helicopters ","
+Buckingham ","
+Armored Vehicle ","
+$2,113,000
+","
+99.42 mph (160.00 km/h)","
+		4	","
+6,500	KG
+",RWD,"
+		5	","
+		December 15, 2015	",76.75,100,20,100,"92.25
+"
+301,Fränken Stange,"
+Sports Classics ","
+Albany ","
+Armored Vehicle ","
+$550,000
+","
+83.89 mph (135.00 km/h)","
+		4	","
+1,800	KG
+",RWD,"
+		4	","
+		October 29, 2015	",72.43,88.75,18.33,58.79,"59.58
+"
+302,Lurcher,"
+Muscle ","
+Albany ","
+Armored Vehicle ","
+$650,000
+","
+90.72 mph (146.00 km/h)","
+		2	","
+1,800	KG
+",RWD,"
+		5	","
+		October 29, 2015	",78.34,72.5,26.67,65.15,"60.66
+"
+303,Primo Custom,"
+Sedans ","
+Albany ","
+Custom Vehicle ","
+$400,000
+","
+86.99 mph (140.00 km/h)","
+		4	","
+1,800	KG
+",RWD,"
+		5	","
+		October 20, 2015	",75.12,50,30,71.21,"56.58
+"
+304,Voodoo Custom,"
+Muscle ","
+Declasse ","
+Custom Vehicle ","
+$420,000
+","
+80.78 mph (130.00 km/h)","
+		2	","
+2,100	KG
+",RWD,"
+		4	","
+		October 20, 2015	",69.75,45,23.33,56.06,"48.54
+"
+305,Moonbeam Custom,"
+Muscle ","
+Declasse ","
+Custom Vehicle ","
+$370,000
+","
+77.67 mph (125.00 km/h)","
+		4	","
+2,400	KG
+",RWD,"
+		4	","
+		October 20, 2015	",67.07,52.5,13.33,60.61,"48.38
+"
+306,Moonbeam,"
+Muscle ","
+Declasse ","
+Custom Vehicle ","
+$32,500
+","
+77.67 mph (125.00 km/h)","
+		4	","
+2,400	KG
+",RWD,"
+		4	","
+		October 20, 2015	",67.07,52.5,13.33,60.61,"48.38
+"
+307,Faction Custom,"
+Muscle ","
+Willard ","
+Custom Vehicle ","
+$335,000
+","
+86.99 mph (140.00 km/h)","
+		2	","
+1,200	KG
+",RWD,"
+		5	","
+		October 20, 2015	",75.12,70,26.67,68.18,"59.99
+"
+308,Faction,"
+Muscle ","
+Willard ","
+Custom Vehicle ","
+$36,000
+","
+86.99 mph (140.00 km/h)","
+		2	","
+1,200	KG
+",RWD,"
+		5	","
+		October 20, 2015	",75.12,70,26.67,68.18,"59.99
+"
+309,Chino Custom,"
+Muscle ","
+Vapid ","
+Custom Vehicle ","
+$180,000
+","
+80.78 mph (130.00 km/h)","
+		2	","
+2,400	KG
+",RWD,"
+		4	","
+		October 20, 2015	",69.75,52.5,20,62.73,"51.24
+"
+310,Buccaneer Custom,"
+Muscle ","
+Albany ","
+Custom Vehicle ","
+$390,000
+","
+90.72 mph (146.00 km/h)","
+		2	","
+1,600	KG
+",RWD,"
+		5	","
+		October 20, 2015	",78.34,70,26.67,65.15,"60.04
+"
+311,T20,"
+Super ","
+Progen ","
+Custom Vehicle ","
+$2,200,000
+","
+98.98 mph (159.30 km/h)","
+		2	","
+1,395	KG
+",AWD,"
+		6	","
+		July 8, 2015	",85.31,88.5,33.33,80.3,"71.86
+"
+312,Brawler,"
+Off-Road ","
+Coil ","
+Float on Water ","
+$715,000
+","
+86.99 mph (140.00 km/h)","
+		2	","
+2,100	KG
+",AWD,"
+		5	","
+		July 8, 2015	",72.43,62.5,20.67,56.06,"52.92
+"
+313,Coquette BlackFin,"
+Muscle ","
+Invetero ","
+Float on Water ","
+$695,000
+","
+93.83 mph (151.00 km/h)","
+		2	","
+1,400	KG
+",RWD,"
+		4	","
+		July 8, 2015	",81.02,85,16.67,69.7,"63.1
+"
+314,Chino,"
+Muscle ","
+Vapid ","
+Float on Water ","
+$225,000
+","
+80.78 mph (130.00 km/h)","
+		2	","
+2,300	KG
+",RWD,"
+		4	","
+		July 8, 2015	",75.12,70,26.67,68.18,"59.99
+"
+315,Vindicator,"
+Motorcycles ","
+Dinka ","
+KERS Boost ","
+$630,000
+","
+91.96 mph (148.00 km/h)","
+		2	","
+280	KG
+",RWD,"
+		6	","
+		July 8, 2015	",81.56,66.25,50,60,"64.45
+"
+316,Toro,"
+Boats ","
+Lampadati ","
+KERS Boost ","
+$1,750,000
+","
+82.64 mph (133.00 km/h)","
+		4	","
+1,100	KG
+",RWD,"
+		6	","
+		July 8, 2015	",82.1,100,50,36.8,"72.97
+"
+317,Osiris,"
+Super ","
+Pegassi ","
+KERS Boost ","
+$1,950,000
+","
+98.86 mph (159.10 km/h)","
+		2	","
+1,350	KG
+",AWD,"
+		6	","
+		June 10, 2015	",85.31,88.5,33.33,80.3,"71.86
+"
+318,Stirling GT,"
+Sports Classics ","
+Benefactor ","
+KERS Boost ","
+$975,000
+","
+85.75 mph (138.00 km/h)","
+		2	","
+1,330	KG
+",RWD,"
+		5	","
+		June 10, 2015	",74.04,75,26.67,71.21,"61.73
+"
+319,Luxor Deluxe,"
+Planes ","
+Buckingham ","
+KERS Boost ","
+$10,000,000
+","
+202.69 mph (326.20 km/h)","
+		8	","
+6,500	KG
+",FWD,"
+		5	","
+		June 10, 2015	",99.25,40.5,40.2,12.88,"48.21
+"
+320,Virgo,"
+Muscle ","
+Albany ","
+KERS Boost ","
+$195,000
+","
+83.26 mph (134.00 km/h)","
+		2	","
+2,200	KG
+",RWD,"
+		5	","
+		June 10, 2015	",75.12,70,26.67,77.58,"62.34
+"
+321,Swift Deluxe,"
+Helicopters ","
+Buckingham ","
+KERS Boost ","
+$5,150,000
+","
+99.42 mph (160.00 km/h)","
+		4	","
+6,500	KG
+",RWD,"
+		5	","
+		June 10, 2015	",76.75,99.71,26.67,95.34,"90.6
+"
+322,Windsor,"
+Coupes ","
+Enus ","
+KERS Boost ","
+$845,000
+","
+93.21 mph (150.00 km/h)","
+		2	","
+2,800	KG
+",RWD,"
+		5	","
+		June 10, 2015	",80.48,70,23.33,66.67,"60.12
+"
+323,Insurgent Pick-up,"
+Off-Road ","
+HVY ","
+Armed VehicleArmored Vehicle ","
+$1,795,500
+","
+80.78 mph (130.00 km/h)","
+		9	","
+8,600	KG
+",AWD,"
+		6	","
+		March 10, 2015	",69.75,50,8.33,45.45,"43.38
+"
+324,Lost Slamvan,"
+Muscle ","
+Vapid ","
+Gang Vehicle ","
+$1,795,500
+","
+83.89 mph (135.00 km/h)","
+		2	","
+1,200	KG
+",RWD,"
+		4	","
+		March 10, 2015	",72.43,62.5,20,50,"51.23
+"
+325,Mule (Armored),"
+CommercialVans ","
+Maibatsu ","
+Armored Vehicle ","
+$43,225
+","
+62.14 mph (100.00 km/h)","
+		6	","
+12,500	KG
+",RWD,"
+		5	","
+		March 10, 2015	",53.66,27.5,54.11,45.18,"45.11
+"
+326,Gang Burrito,"
+Vans ","
+Declasse ","
+Gang Vehicle ","
+$86,450
+","
+80.78 mph (130.00 km/h)","
+		4	","
+2,500	KG
+",RWD,"
+		5	","
+		March 10, 2015	",69.75,40,20,59.09,"47.21
+"
+327,Boxville (Post OP),"
+Vans ","
+Brute ","
+Gang Vehicle ","
+$59,850
+","
+62.14 mph (100.00 km/h)","
+		4	","
+5,500	KG
+",RWD,"
+		4	","
+		March 10, 2015	",53.66,27.5,8.33,46.97,"34.11
+"
+328,Casco,"
+Sports Classics ","
+Lampadati ","
+Gang Vehicle ","
+$904,400
+","
+93.83 mph (151.00 km/h)","
+		2	","
+1,100	KG
+",RWD,"
+		5	","
+		March 10, 2015	",81.02,80,20,69.7,"62.68
+"
+329,Kuruma (Armored),"
+Sports ","
+Karin ","
+Armored Vehicle ","
+$698,250
+","
+86.99 mph (140.00 km/h)","
+		4	","
+3,200	KG
+",AWD,"
+		6	","
+		March 10, 2015	",78.87,77.5,16.67,74.24,"61.82
+"
+330,Kuruma,"
+Sports ","
+Karin ","
+Armored Vehicle ","
+$126,350
+","
+88.86 mph (143.00 km/h)","
+		4	","
+1,500	KG
+",AWD,"
+		6	","
+		March 10, 2015	",78.87,77.5,16.67,74.24,"61.82
+"
+331,Velum 5-Seater,"
+Planes ","
+JoBuilt ","
+Armored Vehicle ","
+$1,323,350
+","
+166.96 mph (268.70 km/h)","
+		5	","
+5,000	KG
+",RWD,"
+		6	","
+		March 10, 2015	",81.76,28.5,23.3,20.9,"38.62
+"
+332,Hydra,"
+Planes ","
+Mammoth ","
+Armed VehicleHover Ability ","
+$3,990,000
+","
+203.19 mph (327.00 km/h)","
+		1	","
+8,000	KG
+",RWD,"
+		6	","
+		March 10, 2015	",99.5,45,51.08,45.17,"60.19
+"
+333,Technical,"
+Off-Road ","
+Karin ","
+Armed Vehicle ","
+$1,263,500
+","
+80.78 mph (130.00 km/h)","
+		3	","
+3,200	KG
+",AWD,"
+		5	","
+		March 10, 2015	",69.75,50,20,61.52,"50.32
+"
+334,Insurgent,"
+Off-Road ","
+HVY ","
+Armored Vehicle ","
+$897,750
+","
+80.78 mph (130.00 km/h)","
+		6	","
+8,600	KG
+",AWD,"
+		6	","
+		March 10, 2015	",69.75,50,20,60.61,"50.09
+"
+335,Lectro,"
+Motorcycles ","
+Principe ","
+KERS Boost ","
+$997,500
+","
+86.99 mph (140.00 km/h)","
+		2	","
+250	KG
+",RWD,"
+		5	","
+		March 10, 2015	",75.12,70,40,59.09,"61.05
+"
+336,Enduro,"
+Motorcycles ","
+Dinka ","
+KERS Boost ","
+$48,000
+","
+73.94 mph (119.00 km/h)","
+		2	","
+220	KG
+",RWD,"
+		4	","
+		March 10, 2015	",63.85,72.5,36.67,65.45,"59.62
+"
+337,Guardian,"
+IndustrialOff-Road ","
+Vapid ","
+KERS Boost ","
+$375,000
+","
+80.78 mph (130.00 km/h)","
+		6	","
+3,800	KG
+",AWD,"
+		6	","
+		March 10, 2015	",69.75,52.5,20,60.61,"50.71
+"
+338,Valkyrie,"
+Helicopters ","
+Buckingham ","
+Armed Vehicle ","
+$3,790,500
+","
+102.53 mph (165.00 km/h)","
+		4	","
+6,500	KG
+",AWD,"
+		6	","
+		March 10, 2015	",79.15,94.64,20,84.51,"86.1
+"
+339,Savage,"
+Helicopters ","
+Buckingham ","
+Armed Vehicle ","
+$2,593,500
+","
+99.42 mph (160.00 km/h)","
+		4	","
+14,000	KG
+",AWD,"
+		6	","
+		March 10, 2015	",76.75,86.61,20,80.5,"81.29
+"
+340,Massacro (Racecar),"
+Sports ","
+Dewbauchee ","
+Armed Vehicle ","
+$385,000
+","
+97.06 mph (156.20 km/h)","
+		2	","
+1,700	KG
+",RWD,"
+		6	","
+		December 18, 2014	",83.81,91,30,73.64,"69.61
+"
+341,Jester (Racecar),"
+Sports ","
+Dinka ","
+Armed Vehicle ","
+$350,000
+","
+98.18 mph (158.00 km/h)","
+		2	","
+1,300	KG
+",AWD,"
+		6	","
+		December 18, 2014	",84.78,77.5,31.67,77.88,"67.96
+"
+342,Slamvan,"
+Muscle ","
+Vapid ","
+Armed Vehicle ","
+$49,500
+","
+83.89 mph (135.00 km/h)","
+		2	","
+1,200	KG
+",RWD,"
+		4	","
+		December 18, 2014	",72.43,62.5,20,50,"51.23
+"
+343,Rat-Truck,"
+Muscle ","
+Bravado ","
+Armed Vehicle ","
+$37,500
+","
+83.89 mph (135.00 km/h)","
+		2	","
+1,200	KG
+",RWD,"
+		4	","
+		December 18, 2014	",72.43,55,13.33,50,"47.69
+"
+344,Sprunk Buffalo,"
+Sports ","
+Bravado ","
+Armed Vehicle ","
+$535,000
+","
+91.34 mph (147.00 km/h)","
+		4	","
+1,550	KG
+",RWD,"
+		5	","
+		November 18, 2014	",78.87,77.5,33.33,74.24,"65.99
+"
+345,Go Go Monkey Blista,"
+Sports ","
+Dinka ","
+Armed Vehicle ","
+$535,000
+","
+82.02 mph (132.00 km/h)","
+		2	","
+1,050	KG
+",FWD,"
+		5	","
+		November 18, 2014	",70.82,57.5,18.33,63.64,"52.57
+"
+346,Blista Compact,"
+Sports ","
+Dinka ","
+Armed Vehicle ","
+$42,000
+","
+82.02 mph (132.00 km/h)","
+		2	","
+1,050	KG
+",FWD,"
+		5	","
+		November 18, 2014	",70.82,57.5,18.33,63.64,"52.57
+"
+347,Xero Blimp,"
+Planes ","
+Dinka ","
+Armed Vehicle ","
+$42,000
+","
+99.42 mph (160.00 km/h)","
+		4	","
+12,000	KG
+",FWD,"
+		5	","
+		November 18, 2014	",48.69,31,1.82,7.45,"22.24
+"
+348,Dodo,"
+Planes ","
+Mammoth ","
+Float on Water ","
+$500,000
+","
+155.34 mph (250.00 km/h)","
+		4	","
+2,000	KG
+",RWD,"
+		5	","
+		November 18, 2014	",76.07,25,18.99,25.95,"36.5
+"
+349,Marshall,"
+Off-Road ","
+Cheval ","
+Float on Water ","
+$500,000
+","
+68.35 mph (110.00 km/h)","
+		4	","
+2,000	KG
+",RWD,"
+		5	","
+		November 18, 2014	",59.02,100,21.67,68.18,"62.22
+"
+350,Burger Shot Stallion,"
+Muscle ","
+Declasse ","
+Float on Water ","
+$277,000
+","
+89.48 mph (144.00 km/h)","
+		2	","
+1,650	KG
+",RWD,"
+		5	","
+		November 18, 2014	",77.26,77.5,23.33,68.18,"61.57
+"
+351,Stallion,"
+Muscle ","
+Declasse ","
+Float on Water ","
+$71,000
+","
+89.48 mph (144.00 km/h)","
+		2	","
+1,650	KG
+",RWD,"
+		5	","
+		November 18, 2014	",77.26,72.5,23.33,68.18,"60.32
+"
+352,Redwood Gauntlet,"
+Muscle ","
+Bravado ","
+Float on Water ","
+$230,000
+","
+91.34 mph (147.00 km/h)","
+		2	","
+1,500	KG
+",RWD,"
+		5	","
+		November 18, 2014	",78.87,78.75,30,76.06,"65.92
+"
+353,Dukes,"
+Muscle ","
+Imponte ","
+Float on Water ","
+$62,000
+","
+89.48 mph (144.00 km/h)","
+		2	","
+1,600	KG
+",RWD,"
+		5	","
+		November 18, 2014	",77.26,80,26.67,68.18,"63.03
+"
+354,Duke O'Death,"
+Muscle ","
+Imponte ","
+Armored Vehicle ","
+$665,000
+","
+94.45 mph (152.00 km/h)","
+		2	","
+5,000	KG
+",RWD,"
+		4	","
+		November 18, 2014	",81.56,87.5,30,68.48,"66.89
+"
+355,Pißwasser Dominator,"
+Muscle ","
+Vapid ","
+Armored Vehicle ","
+$315,000
+","
+91.34 mph (147.00 km/h)","
+		2	","
+1,500	KG
+",RWD,"
+		5	","
+		November 18, 2014	",78.87,77.5,30,69.7,"64.02
+"
+356,Kraken,"
+Boats ","
+Kraken Submersibles ","
+Submersible ","
+$1,325,000
+","
+46.60 mph (75.00 km/h)","
+		1	","
+2,800	KG
+",RWD,"
+		5	","
+		November 18, 2014	",46.3,58.82,30,0,"35.04
+"
+357,Furore GT,"
+Sports ","
+Lampadati ","
+Submersible ","
+$448,000
+","
+94.45 mph (152.00 km/h)","
+		2	","
+1,350	KG
+",RWD,"
+		6	","
+		October 2, 2014	",81.56,83.75,26.67,77.58,"67.39
+"
+358,Kalahari (Topless),"
+Off-Road ","
+Canis ","
+Submersible ","
+$51,000
+","
+74.56 mph (120.00 km/h)","
+		2	","
+800	KG
+",AWD,"
+		4	","
+		October 2, 2014	",64.39,65,33.33,53.94,"54.16
+"
+359,Innovation,"
+Motorcycles ","
+LCC ","
+Submersible ","
+$92,500
+","
+83.89 mph (135.00 km/h)","
+		2	","
+250	KG
+",RWD,"
+		4	","
+		October 2, 2014	",72.43,80,33.33,57.58,"60.84
+"
+360,Hakuchou,"
+Motorcycles ","
+Shitzu ","
+Submersible ","
+$82,000
+","
+94.45 mph (152.00 km/h)","
+		2	","
+250	KG
+",RWD,"
+		6	","
+		October 2, 2014	",81.56,78.75,46.67,69.7,"69.17
+"
+361,Coquette Classic (Topless),"
+Sports Classics ","
+Invetero ","
+Submersible ","
+$665,000
+","
+93.83 mph (151.00 km/h)","
+		2	","
+1,400	KG
+",RWD,"
+		4	","
+		August 19, 2014	",81.02,85,16.67,69.7,"63.1
+"
+362,Coquette Classic,"
+Sports Classics ","
+Invetero ","
+Submersible ","
+$665,000
+","
+93.83 mph (151.00 km/h)","
+		2	","
+1,400	KG
+",RWD,"
+		4	","
+		August 19, 2014	",81.02,85,16.67,69.7,"63.1
+"
+363,Miljet,"
+Planes ","
+Buckingham ","
+Submersible ","
+$1,700,000
+","
+86.99 mph (140.00 km/h)","
+		16	","
+6,400	KG
+",FWD,"
+		4	","
+		August 19, 2014	",42.6,41.5,41.74,13.05,"34.72
+"
+364,Besra,"
+Planes ","
+Western Company ","
+Submersible ","
+$1,150,000
+","
+204.18 mph (328.60 km/h)","
+		1	","
+8,000	KG
+",FWD,"
+		4	","
+		August 19, 2014	",99.98,100,100,39.21,"84.8
+"
+365,Swift,"
+Helicopters ","
+Buckingham ","
+Submersible ","
+$1,500,000
+","
+99.42 mph (160.00 km/h)","
+		4	","
+6,500	KG
+",FWD,"
+		4	","
+		August 19, 2014	",76.75,99.11,100,95.34,"90.4
+"
+366,Liberator,"
+Off-Road ","
+Vapid ","
+Submersible ","
+$556,511
+","
+68.35 mph (110.00 km/h)","
+		2	","
+4,000	KG
+",AWD,"
+		3	","
+		July 1, 2014	",59.02,100,21.67,63.64,"61.08
+"
+367,Sovereign,"
+Motorcycles ","
+Western ","
+Submersible ","
+$90,000
+","
+83.89 mph (135.00 km/h)","
+		1	","
+250	KG
+",RWD,"
+		4	","
+		July 1, 2014	",72.43,67.5,36.67,57.58,"58.54
+"
+368,Pigalle,"
+Sports Classics ","
+Lampadati ","
+Submersible ","
+$400,000
+","
+92.58 mph (149.00 km/h)","
+		2	","
+1,500	KG
+",FWD,"
+		5	","
+		June 17, 2014	",79.95,66.25,28.33,71.52,"61.51
+"
+369,Warrener,"
+Sedans ","
+Vulcar ","
+Submersible ","
+$120,000
+","
+86.99 mph (140.00 km/h)","
+		4	","
+1,300	KG
+",RWD,"
+		5	","
+		June 17, 2014	",75.12,61.25,31.67,65.45,"58.37
+"
+370,Glendale,"
+Sedans ","
+Benefactor ","
+Submersible ","
+$200,000
+","
+91.34 mph (147.00 km/h)","
+		4	","
+1,600	KG
+",RWD,"
+		5	","
+		June 17, 2014	",78.87,58.75,21.67,62.12,"55.35
+"
+371,Dubsta 6x6,"
+Off-RoadSUVs ","
+Benefactor ","
+Submersible ","
+$249,000
+","
+85.13 mph (137.00 km/h)","
+		6	","
+3,500	KG
+",AWD,"
+		6	","
+		June 17, 2014	",73.51,70,20,60.61,"56.03
+"
+372,Blade,"
+Muscle ","
+Vapid ","
+Submersible ","
+$160,000
+","
+90.10 mph (145.00 km/h)","
+		2	","
+1,200	KG
+",RWD,"
+		5	","
+		June 17, 2014	",77.8,81,26.67,67.58,"63.26
+"
+373,Rhapsody,"
+Compacts ","
+Declasse ","
+Submersible ","
+$140,000
+","
+82.64 mph (133.00 km/h)","
+		2	","
+1,350	KG
+",RWD,"
+		5	","
+		June 17, 2014	",71.36,57.5,20,62.12,"52.75
+"
+374,Panto,"
+Compacts ","
+Benefactor ","
+Submersible ","
+$85,000
+","
+82.02 mph (132.00 km/h)","
+		2	","
+800	KG
+",RWD,"
+		6	","
+		June 17, 2014	",70.82,67.5,20,59.7,"54.51
+"
+375,Huntley S,"
+SUVs ","
+Enus ","
+Submersible ","
+$195,000
+","
+84.51 mph (136.00 km/h)","
+		4	","
+2,500	KG
+",AWD,"
+		6	","
+		May 13, 2014	",72.97,66.25,18.33,63.64,"55.3
+"
+376,Zentorno,"
+Super ","
+Pegassi ","
+Submersible ","
+$725,000
+","
+98.80 mph (159.00 km/h)","
+		2	","
+1,500	KG
+",AWD,"
+		6	","
+		May 13, 2014	",85.31,88.75,33.33,80.3,"71.92
+"
+377,Massacro,"
+Sports ","
+Dewbauchee ","
+Submersible ","
+$275,000
+","
+97.06 mph (156.20 km/h)","
+		2	","
+1,700	KG
+",RWD,"
+		6	","
+		May 13, 2014	",82.09,90.25,30,74.24,"69.15
+"
+378,Thrust,"
+Motorcycles ","
+Dinka ","
+Submersible ","
+$75,000
+","
+94.45 mph (152.00 km/h)","
+		2	","
+270	KG
+",RWD,"
+		6	","
+		May 13, 2014	",81.56,66.25,50,60,"64.45
+"
+379,Turismo R,"
+Super ","
+Grotti ","
+Submersible ","
+$500,000
+","
+96.31 mph (155.00 km/h)","
+		2	","
+1,350	KG
+",RWD,"
+		6	","
+		March 4, 2014	",83.17,88.25,40,80,"72.85
+"
+380,Jester,"
+Sports ","
+Dinka ","
+Submersible ","
+$240,000
+","
+98.18 mph (158.00 km/h)","
+		2	","
+1,300	KG
+",AWD,"
+		6	","
+		March 4, 2014	",84.78,75,31.67,77.27,"67.18
+"
+381,Alpha,"
+Sports ","
+Albany ","
+Submersible ","
+$150,000
+","
+93.21 mph (150.00 km/h)","
+		2	","
+1,800	KG
+",RWD,"
+		6	","
+		March 4, 2014	",83.17,85,33.33,77.27,"69.69
+"
+382,Vestra,"
+Planes ","
+Buckingham ","
+Submersible ","
+$950,000
+","
+87.61 mph (141.00 km/h)","
+		2	","
+5,000	KG
+",RWD,"
+		6	","
+		March 4, 2014	",42.9,46,48.94,29.98,"41.96
+"
+383,Roosevelt,"
+Sports Classics ","
+Albany ","
+Submersible ","
+$750,000
+","
+77.67 mph (125.00 km/h)","
+		6	","
+2,400	KG
+",RWD,"
+		4	","
+		February 13, 2014	",67.07,67.5,18.33,63.64,"54.13
+"
+384,Paradise,"
+Off-RoadVans ","
+Bravado ","
+Submersible ","
+$25,000
+","
+80.78 mph (130.00 km/h)","
+		4	","
+2,500	KG
+",RWD,"
+		5	","
+		November 19, 2013	",69.75,42.5,13.33,59.09,"46.17
+"
+385,Kalahari,"
+Off-Road ","
+Canis ","
+Submersible ","
+$40,000
+","
+74.56 mph (120.00 km/h)","
+		2	","
+800	KG
+",AWD,"
+		4	","
+		November 19, 2013	",64.39,65,33.33,53.94,"54.16
+"
+386,Bifta,"
+Off-Road ","
+BF ","
+Submersible ","
+$75,000
+","
+84.51 mph (136.00 km/h)","
+		2	","
+1,400	KG
+",RWD,"
+		5	","
+		November 19, 2013	",72.97,65,23.33,62.12,"55.86
+"
+387,Speeder,"
+Boats ","
+Pegassi ","
+Submersible ","
+$325,000
+","
+82.64 mph (133.00 km/h)","
+		4	","
+2,400	KG
+",RWD,"
+		5	","
+		November 19, 2013	",82.1,94.12,23.33,36.8,"71.01
+"
+388,Khamelion,"
+Sports ","
+Hijak ","
+Electric Vehicle ","
+$100,000
+","
+86.99 mph (140.00 km/h)","
+		2	","
+1,800	KG
+",RWD,"
+		1	","
+		October 1, 2013	",75.12,37.5,30,78.79,"55.35
+"
+389,Annihilator,"
+Helicopters ","
+Western Company ","
+Armed Vehicle ","
+$1,825,000
+","
+99.42 mph (160.00 km/h)","
+		6	","
+13,000	KG
+",RWD,"
+		1	","
+		October 1, 2013	",76.75,83.93,30,75,"78.56
+"
+390,Boxville (LSDWP),"
+Vans ","
+Brute ","
+Armed Vehicle ","
+$398,000
+","
+62.14 mph (100.00 km/h)","
+		6	","
+5,500	KG
+",RWD,"
+		4	","
+		September 17, 2013	",53.66,27.5,8.33,46.97,"34.11
+"
+391,Boxville,"
+Vans ","
+Brute ","
+Armed Vehicle ","
+$398,000
+","
+62.14 mph (100.00 km/h)","
+		6	","
+5,500	KG
+",RWD,"
+		4	","
+		September 17, 2013	",53.66,27.5,8.33,46.97,"34.11
+"
+392,Bugstars Burrito,"
+Vans ","
+Declasse ","
+Armed Vehicle ","
+$598,500
+","
+80.78 mph (130.00 km/h)","
+		4	","
+2,500	KG
+",RWD,"
+		5	","
+		September 17, 2013	",69.75,40,20,59.09,"47.21
+"
+393,Tornado Mariachi,"
+Off-RoadSports Classics ","
+Declasse ","
+Gang Vehicle ","
+$598,500
+","
+80.78 mph (130.00 km/h)","
+		2	","
+2,100	KG
+",RWD,"
+		4	","
+		September 17, 2013	",69.75,40,8.33,54.55,"43.16
+"
+394,Dubsta 2,"
+SUVs ","
+Benefactor ","
+Gang Vehicle ","
+$598,500
+","
+86.99 mph (140.00 km/h)","
+		4	","
+2,400	KG
+",AWD,"
+		5	","
+		September 17, 2013	",75.12,50,26.67,65.15,"54.23
+"
+395,Lost Gang Burrito,"
+Vans ","
+Declasse ","
+Gang Vehicle ","
+$598,500
+","
+80.78 mph (130.00 km/h)","
+		4	","
+2,500	KG
+",RWD,"
+		5	","
+		September 17, 2013	",69.75,40,20,59.09,"47.21
+"
+396,Tornado Convertible (Gang),"
+Sports Classics ","
+Declasse ","
+Gang VehicleConvertible (Soft-top) ","
+$598,500
+","
+80.78 mph (130.00 km/h)","
+		2	","
+2,100	KG
+",RWD,"
+		4	","
+		September 17, 2013	",69.75,40,8.33,54.55,"43.16
+"
+397,Tornado (Gang),"
+Sports Classics ","
+Declasse ","
+Gang Vehicle ","
+$598,500
+","
+80.78 mph (130.00 km/h)","
+		2	","
+2,100	KG
+",RWD,"
+		4	","
+		September 17, 2013	",69.75,40,8.33,54.55,"43.16
+"
+398,Peyote (Gang),"
+Sports Classics ","
+Vapid ","
+Gang Vehicle ","
+$598,500
+","
+80.78 mph (130.00 km/h)","
+		2	","
+2,100	KG
+",RWD,"
+		4	","
+		September 17, 2013	",69.75,40,8.33,56.06,"43.54
+"
+399,Manana (Gang),"
+Sports Classics ","
+Albany ","
+Gang Vehicle ","
+$598,500
+","
+80.78 mph (130.00 km/h)","
+		2	","
+2,100	KG
+",RWD,"
+		4	","
+		September 17, 2013	",69.75,40,8.33,59.09,"44.29
+"
+400,Buccaneer (Gang),"
+Muscle ","
+Albany ","
+Gang Vehicle ","
+$598,500
+","
+90.72 mph (146.00 km/h)","
+		2	","
+1,600	KG
+",RWD,"
+		5	","
+		September 17, 2013	",78.34,70,26.67,65.15,"60.04
+"
+401,Clown Van,"
+Vans ","
+Vapid ","
+Gang Vehicle ","
+$598,500
+","
+80.78 mph (130.00 km/h)","
+		4	","
+2,500	KG
+",RWD,"
+		5	","
+		September 17, 2013	",69.75,45,20,54.55,"47.32
+"
+402,Mixer II,"
+Industrial ","
+HVY ","
+Gang Vehicle ","
+$598,500
+","
+68.35 mph (110.00 km/h)","
+		2	","
+6,000	KG
+",RWD,"
+		4	","
+		September 17, 2013	",59.02,27.5,10,48.48,"36.25
+"
+403,Tipper II,"
+Industrial ","
+Brute ","
+Gang Vehicle ","
+$598,500
+","
+62.14 mph (100.00 km/h)","
+		2	","
+5,500	KG
+",RWD,"
+		4	","
+		September 17, 2013	",53.66,27.5,8.33,48.48,"34.49
+"
+404,Cargobob Jetsam,"
+Helicopters ","
+Western Company ","
+Towing HitchFloat on Water ","
+$1,995,000
+","
+99.42 mph (160.00 km/h)","
+		10	","
+15,000	KG
+",RWD,"
+		4	","
+		September 17, 2013	",76.75,91.07,8.33,74.04,"80.62
+"
+405,Dilettante (Patrol),"
+Compacts ","
+Karin ","
+Electric Vehicle ","
+$1,995,000
+","
+80.78 mph (130.00 km/h)","
+		4	","
+1,400	KG
+",FWD,"
+		1	","
+		September 17, 2013	",69.75,25,20,53.33,"42.02
+"
+406,Seashark Lifeguard,"
+BoatsEmergency ","
+Speedophile ","
+Electric Vehicle ","
+$1,995,000
+","
+80.78 mph (130.00 km/h)","
+		2	","
+400	KG
+",FWD,"
+		1	","
+		September 17, 2013	",80.25,73.53,20,4,"52.59
+"
+407,Caddy (Utility),"
+Utility ","
+Nagasaki ","
+Electric Vehicle ","
+$85,000
+","
+40.39 mph (65.00 km/h)","
+		2	","
+600	KG
+",RWD,"
+		1	","
+		September 17, 2013	",34.88,75,6.67,43.94,"40.12
+"
+408,Police Roadcruiser,"
+Emergency ","
+Albany ","
+Electric Vehicle ","
+$85,000
+","
+86.99 mph (140.00 km/h)","
+		4	","
+1,800	KG
+",RWD,"
+		5	","
+		September 17, 2013	",77.8,50,30,77.27,"58.77
+"
+409,Police Rancher,"
+Emergency ","
+Declasse ","
+Electric Vehicle ","
+$85,000
+","
+80.78 mph (130.00 km/h)","
+		4	","
+2,400	KG
+",AWD,"
+		5	","
+		September 17, 2013	",69.75,45,26.67,59.09,"50.13
+"
+410,Space Docker,"
+Off-Road ","
+BF ","
+Electric Vehicle ","
+$85,000
+","
+83.89 mph (135.00 km/h)","
+		2	","
+2,000	KG
+",RWD,"
+		5	","
+		September 17, 2013	",72.43,60,21,60.61,"53.51
+"
+411,Metro Train,"
+Service ","
+BF ","
+Electric Vehicle ","
+$85,000
+","
+49.71 mph (80.00 km/h)","
+		2	","
+25,000	KG
+",RWD,"
+		4	","
+		September 17, 2013	",72.43,60,21,60.61,"53.51
+"
+412,Freight Train,"
+Service ","
+BF ","
+Electric Vehicle ","
+$85,000
+","
+49.71 mph (80.00 km/h)","
+		2	","
+25,084	KG
+",RWD,"
+		4	","
+		September 17, 2013	",72.43,60,21,60.61,"53.51
+"
+413,Cable Car,"
+Service ","
+BF ","
+Electric Vehicle ","
+$85,000
+","
+49.71 mph (80.00 km/h)","
+		1	","
+25,084	KG
+",RWD,"
+		4	","
+		September 17, 2013	",72.43,60,21,60.61,"53.51
+"
+414,Cargo Plane,"
+Planes ","
+BF ","
+Electric Vehicle ","
+$85,000
+","
+176.47 mph (284.00 km/h)","
+		2	","
+38,000	KG
+",RWD,"
+		4	","
+		September 17, 2013	",85.65,57,25,30,"49.41
+"
+415,Youga,"
+Vans ","
+Bravado ","
+Electric Vehicle ","
+$16,000
+","
+74.56 mph (120.00 km/h)","
+		2	","
+2,500	KG
+",RWD,"
+		5	","
+		September 17, 2013	",64.39,35,10,54.55,"40.98
+"
+416,Taco Van,"
+Vans ","
+Brute ","
+Electric Vehicle ","
+$16,000
+","
+62.14 mph (100.00 km/h)","
+		1	","
+5,500	KG
+",RWD,"
+		4	","
+		September 17, 2013	",53.66,27.5,8.33,46.97,"34.11
+"
+417,Surfer,"
+Vans ","
+BF ","
+Electric Vehicle ","
+$11,000
+","
+62.14 mph (100.00 km/h)","
+		2	","
+2,500	KG
+",RWD,"
+		4	","
+		September 17, 2013	",53.66,25,10,46.97,"33.91
+"
+418,Speedo,"
+Vans ","
+Vapid ","
+Electric Vehicle ","
+$11,000
+","
+80.78 mph (130.00 km/h)","
+		4	","
+2,500	KG
+",RWD,"
+		5	","
+		September 17, 2013	",69.75,45,20,54.55,"47.32
+"
+419,Rumpo,"
+Vans ","
+Bravado ","
+Electric Vehicle ","
+$13,000
+","
+80.78 mph (130.00 km/h)","
+		2	","
+2,500	KG
+",RWD,"
+		5	","
+		September 17, 2013	",69.75,42.5,13.33,59.09,"46.17
+"
+420,Pony,"
+Vans ","
+Brute ","
+Electric Vehicle ","
+$13,000
+","
+80.78 mph (130.00 km/h)","
+		4	","
+2,500	KG
+",RWD,"
+		5	","
+		September 17, 2013	",69.75,40,20,59.09,"47.21
+"
+421,Minivan,"
+Vans ","
+Vapid ","
+Electric Vehicle ","
+$30,000
+","
+77.67 mph (125.00 km/h)","
+		4	","
+2,000	KG
+",AWD,"
+		4	","
+		September 17, 2013	",67.07,37.5,13.33,57.58,"43.87
+"
+422,Journey,"
+Vans ","
+Zirconium ","
+Electric Vehicle ","
+$15,000
+","
+62.14 mph (100.00 km/h)","
+		6	","
+4,000	KG
+",FWD,"
+		4	","
+		September 17, 2013	",53.66,32.5,8.33,42.42,"34.23
+"
+423,Camper,"
+Vans ","
+Brute ","
+Electric Vehicle ","
+$15,000
+","
+62.14 mph (100.00 km/h)","
+		2	","
+4,000	KG
+",FWD,"
+		4	","
+		September 17, 2013	",53.66,30,8.33,45.45,"34.36
+"
+424,Burrito,"
+Vans ","
+Declasse ","
+Electric Vehicle ","
+$15,000
+","
+80.78 mph (130.00 km/h)","
+		4	","
+2,500	KG
+",RWD,"
+		5	","
+		September 17, 2013	",69.75,40,20,59.09,"47.21
+"
+425,Bobcat XL,"
+Vans ","
+Vapid ","
+Towing Hitch ","
+$23,000
+","
+80.78 mph (130.00 km/h)","
+		2	","
+2,600	KG
+",RWD,"
+		5	","
+		September 17, 2013	",69.75,45,26.67,59.09,"50.13
+"
+426,Bison,"
+Vans ","
+Bravado ","
+Towing Hitch ","
+$30,000
+","
+80.78 mph (130.00 km/h)","
+		6	","
+2,100	KG
+",AWD,"
+		5	","
+		September 17, 2013	",69.75,50,20,62.12,"50.47
+"
+427,Utility Truck (Contender),"
+Utility ","
+Vapid ","
+Towing Hitch ","
+$30,000
+","
+71.46 mph (115.00 km/h)","
+		2	","
+3,500	KG
+",RWD,"
+		4	","
+		September 17, 2013	",61.7,30,8.33,48.48,"37.13
+"
+428,Utility Truck (Cherry Picker),"
+Utility ","
+Brute ","
+Towing Hitch ","
+$30,000
+","
+71.46 mph (115.00 km/h)","
+		2	","
+7,500	KG
+",RWD,"
+		4	","
+		September 17, 2013	",61.7,30,8.33,48.48,"37.13
+"
+429,Utility Truck,"
+Utility ","
+Brute ","
+Towing Hitch ","
+$30,000
+","
+71.46 mph (115.00 km/h)","
+		2	","
+6,500	KG
+",RWD,"
+		4	","
+		September 17, 2013	",61.7,30,8.33,48.48,"37.13
+"
+430,Tractor,"
+Utility ","
+Stanley ","
+Towing Hitch ","
+$30,000
+","
+24.85 mph (40.00 km/h)","
+		1	","
+2,400	KG
+",RWD,"
+		3	","
+		September 17, 2013	",21.46,20,10,36.36,"21.96
+"
+431,Tow Truck (Large),"
+Utility ","
+Vapid ","
+Towing Hitch ","
+$30,000
+","
+65.24 mph (105.00 km/h)","
+		2	","
+5,000	KG
+",RWD,"
+		4	","
+		September 17, 2013	",56.34,37.5,8.33,48.48,"37.66
+"
+432,Tow Truck,"
+Utility ","
+Vapid ","
+Towing Hitch ","
+$30,000
+","
+62.14 mph (100.00 km/h)","
+		2	","
+5,000	KG
+",RWD,"
+		4	","
+		September 17, 2013	",56.34,37.5,8.33,48.48,"37.66
+"
+433,Scrap Truck,"
+Utility ","
+Vapid ","
+Towing Hitch ","
+$30,000
+","
+65.24 mph (105.00 km/h)","
+		2	","
+5,000	KG
+",RWD,"
+		5	","
+		September 17, 2013	",56.34,32.5,8.33,48.48,"36.41
+"
+434,Sadler,"
+Utility ","
+Vapid ","
+Towing Hitch ","
+$35,000
+","
+80.78 mph (130.00 km/h)","
+		4	","
+2,100	KG
+",AWD,"
+		5	","
+		September 17, 2013	",69.75,50,20,62.12,"50.47
+"
+435,Ripley,"
+Utility ","
+HVY ","
+Towing Hitch ","
+$35,000
+","
+43.50 mph (70.00 km/h)","
+		2	","
+9,500	KG
+",RWD,"
+		3	","
+		September 17, 2013	",37.56,40,6.67,40.91,"31.28
+"
+436,Lawn Mower,"
+Utility ","
+Jacksheepe ","
+Towing Hitch ","
+$35,000
+","
+12.43 mph (20.00 km/h)","
+		1	","
+400	KG
+",FWD,"
+		1	","
+		September 17, 2013	",10.73,12.5,16.67,40.91,"20.2
+"
+437,Forklift,"
+Utility ","
+HVY ","
+Electric Vehicle ","
+$35,000
+","
+18.64 mph (30.00 km/h)","
+		1	","
+6,000	KG
+",RWD,"
+		1	","
+		September 17, 2013	",16.1,45,10,34.85,"26.49
+"
+438,Fieldmaster,"
+Utility ","
+Stanley ","
+Towing Hitch ","
+$35,000
+","
+27.96 mph (45.00 km/h)","
+		1	","
+6,500	KG
+",RWD,"
+		5	","
+		September 17, 2013	",24.14,37.5,10,51.52,"30.79
+"
+439,Docktug,"
+Utility ","
+HVY ","
+Towing Hitch ","
+$35,000
+","
+49.71 mph (80.00 km/h)","
+		1	","
+10,400	KG
+",RWD,"
+		5	","
+		September 17, 2013	",42.92,50,16.67,42.42,"38
+"
+440,Caddy,"
+Utility ","
+Nagasaki ","
+Electric Vehicle ","
+$35,000
+","
+40.39 mph (65.00 km/h)","
+		2	","
+600	KG
+",RWD,"
+		1	","
+		September 17, 2013	",34.88,75,6.67,45.45,"40.5
+"
+441,Airtug,"
+Utility ","
+HVY ","
+Electric Vehicle ","
+$35,000
+","
+24.85 mph (40.00 km/h)","
+		2	","
+1,400	KG
+",FWD,"
+		1	","
+		September 17, 2013	",21.46,15,10,34.85,"20.33
+"
+442,Serrano,"
+SUVs ","
+Benefactor ","
+Electric Vehicle ","
+$60,000
+","
+80.78 mph (130.00 km/h)","
+		4	","
+2,400	KG
+",AWD,"
+		6	","
+		September 17, 2013	",69.75,50,13.33,63.64,"49.18
+"
+443,Seminole,"
+SUVs ","
+Canis ","
+Electric Vehicle ","
+$30,000
+","
+80.78 mph (130.00 km/h)","
+		4	","
+2,400	KG
+",AWD,"
+		5	","
+		September 17, 2013	",69.75,45,26.67,62.12,"50.88
+"
+444,Rocoto,"
+SUVs ","
+Obey ","
+Electric Vehicle ","
+$85,000
+","
+86.37 mph (139.00 km/h)","
+		4	","
+2,400	KG
+",AWD,"
+		5	","
+		September 17, 2013	",74.58,47.5,8.33,63.64,"48.51
+"
+445,Radius,"
+SUVs ","
+Vapid ","
+Electric Vehicle ","
+$32,000
+","
+86.99 mph (140.00 km/h)","
+		4	","
+2,400	KG
+",AWD,"
+		5	","
+		September 17, 2013	",75.12,50,26.67,68.18,"54.99
+"
+446,Patriot,"
+Off-RoadSUVs ","
+Mammoth ","
+Electric Vehicle ","
+$50,000
+","
+80.78 mph (130.00 km/h)","
+		4	","
+3,500	KG
+",AWD,"
+		5	","
+		September 17, 2013	",69.75,50,10.67,51.52,"45.48
+"
+447,Mesa,"
+SUVs ","
+Canis ","
+Electric Vehicle ","
+$50,000
+","
+80.78 mph (130.00 km/h)","
+		4	","
+2,400	KG
+",AWD,"
+		5	","
+		September 17, 2013	",69.75,42.5,10,60.61,"45.71
+"
+448,Landstalker,"
+SUVs ","
+Dundreary ","
+Electric Vehicle ","
+$58,000
+","
+83.89 mph (135.00 km/h)","
+		4	","
+2,400	KG
+",AWD,"
+		5	","
+		September 17, 2013	",72.43,45,26.67,63.64,"51.93
+"
+449,Habanero,"
+SUVs ","
+Emperor ","
+Electric Vehicle ","
+$42,000
+","
+85.13 mph (137.00 km/h)","
+		4	","
+2,400	KG
+",AWD,"
+		5	","
+		September 17, 2013	",73.51,45,8.33,63.64,"47.62
+"
+450,Gresley,"
+SUVs ","
+Bravado ","
+Electric Vehicle ","
+$29,000
+","
+83.89 mph (135.00 km/h)","
+		4	","
+2,200	KG
+",AWD,"
+		6	","
+		September 17, 2013	",72.43,50,20,57.58,"50
+"
+451,Granger,"
+SUVs ","
+Declasse ","
+Electric Vehicle ","
+$35,000
+","
+86.99 mph (140.00 km/h)","
+		8	","
+2,400	KG
+",AWD,"
+		5	","
+		September 17, 2013	",75.12,47.5,26.67,65.15,"53.61
+"
+452,FQ 2,"
+SUVs ","
+Fathom ","
+Electric Vehicle ","
+$50,000
+","
+83.89 mph (135.00 km/h)","
+		4	","
+2,400	KG
+",AWD,"
+		5	","
+		September 17, 2013	",72.43,45,8.33,60.61,"46.59
+"
+453,Dubsta,"
+SUVs ","
+Benefactor ","
+Electric Vehicle ","
+$50,000
+","
+86.99 mph (140.00 km/h)","
+		4	","
+2,400	KG
+",AWD,"
+		5	","
+		September 17, 2013	",75.12,50,26.67,65.15,"54.23
+"
+454,Cavalcade II,"
+SUVs ","
+Albany ","
+Electric Vehicle ","
+$70,000
+","
+78.91 mph (127.00 km/h)","
+		4	","
+2,400	KG
+",AWD,"
+		4	","
+		September 17, 2013	",68.14,50,20,57.58,"48.93
+"
+455,Cavalcade,"
+SUVs ","
+Albany ","
+Electric Vehicle ","
+$60,000
+","
+78.91 mph (127.00 km/h)","
+		4	","
+2,400	KG
+",AWD,"
+		4	","
+		September 17, 2013	",68.14,50,20,57.58,"48.93
+"
+456,BeeJay XL,"
+SUVs ","
+Karin ","
+Electric Vehicle ","
+$27,000
+","
+80.78 mph (130.00 km/h)","
+		4	","
+2,400	KG
+",AWD,"
+		5	","
+		September 17, 2013	",69.75,47.5,26.67,62.12,"51.51
+"
+457,Baller II,"
+SUVs ","
+Gallivanter ","
+Electric Vehicle ","
+$90,000
+","
+83.89 mph (135.00 km/h)","
+		4	","
+2,200	KG
+",AWD,"
+		5	","
+		September 17, 2013	",72.43,67.5,20,60.61,"55.14
+"
+458,Baller,"
+Off-RoadSUVs ","
+Gallivanter ","
+Electric Vehicle ","
+$90,000
+","
+80.78 mph (130.00 km/h)","
+		4	","
+2,400	KG
+",AWD,"
+		5	","
+		September 17, 2013	",69.75,52.5,20,57.58,"49.96
+"
+459,Voltic (Topless),"
+Super ","
+Coil ","
+Electric Vehicle ","
+$150,000
+","
+90.10 mph (145.00 km/h)","
+		2	","
+1,030	KG
+",RWD,"
+		1	","
+		September 17, 2013	",77.8,90,33.33,76.67,"69.45
+"
+460,Voltic,"
+Super ","
+Coil ","
+Electric Vehicle ","
+$150,000
+","
+90.10 mph (145.00 km/h)","
+		2	","
+1,030	KG
+",RWD,"
+		1	","
+		September 17, 2013	",77.8,90,33.33,76.67,"69.45
+"
+461,Vacca,"
+Super ","
+Pegassi ","
+Electric Vehicle ","
+$240,000
+","
+94.45 mph (152.00 km/h)","
+		2	","
+1,200	KG
+",RWD,"
+		6	","
+		September 17, 2013	",81.56,75,33.33,78.79,"67.17
+"
+462,Infernus,"
+Super ","
+Pegassi ","
+Electric Vehicle ","
+$440,000
+","
+93.21 mph (150.00 km/h)","
+		2	","
+1,200	KG
+",AWD,"
+		6	","
+		September 17, 2013	",80.48,85,16.67,80.3,"65.61
+"
+463,Entity XF,"
+Super ","
+Overflod ","
+Electric Vehicle ","
+$795,000
+","
+96.31 mph (155.00 km/h)","
+		2	","
+1,500	KG
+",AWD,"
+		6	","
+		September 17, 2013	",83.17,82.5,30,83.33,"69.75
+"
+464,Cheetah,"
+Super ","
+Grotti ","
+Electric Vehicle ","
+$650,000
+","
+95.07 mph (153.00 km/h)","
+		2	","
+1,400	KG
+",RWD,"
+		6	","
+		September 17, 2013	",82.09,80,26.67,80.3,"67.27
+"
+465,Bullet,"
+Super ","
+Vapid ","
+Electric Vehicle ","
+$155,000
+","
+94.45 mph (152.00 km/h)","
+		2	","
+1,100	KG
+",RWD,"
+		5	","
+		September 17, 2013	",81.56,82.5,26.67,77.27,"67
+"
+466,Adder,"
+Super ","
+Truffade ","
+Electric Vehicle ","
+$1,000,000
+","
+99.42 mph (160.00 km/h)","
+		2	","
+1,800	KG
+",AWD,"
+		6	","
+		September 17, 2013	",85.85,80,33.33,75.76,"68.73
+"
+467,Z-Type,"
+Sports Classics ","
+Truffade ","
+Electric Vehicle ","
+$950,000
+","
+95.69 mph (154.00 km/h)","
+		2	","
+1,000	KG
+",RWD,"
+		4	","
+		September 17, 2013	",75.12,55,13.33,50,"48.36
+"
+468,Tornado Convertible,"
+Sports Classics ","
+Declasse ","
+Convertible (Soft-top) ","
+$950,000
+","
+80.78 mph (130.00 km/h)","
+		2	","
+2,100	KG
+",RWD,"
+		4	","
+		September 17, 2013	",69.75,40,8.33,54.55,"43.16
+"
+469,Tornado,"
+Sports Classics ","
+Declasse ","
+Convertible (Soft-top) ","
+$30,000
+","
+80.78 mph (130.00 km/h)","
+		2	","
+2,100	KG
+",RWD,"
+		4	","
+		September 17, 2013	",69.75,40,8.33,54.55,"43.16
+"
+470,Stinger GT,"
+Sports Classics ","
+Grotti ","
+Convertible (Soft-top) ","
+$875,000
+","
+90.10 mph (145.00 km/h)","
+		2	","
+1,100	KG
+",RWD,"
+		5	","
+		September 17, 2013	",77.8,65,20,65.15,"56.99
+"
+471,Stinger (Topless),"
+Sports Classics ","
+Grotti ","
+Convertible (Soft-top) ","
+$850,000
+","
+90.10 mph (145.00 km/h)","
+		2	","
+1,100	KG
+",RWD,"
+		5	","
+		September 17, 2013	",77.8,65,20,65.15,"56.99
+"
+472,Stinger,"
+Sports Classics ","
+Grotti ","
+Convertible (Soft-top) ","
+$850,000
+","
+90.10 mph (145.00 km/h)","
+		2	","
+1,100	KG
+",RWD,"
+		5	","
+		September 17, 2013	",77.8,65,20,65.15,"56.99
+"
+473,Peyote,"
+Sports Classics ","
+Vapid ","
+Convertible (Soft-top) ","
+$38,000
+","
+80.78 mph (130.00 km/h)","
+		2	","
+2,100	KG
+",RWD,"
+		4	","
+		September 17, 2013	",69.75,40,8.33,56.06,"43.54
+"
+474,Monroe,"
+Sports Classics ","
+Pegassi ","
+Convertible (Soft-top) ","
+$490,000
+","
+93.21 mph (150.00 km/h)","
+		2	","
+1,200	KG
+",RWD,"
+		5	","
+		September 17, 2013	",80.48,70,21.67,66.67,"59.7
+"
+475,Manana,"
+Sports Classics ","
+Albany ","
+Convertible (Soft-top) ","
+$10,000
+","
+80.78 mph (130.00 km/h)","
+		2	","
+2,100	KG
+",RWD,"
+		4	","
+		September 17, 2013	",69.75,40,8.33,59.09,"44.29
+"
+476,JB 700,"
+Sports Classics ","
+Dewbauchee ","
+Convertible (Soft-top) ","
+$350,000
+","
+93.21 mph (150.00 km/h)","
+		2	","
+1,600	KG
+",RWD,"
+		5	","
+		September 17, 2013	",80.48,65,20,65.15,"57.66
+"
+477,Surano,"
+Sports ","
+Benefactor ","
+Convertible (Soft-top) ","
+$110,000
+","
+96.31 mph (155.00 km/h)","
+		2	","
+1,600	KG
+",RWD,"
+		6	","
+		September 17, 2013	",83.17,85,33.33,77.27,"69.69
+"
+478,Sultan,"
+Sports ","
+Karin ","
+Convertible (Soft-top) ","
+$12,000
+","
+90.10 mph (145.00 km/h)","
+		4	","
+1,400	KG
+",AWD,"
+		5	","
+		September 17, 2013	",77.8,65,13.33,71.21,"56.84
+"
+479,Schwartzer,"
+Sports ","
+Benefactor ","
+Convertible (Soft-top) ","
+$80,000
+","
+91.34 mph (147.00 km/h)","
+		2	","
+1,400	KG
+",RWD,"
+		5	","
+		September 17, 2013	",78.87,72.5,30,69.7,"62.77
+"
+480,Rapid GT Cabrio,"
+Sports ","
+Dewbauchee ","
+Convertible (Soft-top) ","
+$140,000
+","
+94.45 mph (152.00 km/h)","
+		2	","
+1,600	KG
+",RWD,"
+		6	","
+		September 17, 2013	",81.56,90,33.33,74.24,"69.78
+"
+481,Rapid GT,"
+Sports ","
+Dewbauchee ","
+Convertible (Soft-top) ","
+$132,000
+","
+94.45 mph (152.00 km/h)","
+		2	","
+1,600	KG
+",RWD,"
+		6	","
+		September 17, 2013	",81.56,90,33.33,74.24,"69.78
+"
+482,Penumbra,"
+Sports ","
+Maibatsu ","
+Convertible (Soft-top) ","
+$24,000
+","
+86.99 mph (140.00 km/h)","
+		2	","
+1,400	KG
+",RWD,"
+		5	","
+		September 17, 2013	",75.12,55,26.67,68.18,"56.24
+"
+483,Futo,"
+Sports ","
+Karin ","
+Convertible (Soft-top) ","
+$9,000
+","
+83.89 mph (135.00 km/h)","
+		2	","
+900	KG
+",RWD,"
+		5	","
+		September 17, 2013	",72.43,72.5,16.67,62.12,"55.93
+"
+484,Fusilade,"
+Sports ","
+Schyster ","
+Convertible (Soft-top) ","
+$36,000
+","
+92.58 mph (149.00 km/h)","
+		2	","
+1,500	KG
+",RWD,"
+		6	","
+		September 17, 2013	",79.95,80,30,74.24,"66.05
+"
+485,Feltzer,"
+Sports ","
+Benefactor ","
+Convertible (Soft-top) ","
+$145,000
+","
+95.07 mph (153.00 km/h)","
+		2	","
+1,450	KG
+",RWD,"
+		6	","
+		September 17, 2013	",82.09,85,26.67,80.3,"68.52
+"
+486,Elegy RH8,"
+Sports ","
+Annis ","
+Convertible (Soft-top) ","
+$95,000
+","
+94.45 mph (152.00 km/h)","
+		2	","
+1,700	KG
+",AWD,"
+		6	","
+		September 17, 2013	",81.56,82.5,16.67,81.82,"65.64
+"
+487,Coquette (Topless),"
+Sports ","
+Invetero ","
+Convertible (Soft-top) ","
+$138,000
+","
+94.45 mph (152.00 km/h)","
+		2	","
+1,400	KG
+",RWD,"
+		6	","
+		September 17, 2013	",81.56,82.5,26.67,77.27,"67
+"
+488,Coquette,"
+Sports ","
+Invetero ","
+Convertible (Soft-top) ","
+$138,000
+","
+94.45 mph (152.00 km/h)","
+		2	","
+1,400	KG
+",RWD,"
+		6	","
+		September 17, 2013	",81.56,82.5,26.67,77.27,"67
+"
+489,Comet,"
+Sports ","
+Pfister ","
+Convertible (Soft-top) ","
+$100,000
+","
+94.45 mph (152.00 km/h)","
+		2	","
+1,400	KG
+",RWD,"
+		5	","
+		September 17, 2013	",81.56,85,26.67,78.79,"68
+"
+490,Carbonizzare,"
+Sports ","
+Grotti ","
+Convertible (Hard-top) ","
+$195,000
+","
+98.18 mph (158.00 km/h)","
+		2	","
+1,600	KG
+",RWD,"
+		6	","
+		September 17, 2013	",84.78,87.5,26.67,72.12,"67.77
+"
+491,Buffalo S,"
+Sports ","
+Bravado ","
+Convertible (Hard-top) ","
+$96,000
+","
+90.10 mph (145.00 km/h)","
+		4	","
+1,650	KG
+",RWD,"
+		5	","
+		September 17, 2013	",77.8,72.5,30,74.24,"63.64
+"
+492,Buffalo,"
+Sports ","
+Bravado ","
+Convertible (Hard-top) ","
+$35,000
+","
+90.10 mph (145.00 km/h)","
+		4	","
+1,650	KG
+",RWD,"
+		5	","
+		September 17, 2013	",77.8,67.5,30,74.24,"62.39
+"
+493,Banshee (Topless),"
+Sports ","
+Bravado ","
+Convertible (Hard-top) ","
+$126,000
+","
+91.96 mph (148.00 km/h)","
+		2	","
+1,200	KG
+",RWD,"
+		5	","
+		September 17, 2013	",79.41,85,33.33,73.33,"67.77
+"
+494,Banshee,"
+Sports ","
+Bravado ","
+Convertible (Hard-top) ","
+$105,000
+","
+91.96 mph (148.00 km/h)","
+		2	","
+1,200	KG
+",RWD,"
+		5	","
+		September 17, 2013	",79.41,85,33.33,73.33,"67.77
+"
+495,9F Cabrio,"
+Sports ","
+Obey ","
+Convertible (Soft-top) ","
+$130,000
+","
+96.31 mph (155.00 km/h)","
+		2	","
+1,300	KG
+",AWD,"
+		6	","
+		September 17, 2013	",83.17,82.5,33.33,77.27,"69.07
+"
+496,9F,"
+Sports ","
+Obey ","
+Convertible (Soft-top) ","
+$120,000
+","
+96.31 mph (155.00 km/h)","
+		2	","
+1,300	KG
+",AWD,"
+		6	","
+		September 17, 2013	",83.17,82.5,33.33,77.27,"69.07
+"
+497,Trashmaster,"
+Service ","
+JoBuilt ","
+Convertible (Soft-top) ","
+$120,000
+","
+68.35 mph (110.00 km/h)","
+		4	","
+9,000	KG
+",RWD,"
+		5	","
+		September 17, 2013	",59.02,32.5,10,46.97,"37.12
+"
+498,Tour Bus,"
+Service ","
+Brute ","
+Convertible (Soft-top) ","
+$120,000
+","
+68.35 mph (110.00 km/h)","
+		10	","
+5,500	KG
+",RWD,"
+		4	","
+		September 17, 2013	",59.02,30,8.33,46.97,"36.08
+"
+499,Taxi,"
+Service ","
+Vapid ","
+Convertible (Soft-top) ","
+$120,000
+","
+88.86 mph (143.00 km/h)","
+		4	","
+1,400	KG
+",RWD,"
+		5	","
+		September 17, 2013	",76.73,50,30,77.27,"58.5
+"
+500,Rental Shuttle Bus,"
+Service ","
+Brute ","
+Convertible (Soft-top) ","
+$30,000
+","
+68.35 mph (110.00 km/h)","
+		10	","
+5,500	KG
+",RWD,"
+		4	","
+		September 17, 2013	",59.02,30,8.33,46.97,"36.08
+"
+501,Dashound,"
+Service ","
+Brute ","
+Convertible (Soft-top) ","
+$525,000
+","
+62.14 mph (100.00 km/h)","
+		10	","
+8,500	KG
+",AWD,"
+		4	","
+		September 17, 2013	",53.66,30,8.33,43.94,"33.98
+"
+502,Bus,"
+Service ","
+Brute ","
+Convertible (Soft-top) ","
+$500,000
+","
+62.14 mph (100.00 km/h)","
+		16	","
+9,000	KG
+",AWD,"
+		4	","
+		September 17, 2013	",53.66,30,11.67,43.94,"34.82
+"
+503,Airport Bus,"
+Service ","
+Brute ","
+Convertible (Soft-top) ","
+$550,000
+","
+62.14 mph (100.00 km/h)","
+		16	","
+9,000	KG
+",AWD,"
+		4	","
+		September 17, 2013	",53.66,30,8.33,43.94,"33.98
+"
+504,Washington,"
+Sedans ","
+Albany ","
+Convertible (Soft-top) ","
+$15,000
+","
+86.99 mph (140.00 km/h)","
+		4	","
+1,800	KG
+",RWD,"
+		5	","
+		September 17, 2013	",75.12,50,30,74.24,"57.34
+"
+505,Tailgater,"
+Sedans ","
+Obey ","
+Convertible (Soft-top) ","
+$55,000
+","
+90.10 mph (145.00 km/h)","
+		4	","
+1,400	KG
+",RWD,"
+		5	","
+		September 17, 2013	",77.8,50,30,77.27,"58.77
+"
+506,Surge,"
+Sedans ","
+Cheval ","
+Electric Vehicle ","
+$38,000
+","
+86.99 mph (140.00 km/h)","
+		4	","
+1,800	KG
+",FWD,"
+		1	","
+		September 17, 2013	",75.12,25,20,65.15,"46.32
+"
+507,Super Diamond,"
+Sedans ","
+Enus ","
+Electric Vehicle ","
+$250,000
+","
+90.10 mph (145.00 km/h)","
+		4	","
+2,800	KG
+",RWD,"
+		5	","
+		September 17, 2013	",77.8,65,20,63.64,"56.61
+"
+508,Stretch,"
+Sedans ","
+Dundreary ","
+Electric Vehicle ","
+$30,000
+","
+83.89 mph (135.00 km/h)","
+		6	","
+2,400	KG
+",RWD,"
+		5	","
+		September 17, 2013	",72.43,42.5,26.67,56.06,"49.42
+"
+509,Stratum,"
+Sedans ","
+Zirconium ","
+Electric Vehicle ","
+$10,000
+","
+83.89 mph (135.00 km/h)","
+		4	","
+1,800	KG
+",AWD,"
+		5	","
+		September 17, 2013	",72.43,52.5,20,66.67,"52.9
+"
+510,Stanier,"
+Sedans ","
+Vapid ","
+Electric Vehicle ","
+$10,000
+","
+86.99 mph (140.00 km/h)","
+		4	","
+1,800	KG
+",RWD,"
+		5	","
+		September 17, 2013	",75.12,50,30,74.24,"57.34
+"
+511,Schafter,"
+Sedans ","
+Benefactor ","
+Electric Vehicle ","
+$65,000
+","
+90.10 mph (145.00 km/h)","
+		4	","
+1,600	KG
+",RWD,"
+		5	","
+		September 17, 2013	",77.8,50,30,77.27,"58.77
+"
+512,Romero Hearse,"
+Sedans ","
+Chariot ","
+Electric Vehicle ","
+$45,000
+","
+77.67 mph (125.00 km/h)","
+		4	","
+2,000	KG
+",RWD,"
+		5	","
+		September 17, 2013	",67.07,37.5,16.67,59.09,"45.08
+"
+513,Regina,"
+Sedans ","
+Dundreary ","
+Electric Vehicle ","
+$8,000
+","
+74.56 mph (120.00 km/h)","
+		4	","
+1,900	KG
+",RWD,"
+		4	","
+		September 17, 2013	",64.39,35,20,57.58,"44.24
+"
+514,Primo,"
+Sedans ","
+Albany ","
+Electric Vehicle ","
+$9,000
+","
+86.99 mph (140.00 km/h)","
+		4	","
+1,800	KG
+",RWD,"
+		5	","
+		September 17, 2013	",75.12,50,30,71.21,"56.58
+"
+515,Premier,"
+Sedans ","
+Declasse ","
+Electric Vehicle ","
+$10,000
+","
+90.10 mph (145.00 km/h)","
+		4	","
+1,600	KG
+",FWD,"
+		5	","
+		September 17, 2013	",77.8,50,20,63.64,"52.86
+"
+516,Intruder,"
+Sedans ","
+Karin ","
+Electric Vehicle ","
+$16,000
+","
+90.10 mph (145.00 km/h)","
+		4	","
+1,600	KG
+",RWD,"
+		5	","
+		September 17, 2013	",77.8,50,30,71.21,"57.25
+"
+517,Ingot,"
+Sedans ","
+Vulcar ","
+Electric Vehicle ","
+$9,000
+","
+77.67 mph (125.00 km/h)","
+		4	","
+1,400	KG
+",FWD,"
+		5	","
+		September 17, 2013	",67.07,35,20,59.09,"45.29
+"
+518,Fugitive,"
+Sedans ","
+Cheval ","
+Electric Vehicle ","
+$24,000
+","
+90.10 mph (145.00 km/h)","
+		4	","
+1,600	KG
+",RWD,"
+		5	","
+		September 17, 2013	",77.8,50,30,75.76,"58.39
+"
+519,Emperor,"
+Sedans ","
+Albany ","
+Electric Vehicle ","
+$24,000
+","
+74.56 mph (120.00 km/h)","
+		4	","
+1,900	KG
+",RWD,"
+		5	","
+		September 17, 2013	",64.39,35,20,57.58,"44.24
+"
+520,Asterope,"
+Sedans ","
+Karin ","
+Electric Vehicle ","
+$26,000
+","
+90.10 mph (145.00 km/h)","
+		4	","
+1,500	KG
+",RWD,"
+		5	","
+		September 17, 2013	",77.8,50,30,75.76,"58.39
+"
+521,Asea,"
+Sedans ","
+Declasse ","
+Electric Vehicle ","
+$12,000
+","
+90.10 mph (145.00 km/h)","
+		4	","
+1,400	KG
+",FWD,"
+		5	","
+		September 17, 2013	",77.8,50,13.33,62.12,"50.81
+"
+522,Velum,"
+Planes ","
+JoBuilt ","
+Electric Vehicle ","
+$450,000
+","
+166.96 mph (268.70 km/h)","
+		4	","
+5,000	KG
+",RWD,"
+		5	","
+		September 17, 2013	",81.76,58,25,68,"58.19
+"
+523,Titan,"
+Planes ","
+JoBuilt ","
+Electric Vehicle ","
+$2,000,000
+","
+174.92 mph (281.50 km/h)","
+		10	","
+38,000	KG
+",RWD,"
+		5	","
+		September 17, 2013	",85.65,57,25,30,"49.41
+"
+524,Shamal,"
+Planes ","
+Buckingham ","
+Electric Vehicle ","
+$1,150,000
+","
+202.69 mph (326.20 km/h)","
+		10	","
+6,400	KG
+",FWD,"
+		5	","
+		September 17, 2013	",99.25,81,25,35,"60.06
+"
+525,P-996 LAZER,"
+Planes ","
+JoBuilt ","
+Armed Vehicle ","
+$6,500,000
+","
+204.18 mph (328.60 km/h)","
+		1	","
+8,000	KG
+",FWD,"
+		5	","
+		September 17, 2013	",99.99,100,25,100,"81.25
+"
+526,Mammatus,"
+Planes ","
+JoBuilt ","
+Armed Vehicle ","
+$300,000
+","
+155.34 mph (250.00 km/h)","
+		4	","
+2,000	KG
+",RWD,"
+		5	","
+		September 17, 2013	",76.07,50,25,90,"60.27
+"
+527,Mallard,"
+Planes ","
+Western Company ","
+Armed Vehicle ","
+$250,000
+","
+176.72 mph (284.40 km/h)","
+		1	","
+1,000	KG
+",FWD,"
+		5	","
+		September 17, 2013	",86.54,100,25,100,"77.89
+"
+528,Luxor,"
+Planes ","
+Buckingham ","
+Armed Vehicle ","
+$1,625,000
+","
+202.69 mph (326.20 km/h)","
+		10	","
+6,400	KG
+",FWD,"
+		5	","
+		September 17, 2013	",99.25,81,25,35,"60.06
+"
+529,Jet,"
+Planes ","
+Buckingham ","
+Armed Vehicle ","
+$1,625,000
+","
+176.47 mph (284.00 km/h)","
+		2	","
+38,000	KG
+",RWD,"
+		5	","
+		September 17, 2013	",86.42,63,25,30,"51.1
+"
+530,Duster,"
+Planes ","
+Western Company ","
+Armed Vehicle ","
+$275,000
+","
+155.22 mph (249.80 km/h)","
+		2	","
+2,000	KG
+",RWD,"
+		5	","
+		September 17, 2013	",76.01,50,50,82,"64.5
+"
+531,Cuban 800,"
+Planes ","
+Western Company ","
+Armed Vehicle ","
+$240,000
+","
+171.81 mph (276.50 km/h)","
+		2	","
+5,000	KG
+",RWD,"
+		5	","
+		September 17, 2013	",84.74,60,25,62.72,"58.12
+"
+532,Atomic Blimp,"
+Planes ","
+Western Company ","
+Armed Vehicle ","
+$240,000
+","
+99.42 mph (160.00 km/h)","
+		4	","
+12,000	KG
+",RWD,"
+		5	","
+		September 17, 2013	",48.69,31,1.82,7.45,"22.24
+"
+533,Sandking XL,"
+Off-Road ","
+Vapid ","
+Armed Vehicle ","
+$45,000
+","
+80.78 mph (130.00 km/h)","
+		4	","
+2,400	KG
+",AWD,"
+		6	","
+		September 17, 2013	",69.75,50,20,60.61,"50.09
+"
+534,Sandking SWB,"
+Off-Road ","
+Vapid ","
+Armed Vehicle ","
+$38,000
+","
+80.78 mph (130.00 km/h)","
+		2	","
+2,400	KG
+",AWD,"
+		6	","
+		September 17, 2013	",69.75,50,20,60.61,"50.09
+"
+535,Rusty Rebel,"
+Off-Road ","
+Karin ","
+Armed Vehicle ","
+$3,000
+","
+80.78 mph (130.00 km/h)","
+		2	","
+2,400	KG
+",AWD,"
+		5	","
+		September 17, 2013	",69.75,50,20,62.12,"50.47
+"
+536,Rebel,"
+Off-Road ","
+Karin ","
+Armed Vehicle ","
+$22,000
+","
+80.78 mph (130.00 km/h)","
+		2	","
+2,400	KG
+",AWD,"
+		5	","
+		September 17, 2013	",69.75,50,20,62.12,"50.47
+"
+537,Rancher XL,"
+Off-Road ","
+Declasse ","
+Armed Vehicle ","
+$9,000
+","
+80.78 mph (130.00 km/h)","
+		4	","
+2,400	KG
+",AWD,"
+		5	","
+		September 17, 2013	",69.75,45,26.67,59.09,"50.13
+"
+538,Mesa (Merryweather),"
+Off-Road ","
+Canis ","
+Armed Vehicle ","
+$87,000
+","
+80.78 mph (130.00 km/h)","
+		4	","
+2,400	KG
+",AWD,"
+		5	","
+		September 17, 2013	",69.75,42.5,10,60.61,"45.71
+"
+539,Injection,"
+Off-Road ","
+BF ","
+Armed Vehicle ","
+$16,000
+","
+80.78 mph (130.00 km/h)","
+		2	","
+1,800	KG
+",RWD,"
+		5	","
+		September 17, 2013	",72.43,57.5,20.67,56.06,"51.67
+"
+540,Hot Rod Blazer,"
+Off-Road ","
+Nagasaki ","
+Armed Vehicle ","
+$69,000
+","
+74.56 mph (120.00 km/h)","
+		1	","
+600	KG
+",AWD,"
+		5	","
+		September 17, 2013	",64.39,50,33.33,78.79,"56.63
+"
+541,Duneloader,"
+Off-Road ","
+Bravado ","
+Armed Vehicle ","
+$69,000
+","
+62.14 mph (100.00 km/h)","
+		2	","
+2,100	KG
+",RWD,"
+		4	","
+		September 17, 2013	",67.07,42.5,20,51.52,"45.27
+"
+542,Dune Buggy,"
+Off-Road ","
+BF ","
+Armed Vehicle ","
+$20,000
+","
+83.89 mph (135.00 km/h)","
+		2	","
+1,800	KG
+",RWD,"
+		5	","
+		September 17, 2013	",72.43,62.5,21,66.67,"55.65
+"
+543,Bodhi,"
+Off-Road ","
+Canis ","
+Armed Vehicle ","
+$25,000
+","
+83.26 mph (134.00 km/h)","
+		4	","
+2,600	KG
+",AWD,"
+		5	","
+		September 17, 2013	",71.9,53.75,36.67,68.18,"57.62
+"
+544,Blazer Lifeguard,"
+Off-Road ","
+Nagasaki ","
+Armed Vehicle ","
+$62,000
+","
+68.35 mph (110.00 km/h)","
+		1	","
+650	KG
+",AWD,"
+		5	","
+		September 17, 2013	",59.02,30,26.67,60.61,"44.07
+"
+545,Blazer,"
+Off-Road ","
+Nagasaki ","
+Armed Vehicle ","
+$8,000
+","
+74.56 mph (120.00 km/h)","
+		1	","
+600	KG
+",AWD,"
+		5	","
+		September 17, 2013	",64.39,50,33.33,78.79,"56.63
+"
+546,Voodoo,"
+Muscle ","
+Declasse ","
+Armed Vehicle ","
+$5,500
+","
+80.78 mph (130.00 km/h)","
+		2	","
+2,100	KG
+",RWD,"
+		4	","
+		September 17, 2013	",69.75,42.5,8.33,56.06,"44.16
+"
+547,Vigero,"
+Muscle ","
+Declasse ","
+Armed Vehicle ","
+$21,000
+","
+86.99 mph (140.00 km/h)","
+		2	","
+1,800	KG
+",RWD,"
+		5	","
+		September 17, 2013	",75.12,72.5,26.67,62.12,"59.1
+"
+548,Sabre Turbo,"
+Muscle ","
+Declasse ","
+Armed Vehicle ","
+$15,000
+","
+86.99 mph (140.00 km/h)","
+		2	","
+1,200	KG
+",RWD,"
+		5	","
+		September 17, 2013	",75.12,70,26.67,68.18,"59.99
+"
+549,Ruiner,"
+Muscle ","
+Imponte ","
+Armed Vehicle ","
+$10,000
+","
+90.10 mph (145.00 km/h)","
+		2	","
+1,300	KG
+",RWD,"
+		5	","
+		September 17, 2013	",77.8,70,26.67,66.67,"60.28
+"
+550,Rat-Loader,"
+Muscle ","
+Bravado ","
+Armed Vehicle ","
+$6,000
+","
+83.89 mph (135.00 km/h)","
+		2	","
+1,200	KG
+",RWD,"
+		4	","
+		September 17, 2013	",72.43,55,13.33,50,"47.69
+"
+551,Picador,"
+Muscle ","
+Cheval ","
+Armed Vehicle ","
+$9,000
+","
+83.89 mph (135.00 km/h)","
+		2	","
+1,600	KG
+",AWD,"
+		5	","
+		September 17, 2013	",72.43,55,26.67,62.12,"54.06
+"
+552,Phoenix,"
+Muscle ","
+Imponte ","
+Armed Vehicle ","
+$9,000
+","
+90.10 mph (145.00 km/h)","
+		2	","
+1,700	KG
+",RWD,"
+		5	","
+		September 17, 2013	",77.8,70,26.67,65.15,"59.9
+"
+553,Hotknife,"
+Muscle ","
+Vapid ","
+Armed Vehicle ","
+$90,000
+","
+86.99 mph (140.00 km/h)","
+		2	","
+700	KG
+",RWD,"
+		5	","
+		September 17, 2013	",75.12,75,14.33,56.06,"55.13
+"
+554,Gauntlet,"
+Muscle ","
+Bravado ","
+Armed Vehicle ","
+$32,000
+","
+90.10 mph (145.00 km/h)","
+		2	","
+1,600	KG
+",RWD,"
+		5	","
+		September 17, 2013	",77.8,75,30,75.76,"64.64
+"
+555,Dominator,"
+Muscle ","
+Vapid ","
+Armed Vehicle ","
+$35,000
+","
+90.10 mph (145.00 km/h)","
+		2	","
+1,600	KG
+",RWD,"
+		5	","
+		September 17, 2013	",77.8,72.5,26.67,68.18,"61.29
+"
+556,Buccaneer,"
+Muscle ","
+Albany ","
+Armed Vehicle ","
+$29,000
+","
+90.72 mph (146.00 km/h)","
+		2	","
+1,600	KG
+",RWD,"
+		5	","
+		September 17, 2013	",78.34,70,26.67,65.15,"60.04
+"
+557,Vader,"
+Motorcycles ","
+Shitzu ","
+Armed Vehicle ","
+$9,000
+","
+86.99 mph (140.00 km/h)","
+		2	","
+230	KG
+",RWD,"
+		5	","
+		September 17, 2013	",75.12,67.5,36.67,57.58,"59.21
+"
+558,Sanchez (Livery),"
+MotorcyclesOff-Road ","
+Maibatsu ","
+Armed Vehicle ","
+$7,000
+","
+73.32 mph (118.00 km/h)","
+		2	","
+220	KG
+",RWD,"
+		4	","
+		September 17, 2013	",63.31,70,36.67,65.15,"58.78
+"
+559,Sanchez,"
+MotorcyclesOff-Road ","
+Maibatsu ","
+Armed Vehicle ","
+$8,000
+","
+73.32 mph (118.00 km/h)","
+		2	","
+220	KG
+",RWD,"
+		4	","
+		September 17, 2013	",63.31,70,36.67,65.15,"58.78
+"
+560,Ruffian,"
+Motorcycles ","
+Pegassi ","
+Armed Vehicle ","
+$10,000
+","
+86.99 mph (140.00 km/h)","
+		2	","
+250	KG
+",RWD,"
+		5	","
+		September 17, 2013	",75.12,85,36.67,59.09,"63.97
+"
+561,PCJ 600,"
+Motorcycles ","
+Shitzu ","
+Armed Vehicle ","
+$9,000
+","
+80.78 mph (130.00 km/h)","
+		2	","
+250	KG
+",RWD,"
+		5	","
+		September 17, 2013	",69.75,65,43.33,62.12,"60.05
+"
+562,Nemesis,"
+Motorcycles ","
+Principe ","
+Armed Vehicle ","
+$12,000
+","
+86.99 mph (140.00 km/h)","
+		2	","
+250	KG
+",RWD,"
+		5	","
+		September 17, 2013	",75.12,75,40,59.09,"62.3
+"
+563,Hexer,"
+Motorcycles ","
+LCC ","
+Armed Vehicle ","
+$15,000
+","
+83.89 mph (135.00 km/h)","
+		2	","
+250	KG
+",RWD,"
+		4	","
+		September 17, 2013	",72.43,65,33.33,56.06,"56.71
+"
+564,Faggio,"
+MotorcyclesUtility ","
+Pegassi ","
+Armed Vehicle ","
+$5,000
+","
+55.92 mph (90.00 km/h)","
+		2	","
+100	KG
+",RWD,"
+		3	","
+		September 17, 2013	",48.29,25,13.33,48.48,"33.78
+"
+565,Double-T,"
+Motorcycles ","
+Dinka ","
+Armed Vehicle ","
+$12,000
+","
+91.34 mph (147.00 km/h)","
+		2	","
+200	KG
+",RWD,"
+		5	","
+		September 17, 2013	",78.87,77.5,46.67,66.06,"67.28
+"
+566,Daemon,"
+Motorcycles ","
+Western ","
+Armed Vehicle ","
+$12,000
+","
+83.89 mph (135.00 km/h)","
+		2	","
+250	KG
+",RWD,"
+		5	","
+		September 17, 2013	",72.43,65,20,56.06,"53.37
+"
+567,Carbon RS,"
+Motorcycles ","
+Nagasaki ","
+Armed Vehicle ","
+$40,000
+","
+90.10 mph (145.00 km/h)","
+		2	","
+250	KG
+",RWD,"
+		5	","
+		September 17, 2013	",77.8,75,43.33,65.15,"65.32
+"
+568,Bati 801RR,"
+Motorcycles ","
+Pegassi ","
+Armed Vehicle ","
+$15,000
+","
+93.21 mph (150.00 km/h)","
+		2	","
+230	KG
+",RWD,"
+		6	","
+		September 17, 2013	",80.48,75,46.67,70.3,"68.11
+"
+569,Bati 801,"
+Motorcycles ","
+Pegassi ","
+Armed Vehicle ","
+$15,000
+","
+93.21 mph (150.00 km/h)","
+		2	","
+230	KG
+",RWD,"
+		6	","
+		September 17, 2013	",80.48,75,46.67,70.3,"68.11
+"
+570,Bagger,"
+Motorcycles ","
+Western ","
+Armed Vehicle ","
+$16,000
+","
+80.78 mph (130.00 km/h)","
+		2	","
+230	KG
+",RWD,"
+		4	","
+		September 17, 2013	",69.75,52.5,40,50,"53.06
+"
+571,Akuma,"
+Motorcycles ","
+Dinka ","
+Armed Vehicle ","
+$9,000
+","
+90.10 mph (145.00 km/h)","
+		2	","
+250	KG
+",RWD,"
+		5	","
+		September 17, 2013	",77.8,100,40,65.15,"70.74
+"
+572,Rhino Tank,"
+Military ","
+Dinka ","
+Armed VehicleArmored Vehicle ","
+$1,500,000
+","
+34.18 mph (55.00 km/h)","
+		1	","
+60,000	KG
+",AWD,"
+		1	","
+		September 17, 2013	",29.51,27.5,6.67,75.76,"34.86
+"
+573,Crusader,"
+MilitarySUVs ","
+Canis ","
+Armed VehicleArmored Vehicle ","
+$225,000
+","
+80.78 mph (130.00 km/h)","
+		4	","
+2,400	KG
+",AWD,"
+		5	","
+		September 17, 2013	",69.75,45,10,57.58,"45.58
+"
+574,Barracks Semi,"
+Military ","
+HVY ","
+Towing Hitch ","
+$225,000
+","
+68.35 mph (110.00 km/h)","
+		2	","
+10,000	KG
+",RWD,"
+		5	","
+		September 17, 2013	",59.02,57.5,33.33,46.97,"49.21
+"
+575,Barracks,"
+Military ","
+HVY ","
+Towing Hitch ","
+$450,000
+","
+68.35 mph (110.00 km/h)","
+		10	","
+9,000	KG
+",RWD,"
+		5	","
+		September 17, 2013	",59.02,27.5,10,50,"36.63
+"
+576,Tipper,"
+Industrial ","
+Brute ","
+Towing Hitch ","
+$450,000
+","
+62.14 mph (100.00 km/h)","
+		2	","
+5,500	KG
+",RWD,"
+		4	","
+		September 17, 2013	",53.66,27.5,8.33,48.48,"34.49
+"
+577,Rubble,"
+Industrial ","
+JoBuilt ","
+Towing Hitch ","
+$450,000
+","
+62.14 mph (100.00 km/h)","
+		2	","
+6,500	KG
+",RWD,"
+		4	","
+		September 17, 2013	",53.66,35,8.33,48.48,"36.37
+"
+578,Mixer,"
+Industrial ","
+HVY ","
+Towing Hitch ","
+$450,000
+","
+68.35 mph (110.00 km/h)","
+		2	","
+6,000	KG
+",RWD,"
+		4	","
+		September 17, 2013	",59.02,27.5,10,48.48,"36.25
+"
+579,Flatbed,"
+Industrial ","
+MTL ","
+Towing Hitch ","
+$450,000
+","
+80.78 mph (130.00 km/h)","
+		2	","
+6,500	KG
+",AWD,"
+		5	","
+		September 17, 2013	",69.75,35,8.33,50,"40.77
+"
+580,Dump,"
+Industrial ","
+HVY ","
+Towing Hitch ","
+$1,000,000
+","
+26.72 mph (43.00 km/h)","
+		1	","
+35,000	KG
+",RWD,"
+		4	","
+		September 17, 2013	",18.78,40,10,43.94,"28.18
+"
+581,Dozer,"
+Industrial ","
+HVY ","
+Towing Hitch ","
+$1,000,000
+","
+9.32 mph (15.00 km/h)","
+		1	","
+20,000	KG
+",AWD,"
+		1	","
+		September 17, 2013	",8.05,35,6.67,33.33,"20.76
+"
+582,Dock Handler,"
+Industrial ","
+HVY ","
+Towing Hitch ","
+$1,000,000
+","
+15.53 mph (25.00 km/h)","
+		1	","
+6,000	KG
+",FWD,"
+		1	","
+		September 17, 2013	",13.41,35,3.33,56.06,"26.95
+"
+583,Cutter,"
+Industrial ","
+HVY ","
+Towing Hitch ","
+$1,000,000
+","
+24.85 mph (40.00 km/h)","
+		1	","
+25,000	KG
+",AWD,"
+		1	","
+		September 17, 2013	",21.46,40,10,45.45,"29.23
+"
+584,Skylift,"
+Helicopters ","
+HVY ","
+Towing Hitch ","
+$1,000,000
+","
+99.42 mph (160.00 km/h)","
+		2	","
+10,000	KG
+",AWD,"
+		1	","
+		September 17, 2013	",76.75,85.71,10,72.12,"78.19
+"
+585,Police Maverick,"
+HelicoptersEmergency ","
+Buckingham ","
+Towing Hitch ","
+$1,000,000
+","
+99.42 mph (160.00 km/h)","
+		4	","
+6,500	KG
+",AWD,"
+		1	","
+		September 17, 2013	",76.75,94.64,10,95.58,"88.99
+"
+586,Maverick,"
+Helicopters ","
+Buckingham ","
+Towing Hitch ","
+$780,000
+","
+99.42 mph (160.00 km/h)","
+		4	","
+6,500	KG
+",AWD,"
+		1	","
+		September 17, 2013	",76.75,92.86,10,90.38,"86.66
+"
+587,Frogger,"
+Helicopters ","
+Maibatsu ","
+Towing Hitch ","
+$1,300,000
+","
+99.42 mph (160.00 km/h)","
+		4	","
+7,000	KG
+",AWD,"
+		1	","
+		September 17, 2013	",76.75,100,10,87.69,"88.15
+"
+588,Cargobob,"
+Helicopters ","
+Western Company ","
+Towing HitchFloat on Water ","
+$1,790,000
+","
+99.42 mph (160.00 km/h)","
+		10	","
+15,000	KG
+",AWD,"
+		1	","
+		September 17, 2013	",76.75,91.07,10,74.04,"80.62
+"
+589,Buzzard Attack Chopper,"
+Helicopters ","
+Nagasaki ","
+Armed Vehicle ","
+$1,750,000
+","
+99.42 mph (160.00 km/h)","
+		4	","
+3,800	KG
+",AWD,"
+		1	","
+		September 17, 2013	",76.75,98.21,10,100,"91.66
+"
+590,Buzzard,"
+Helicopters ","
+Nagasaki ","
+Armed Vehicle ","
+$1,750,000
+","
+99.42 mph (160.00 km/h)","
+		4	","
+3,800	KG
+",AWD,"
+		1	","
+		September 17, 2013	",76.75,98.21,10,100,"91.66
+"
+591,Unmarked Cruiser,"
+Emergency ","
+Vapid ","
+Armed Vehicle ","
+$1,750,000
+","
+90.10 mph (145.00 km/h)","
+		4	","
+1,400	KG
+",RWD,"
+		5	","
+		September 17, 2013	",77.8,50,30,77.27,"58.77
+"
+592,Sheriff SUV,"
+Emergency ","
+Declasse ","
+Armed Vehicle ","
+$1,750,000
+","
+86.99 mph (140.00 km/h)","
+		8	","
+2,400	KG
+",AWD,"
+		5	","
+		September 17, 2013	",75.12,50,26.67,65.15,"54.23
+"
+593,Sheriff Cruiser,"
+Emergency ","
+Vapid ","
+Armed Vehicle ","
+$1,750,000
+","
+90.10 mph (145.00 km/h)","
+		4	","
+1,400	KG
+",RWD,"
+		5	","
+		September 17, 2013	",77.8,60,20,68.18,"56.5
+"
+594,Police Transporter,"
+Emergency ","
+Declasse ","
+Armored Vehicle ","
+$1,750,000
+","
+80.78 mph (130.00 km/h)","
+		4	","
+2,500	KG
+",RWD,"
+		5	","
+		September 17, 2013	",69.75,40,20,59.09,"47.21
+"
+595,Police Riot,"
+Emergency ","
+Brute ","
+Armored Vehicle ","
+$1,750,000
+","
+74.56 mph (120.00 km/h)","
+		8	","
+6,500	KG
+",RWD,"
+		5	","
+		September 17, 2013	",64.39,30,8.33,50,"38.18
+"
+596,Police Prison Bus,"
+Emergency ","
+Vapid ","
+Armored Vehicle ","
+$731,500
+","
+55.92 mph (90.00 km/h)","
+		11	","
+9,000	KG
+",RWD,"
+		4	","
+		September 17, 2013	",48.29,35,8.33,40.91,"33.13
+"
+597,Police Cruiser (Interceptor),"
+Emergency ","
+Vapid ","
+Armored Vehicle ","
+$731,500
+","
+93.21 mph (150.00 km/h)","
+		4	","
+1,450	KG
+",RWD,"
+		5	","
+		September 17, 2013	",80.48,75,40,77.88,"68.34
+"
+598,Police Cruiser (Buffalo),"
+Emergency ","
+Bravado ","
+Armored Vehicle ","
+$731,500
+","
+90.10 mph (145.00 km/h)","
+		4	","
+1,650	KG
+",RWD,"
+		5	","
+		September 17, 2013	",77.8,70,30,72.73,"62.63
+"
+599,Police Cruiser,"
+Emergency ","
+Vapid ","
+Armored Vehicle ","
+$731,500
+","
+90.10 mph (145.00 km/h)","
+		4	","
+1,400	KG
+",RWD,"
+		5	","
+		September 17, 2013	",77.8,50,30,77.27,"58.77
+"
+600,Police Bike,"
+MotorcyclesEmergency ","
+Western ","
+Armored Vehicle ","
+$731,500
+","
+83.89 mph (135.00 km/h)","
+		1	","
+250	KG
+",RWD,"
+		4	","
+		September 17, 2013	",72.43,67.5,36.67,57.58,"58.54
+"
+601,Park Ranger,"
+EmergencySUVs ","
+Declasse ","
+Armored Vehicle ","
+$731,500
+","
+83.89 mph (135.00 km/h)","
+		8	","
+2,400	KG
+",AWD,"
+		5	","
+		September 17, 2013	",72.43,50,26.67,65.15,"53.56
+"
+602,Lifeguard Granger,"
+Emergency ","
+Declasse ","
+Armored Vehicle ","
+$865,000
+","
+86.99 mph (140.00 km/h)","
+		4	","
+2,400	KG
+",RWD,"
+		5	","
+		September 17, 2013	",75.12,50,26.67,62.12,"53.48
+"
+603,Fire Truck,"
+Emergency ","
+MTL ","
+Armed Vehicle ","
+$3,295,000
+","
+80.78 mph (130.00 km/h)","
+		7	","
+7,500	KG
+",RWD,"
+		5	","
+		September 17, 2013	",69.75,40,16.67,51.52,"44.48
+"
+604,FIB (Buffalo),"
+Emergency ","
+Bravado ","
+Armed Vehicle ","
+$3,295,000
+","
+90.10 mph (145.00 km/h)","
+		4	","
+1,650	KG
+",RWD,"
+		5	","
+		September 17, 2013	",77.8,70,30,74.24,"63.01
+"
+605,FIB (SUV),"
+Emergency ","
+Declasse ","
+Armed Vehicle ","
+$3,295,000
+","
+86.99 mph (140.00 km/h)","
+		8	","
+2,400	KG
+",AWD,"
+		5	","
+		September 17, 2013	",75.12,50,26.67,65.15,"54.23
+"
+606,Ambulance,"
+Emergency ","
+Brute ","
+Armed Vehicle ","
+$3,295,000
+","
+86.99 mph (140.00 km/h)","
+		4	","
+2,500	KG
+",AWD,"
+		5	","
+		September 17, 2013	",75.12,45,20,59.09,"49.8
+"
+607,Whippet Race Bike,"
+Cycles ","
+Brute ","
+Armed Vehicle ","
+$10,000
+","
+39.15 mph (63.00 km/h)","
+		1	","
+110	KG
+",RWD,"
+		5	","
+		September 17, 2013	",33.8,16.88,41.67,28.03,"30.09
+"
+608,Tri-Cycles Race Bike,"
+Cycles ","
+Brute ","
+Armed Vehicle ","
+$10,000
+","
+39.15 mph (63.00 km/h)","
+		1	","
+110	KG
+",RWD,"
+		5	","
+		September 17, 2013	",33.8,16.88,41.67,28.03,"30.09
+"
+609,Scorcher,"
+Cycles ","
+Brute ","
+Armed Vehicle ","
+$2,000
+","
+34.18 mph (55.00 km/h)","
+		1	","
+115	KG
+",RWD,"
+		5	","
+		September 17, 2013	",29.51,21.25,46.67,31.06,"32.12
+"
+610,Fixter,"
+Cycles ","
+Brute ","
+Armed Vehicle ","
+$2,000
+","
+39.15 mph (63.00 km/h)","
+		1	","
+110	KG
+",RWD,"
+		5	","
+		September 17, 2013	",33.8,16.88,6.67,28.03,"21.34
+"
+611,Endurex Race Bike,"
+Cycles ","
+Brute ","
+Armed Vehicle ","
+$10,000
+","
+39.15 mph (63.00 km/h)","
+		1	","
+110	KG
+",RWD,"
+		5	","
+		September 17, 2013	",33.8,16.88,41.67,28.03,"30.09
+"
+612,Cruiser,"
+Cycles ","
+Brute ","
+Armed Vehicle ","
+$800
+","
+27.96 mph (45.00 km/h)","
+		1	","
+120	KG
+",RWD,"
+		5	","
+		September 17, 2013	",24.14,10,46.67,27.27,"27.02
+"
+613,BMX,"
+Cycles ","
+Brute ","
+Armed Vehicle ","
+$800
+","
+31.07 mph (50.00 km/h)","
+		1	","
+105	KG
+",RWD,"
+		5	","
+		September 17, 2013	",26.83,20,50,28.03,"31.21
+"
+614,Zion Cabrio,"
+Coupes ","
+Übermacht ","
+Convertible (Soft-top) ","
+$65,000
+","
+90.10 mph (145.00 km/h)","
+		2	","
+1,400	KG
+",RWD,"
+		6	","
+		September 17, 2013	",77.8,55,30,78.79,"60.4
+"
+615,Zion,"
+Coupes ","
+Übermacht ","
+Convertible (Soft-top) ","
+$60,000
+","
+90.10 mph (145.00 km/h)","
+		2	","
+1,400	KG
+",RWD,"
+		6	","
+		September 17, 2013	",77.8,55,30,78.79,"60.4
+"
+616,Sentinel XS,"
+Coupes ","
+Übermacht ","
+Convertible (Soft-top) ","
+$60,000
+","
+88.23 mph (142.00 km/h)","
+		2	","
+1,400	KG
+",RWD,"
+		6	","
+		September 17, 2013	",76.19,52.5,30,74.24,"58.23
+"
+617,Sentinel,"
+Coupes ","
+Übermacht ","
+Convertible (Hard-top) ","
+$95,000
+","
+88.23 mph (142.00 km/h)","
+		2	","
+1,400	KG
+",RWD,"
+		6	","
+		September 17, 2013	",76.19,52.5,30,74.24,"58.23
+"
+618,Oracle XS,"
+Coupes ","
+Übermacht ","
+Convertible (Hard-top) ","
+$82,000
+","
+93.21 mph (150.00 km/h)","
+		4	","
+1,850	KG
+",RWD,"
+		5	","
+		September 17, 2013	",80.48,65,30,68.18,"60.92
+"
+619,Oracle,"
+Coupes ","
+Übermacht ","
+Convertible (Hard-top) ","
+$80,000
+","
+93.21 mph (150.00 km/h)","
+		4	","
+1,900	KG
+",RWD,"
+		5	","
+		September 17, 2013	",80.48,67.5,30,68.18,"61.54
+"
+620,Jackal,"
+Coupes ","
+Ocelot ","
+Convertible (Hard-top) ","
+$60,000
+","
+88.55 mph (142.50 km/h)","
+		4	","
+1,800	KG
+",RWD,"
+		6	","
+		September 17, 2013	",76.46,55,30,78.79,"60.06
+"
+621,Felon GT,"
+Coupes ","
+Lampadati ","
+Convertible (Soft-top) ","
+$95,000
+","
+90.10 mph (145.00 km/h)","
+		2	","
+1,850	KG
+",RWD,"
+		6	","
+		September 17, 2013	",77.8,60,30,75.76,"60.89
+"
+622,Felon,"
+Coupes ","
+Lampadati ","
+Convertible (Soft-top) ","
+$90,000
+","
+90.10 mph (145.00 km/h)","
+		4	","
+1,800	KG
+",RWD,"
+		6	","
+		September 17, 2013	",77.8,60,30,77.27,"61.27
+"
+623,F620,"
+Coupes ","
+Ocelot ","
+Convertible (Soft-top) ","
+$80,000
+","
+90.10 mph (145.00 km/h)","
+		2	","
+1,800	KG
+",RWD,"
+		6	","
+		September 17, 2013	",77.8,60,30,75.76,"60.89
+"
+624,Exemplar,"
+Coupes ","
+Dewbauchee ","
+Convertible (Soft-top) ","
+$205,000
+","
+90.10 mph (145.00 km/h)","
+		4	","
+1,800	KG
+",RWD,"
+		6	","
+		September 17, 2013	",77.8,65,30,78.79,"62.9
+"
+625,Cognoscenti Cabrio,"
+Coupes ","
+Enus ","
+Convertible (Hard-top) ","
+$185,000
+","
+90.10 mph (145.00 km/h)","
+		2	","
+2,100	KG
+",RWD,"
+		5	","
+		September 17, 2013	",77.8,65,20,69.7,"58.12
+"
+626,Prairie,"
+Compacts ","
+Bollokan ","
+Convertible (Hard-top) ","
+$25,000
+","
+83.89 mph (135.00 km/h)","
+		2	","
+1,400	KG
+",FWD,"
+		5	","
+		September 17, 2013	",72.43,55,20,59.09,"51.63
+"
+627,Issi,"
+Compacts ","
+Weeny ","
+Convertible (Soft-top) ","
+$18,000
+","
+83.89 mph (135.00 km/h)","
+		2	","
+1,200	KG
+",FWD,"
+		5	","
+		September 17, 2013	",72.43,57.5,20,62.12,"53.01
+"
+628,Dilettante,"
+Compacts ","
+Karin ","
+Electric Vehicle ","
+$25,000
+","
+80.78 mph (130.00 km/h)","
+		4	","
+1,400	KG
+",FWD,"
+		1	","
+		September 17, 2013	",69.75,25,20,53.33,"42.02
+"
+629,Blista,"
+Compacts ","
+Dinka ","
+Electric Vehicle ","
+$25,000
+","
+83.89 mph (135.00 km/h)","
+		2	","
+1,200	KG
+",FWD,"
+		5	","
+		September 17, 2013	",72.43,57.5,20,62.12,"53.01
+"
+630,Stockade,"
+Commercial ","
+Brute ","
+Armored Vehicle ","
+$2,240,000
+","
+74.56 mph (120.00 km/h)","
+		4	","
+6,500	KG
+",RWD,"
+		5	","
+		September 17, 2013	",64.39,30,8.33,50,"38.18
+"
+631,Pounder,"
+Commercial ","
+MTL ","
+Armored Vehicle ","
+$2,240,000
+","
+74.56 mph (120.00 km/h)","
+		2	","
+5,500	KG
+",RWD,"
+		4	","
+		September 17, 2013	",64.39,35,8.33,50,"39.43
+"
+632,Phantom,"
+Commercial ","
+JoBuilt ","
+Towing Hitch ","
+$2,240,000
+","
+76.43 mph (123.00 km/h)","
+		2	","
+12,000	KG
+",RWD,"
+		5	","
+		September 17, 2013	",66,52.5,26.67,50,"48.79
+"
+633,Packer,"
+Commercial ","
+MTL ","
+Towing Hitch ","
+$2,240,000
+","
+74.56 mph (120.00 km/h)","
+		2	","
+12,000	KG
+",RWD,"
+		5	","
+		September 17, 2013	",64.39,52.5,26.67,46.97,"47.63
+"
+634,Mule,"
+Commercial ","
+Maibatsu ","
+Towing Hitch ","
+$27,000
+","
+62.14 mph (100.00 km/h)","
+		6	","
+5,500	KG
+",RWD,"
+		5	","
+		September 17, 2013	",53.66,27.5,8.33,45.45,"33.74
+"
+635,Hauler,"
+Commercial ","
+JoBuilt ","
+Towing Hitch ","
+$27,000
+","
+71.46 mph (115.00 km/h)","
+		2	","
+9,000	KG
+",RWD,"
+		5	","
+		September 17, 2013	",61.7,40,26.67,46.97,"43.83
+"
+636,Biff,"
+Commercial ","
+HVY ","
+Towing Hitch ","
+$27,000
+","
+68.35 mph (110.00 km/h)","
+		2	","
+9,000	KG
+",RWD,"
+		5	","
+		September 17, 2013	",59.02,30,10,50,"37.26
+"
+637,Benson,"
+Commercial ","
+Vapid ","
+Towing Hitch ","
+$27,000
+","
+80.78 mph (130.00 km/h)","
+		2	","
+7,000	KG
+",AWD,"
+		5	","
+		September 17, 2013	",69.75,40,8.33,53.03,"42.78
+"
+638,Tropic,"
+Boats ","
+Shitzu ","
+Towing Hitch ","
+$22,000
+","
+71.46 mph (115.00 km/h)","
+		4	","
+2,000	KG
+",AWD,"
+		5	","
+		September 17, 2013	",70.99,76.47,8.33,32,"59.82
+"
+639,Suntrap,"
+Boats ","
+Shitzu ","
+Towing Hitch ","
+$25,160
+","
+68.35 mph (110.00 km/h)","
+		4	","
+2,500	KG
+",AWD,"
+		5	","
+		September 17, 2013	",67.9,67.65,8.33,52,"62.52
+"
+640,Submersible,"
+Boats ","
+Shitzu ","
+Submersible ","
+$25,160
+","
+46.60 mph (75.00 km/h)","
+		1	","
+3,000	KG
+",AWD,"
+		5	","
+		September 17, 2013	",46.3,47.06,8.33,0,"31.12
+"
+641,Squalo,"
+Boats ","
+Shitzu ","
+Submersible ","
+$196,621
+","
+68.35 mph (110.00 km/h)","
+		2	","
+3,000	KG
+",AWD,"
+		5	","
+		September 17, 2013	",67.9,67.65,8.33,40,"58.52
+"
+642,Seashark,"
+Boats ","
+Speedophile ","
+Submersible ","
+$16,899
+","
+80.78 mph (130.00 km/h)","
+		2	","
+400	KG
+",AWD,"
+		5	","
+		September 17, 2013	",80.25,73.53,8.33,4,"52.59
+"
+643,Police Predator,"
+BoatsEmergency ","
+Speedophile ","
+Submersible ","
+$16,899
+","
+74.56 mph (120.00 km/h)","
+		4	","
+2,500	KG
+",AWD,"
+		5	","
+		September 17, 2013	",74.07,82.35,8.33,44,"66.81
+"
+644,Marquis,"
+Boats ","
+Dinka ","
+Submersible ","
+$413,990
+","
+18.64 mph (30.00 km/h)","
+		4	","
+12,200	KG
+",AWD,"
+		5	","
+		September 17, 2013	",18.52,14.71,8.33,100,"44.41
+"
+645,Jetmax,"
+Boats ","
+Shitzu ","
+Submersible ","
+$299,000
+","
+83.89 mph (135.00 km/h)","
+		2	","
+2,000	KG
+",AWD,"
+		5	","
+		September 17, 2013	",83.33,100,8.33,26,"69.78
+"
+646,Dinghy (2-seater),"
+Boats ","
+Nagasaki ","
+Submersible ","
+$299,000
+","
+77.67 mph (125.00 km/h)","
+		2	","
+2,000	KG
+",AWD,"
+		5	","
+		September 17, 2013	",77.16,94.12,8.33,34,"68.43
+"
+647,Dinghy,"
+Boats ","
+Nagasaki ","
+Submersible ","
+$166,250
+","
+77.67 mph (125.00 km/h)","
+		4	","
+2,000	KG
+",AWD,"
+		5	","
+		September 17, 2013	",77.16,94.12,8.33,34,"68.43
+"
